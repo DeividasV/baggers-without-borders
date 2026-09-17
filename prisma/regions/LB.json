@@ -1,0 +1,58 @@
+[
+  {
+    "code": "LB-AK",
+    "name": "Akkar",
+    "nativeName": "عكار",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-BH",
+    "name": "Baalbek-Hermel",
+    "nativeName": "بعلبك الهرمل",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-BA",
+    "name": "Beirut",
+    "nativeName": "بيروت",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-BI",
+    "name": "Beqaa",
+    "nativeName": "البقاع",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-JL",
+    "name": "Mount Lebanon",
+    "nativeName": "جبل لبنان",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-NA",
+    "name": "Nabatieh",
+    "nativeName": "النبطية",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-AS",
+    "name": "North",
+    "nativeName": "الشمال",
+    "type": "Governorate",
+    "countryCode": "LB"
+  },
+  {
+    "code": "LB-JA",
+    "name": "South",
+    "nativeName": "الجنوب",
+    "type": "Governorate",
+    "countryCode": "LB"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "ER-AN",
+    "name": "Anseba",
+    "nativeName": "ዓንሰባ",
+    "type": "Region",
+    "countryCode": "ER"
+  },
+  {
+    "code": "ER-DK",
+    "name": "Southern Red Sea",
+    "nativeName": "ደቡባዊ ቀይሕ ባሕሪ",
+    "type": "Region",
+    "countryCode": "ER"
+  },
+  {
+    "code": "ER-DU",
+    "name": "Debub",
+    "nativeName": "ደቡብ",
+    "type": "Region",
+    "countryCode": "ER"
+  },
+  {
+    "code": "ER-GB",
+    "name": "Gash-Barka",
+    "nativeName": "ጋሽ ባርካ",
+    "type": "Region",
+    "countryCode": "ER"
+  },
+  {
+    "code": "ER-MA",
+    "name": "Maekel",
+    "nativeName": "ማእከል",
+    "type": "Region",
+    "countryCode": "ER"
+  },
+  {
+    "code": "ER-SK",
+    "name": "Northern Red Sea",
+    "nativeName": "ሰሜናዊ ቀይሕ ባሕሪ",
+    "type": "Region",
+    "countryCode": "ER"
+  }
+]

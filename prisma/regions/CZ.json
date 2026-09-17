@@ -1,0 +1,100 @@
+[
+  {
+    "code": "CZ-10",
+    "name": "Prague",
+    "nativeName": "Praha",
+    "type": "Capital City",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-20",
+    "name": "Central Bohemian Region",
+    "nativeName": "Středočeský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-31",
+    "name": "South Bohemian Region",
+    "nativeName": "Jihočeský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-32",
+    "name": "Plzeň Region",
+    "nativeName": "Plzeňský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-41",
+    "name": "Karlovy Vary Region",
+    "nativeName": "Karlovarský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-42",
+    "name": "Ústí nad Labem Region",
+    "nativeName": "Ústecký kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-51",
+    "name": "Liberec Region",
+    "nativeName": "Liberecký kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-52",
+    "name": "Hradec Králové Region",
+    "nativeName": "Královéhradecký kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-53",
+    "name": "Pardubice Region",
+    "nativeName": "Pardubický kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-63",
+    "name": "Vysočina Region",
+    "nativeName": "Kraj Vysočina",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-64",
+    "name": "South Moravian Region",
+    "nativeName": "Jihomoravský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-71",
+    "name": "Olomouc Region",
+    "nativeName": "Olomoucký kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-72",
+    "name": "Zlín Region",
+    "nativeName": "Zlínský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "CZ-80",
+    "name": "Moravian-Silesian Region",
+    "nativeName": "Moravskoslezský kraj",
+    "type": "Region",
+    "countryCode": "CZ"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "KW-AH",
+    "name": "Ahmadi",
+    "nativeName": "الأحمدي",
+    "type": "Governorate",
+    "countryCode": "KW"
+  },
+  {
+    "code": "KW-FA",
+    "name": "Farwaniya",
+    "nativeName": "الفروانية",
+    "type": "Governorate",
+    "countryCode": "KW"
+  },
+  {
+    "code": "KW-HA",
+    "name": "Hawalli",
+    "nativeName": "حولي",
+    "type": "Governorate",
+    "countryCode": "KW"
+  },
+  {
+    "code": "KW-JA",
+    "name": "Jahra",
+    "nativeName": "الجهراء",
+    "type": "Governorate",
+    "countryCode": "KW"
+  },
+  {
+    "code": "KW-KU",
+    "name": "Kuwait City",
+    "nativeName": "العاصمة",
+    "type": "Governorate",
+    "countryCode": "KW"
+  },
+  {
+    "code": "KW-MU",
+    "name": "Mubarak Al-Kabeer",
+    "nativeName": "مبارك الكبير",
+    "type": "Governorate",
+    "countryCode": "KW"
+  }
+]

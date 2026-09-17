@@ -1,0 +1,219 @@
+[
+  {
+    "code": "CN-AH",
+    "name": "Anhui",
+    "nativeName": "安徽",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-BJ",
+    "name": "Beijing",
+    "nativeName": "北京",
+    "type": "Municipality",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-CQ",
+    "name": "Chongqing",
+    "nativeName": "重庆",
+    "type": "Municipality",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-FJ",
+    "name": "Fujian",
+    "nativeName": "福建",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-GS",
+    "name": "Gansu",
+    "nativeName": "甘肃",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-GD",
+    "name": "Guangdong",
+    "nativeName": "广东",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-GX",
+    "name": "Guangxi",
+    "nativeName": "广西",
+    "type": "Autonomous Region",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-GZ",
+    "name": "Guizhou",
+    "nativeName": "贵州",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HI",
+    "name": "Hainan",
+    "nativeName": "海南",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HE",
+    "name": "Hebei",
+    "nativeName": "河北",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HL",
+    "name": "Heilongjiang",
+    "nativeName": "黑龙江",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HA",
+    "name": "Henan",
+    "nativeName": "河南",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HB",
+    "name": "Hubei",
+    "nativeName": "湖北",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-HN",
+    "name": "Hunan",
+    "nativeName": "湖南",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-NM",
+    "name": "Inner Mongolia",
+    "nativeName": "内蒙古",
+    "type": "Autonomous Region",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-JS",
+    "name": "Jiangsu",
+    "nativeName": "江苏",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-JX",
+    "name": "Jiangxi",
+    "nativeName": "江西",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-JL",
+    "name": "Jilin",
+    "nativeName": "吉林",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-LN",
+    "name": "Liaoning",
+    "nativeName": "辽宁",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-NX",
+    "name": "Ningxia",
+    "nativeName": "宁夏",
+    "type": "Autonomous Region",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-QH",
+    "name": "Qinghai",
+    "nativeName": "青海",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-SN",
+    "name": "Shaanxi",
+    "nativeName": "陕西",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-SD",
+    "name": "Shandong",
+    "nativeName": "山东",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-SH",
+    "name": "Shanghai",
+    "nativeName": "上海",
+    "type": "Municipality",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-SX",
+    "name": "Shanxi",
+    "nativeName": "山西",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-SC",
+    "name": "Sichuan",
+    "nativeName": "四川",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-TJ",
+    "name": "Tianjin",
+    "nativeName": "天津",
+    "type": "Municipality",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-XJ",
+    "name": "Xinjiang",
+    "nativeName": "新疆",
+    "type": "Autonomous Region",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-XZ",
+    "name": "Tibet",
+    "nativeName": "西藏",
+    "type": "Autonomous Region",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-YN",
+    "name": "Yunnan",
+    "nativeName": "云南",
+    "type": "Province",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CN-ZJ",
+    "name": "Zhejiang",
+    "nativeName": "浙江",
+    "type": "Province",
+    "countryCode": "CN"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "PT-01",
+    "name": "Aveiro",
+    "nativeName": "Aveiro",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-02",
+    "name": "Beja",
+    "nativeName": "Beja",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-03",
+    "name": "Braga",
+    "nativeName": "Braga",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-04",
+    "name": "Bragança",
+    "nativeName": "Bragança",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-05",
+    "name": "Castelo Branco",
+    "nativeName": "Castelo Branco",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-06",
+    "name": "Coimbra",
+    "nativeName": "Coimbra",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-07",
+    "name": "Évora",
+    "nativeName": "Évora",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-08",
+    "name": "Faro",
+    "nativeName": "Faro",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-09",
+    "name": "Guarda",
+    "nativeName": "Guarda",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-10",
+    "name": "Leiria",
+    "nativeName": "Leiria",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-11",
+    "name": "Lisbon",
+    "nativeName": "Lisboa",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-12",
+    "name": "Portalegre",
+    "nativeName": "Portalegre",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-13",
+    "name": "Porto",
+    "nativeName": "Porto",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-14",
+    "name": "Santarém",
+    "nativeName": "Santarém",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-15",
+    "name": "Setúbal",
+    "nativeName": "Setúbal",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-16",
+    "name": "Viana do Castelo",
+    "nativeName": "Viana do Castelo",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-17",
+    "name": "Vila Real",
+    "nativeName": "Vila Real",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-18",
+    "name": "Viseu",
+    "nativeName": "Viseu",
+    "type": "District",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-20",
+    "name": "Azores",
+    "nativeName": "Açores",
+    "type": "Autonomous Region",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PT-30",
+    "name": "Madeira",
+    "nativeName": "Madeira",
+    "type": "Autonomous Region",
+    "countryCode": "PT"
+  }
+]

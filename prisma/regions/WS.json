@@ -1,0 +1,79 @@
+[
+  {
+    "code": "WS-AA",
+    "name": "A'ana",
+    "nativeName": "A'ana",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-AL",
+    "name": "Aiga-i-le-Tai",
+    "nativeName": "Aiga-i-le-Tai",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-AT",
+    "name": "Atua",
+    "nativeName": "Atua",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-FA",
+    "name": "Fa'asaleleaga",
+    "nativeName": "Fa'asaleleaga",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-GE",
+    "name": "Gaga'emauga",
+    "nativeName": "Gaga'emauga",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-GI",
+    "name": "Gagaifomauga",
+    "nativeName": "Gagaifomauga",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-PA",
+    "name": "Palauli",
+    "nativeName": "Palauli",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-SA",
+    "name": "Satupa'itea",
+    "nativeName": "Satupa'itea",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-TU",
+    "name": "Tuamasaga",
+    "nativeName": "Tuamasaga",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-VF",
+    "name": "Va'a-o-Fonoti",
+    "nativeName": "Va'a-o-Fonoti",
+    "type": "District",
+    "countryCode": "WS"
+  },
+  {
+    "code": "WS-VS",
+    "name": "Vaisigano",
+    "nativeName": "Vaisigano",
+    "type": "District",
+    "countryCode": "WS"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "UG-C",
+    "name": "Central",
+    "nativeName": "Central",
+    "type": "Region",
+    "countryCode": "UG"
+  },
+  {
+    "code": "UG-E",
+    "name": "Eastern",
+    "nativeName": "Eastern",
+    "type": "Region",
+    "countryCode": "UG"
+  },
+  {
+    "code": "UG-N",
+    "name": "Northern",
+    "nativeName": "Northern",
+    "type": "Region",
+    "countryCode": "UG"
+  },
+  {
+    "code": "UG-W",
+    "name": "Western",
+    "nativeName": "Western",
+    "type": "Region",
+    "countryCode": "UG"
+  }
+]

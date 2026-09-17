@@ -1,0 +1,72 @@
+[
+  {
+    "code": "HT-AR",
+    "name": "Artibonite",
+    "nativeName": "Latibonit",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-CE",
+    "name": "Centre",
+    "nativeName": "Sant",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-GA",
+    "name": "Grande'Anse",
+    "nativeName": "Grandans",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-NI",
+    "name": "Nippes",
+    "nativeName": "Nip",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-ND",
+    "name": "Nord",
+    "nativeName": "Nò",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-NE",
+    "name": "Nord-Est",
+    "nativeName": "Nòdès",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-NO",
+    "name": "Nord-Ouest",
+    "nativeName": "Nòdwès",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-OU",
+    "name": "Ouest",
+    "nativeName": "Lwès",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-SD",
+    "name": "Sud",
+    "nativeName": "Sid",
+    "type": "Department",
+    "countryCode": "HT"
+  },
+  {
+    "code": "HT-SE",
+    "name": "Sud-Est",
+    "nativeName": "Sidès",
+    "type": "Department",
+    "countryCode": "HT"
+  }
+]

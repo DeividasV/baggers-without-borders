@@ -1,0 +1,79 @@
+[
+  {
+    "code": "OM-DA",
+    "name": "Ad Dakhiliyah",
+    "nativeName": "الداخلية",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-BU",
+    "name": "Al Buraimi",
+    "nativeName": "البريمي",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-WU",
+    "name": "Al Wusta",
+    "nativeName": "الوسطى",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-ZA",
+    "name": "Dhofar",
+    "nativeName": "ظفار",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-MA",
+    "name": "Muscat",
+    "nativeName": "مسقط",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-MU",
+    "name": "Musandam",
+    "nativeName": "مسندم",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-BA",
+    "name": "North Al Batinah",
+    "nativeName": "شمال الباطنة",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-BS",
+    "name": "South Al Batinah",
+    "nativeName": "جنوب الباطنة",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-SH",
+    "name": "North Ash Sharqiyah",
+    "nativeName": "شمال الشرقية",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-SS",
+    "name": "South Ash Sharqiyah",
+    "nativeName": "جنوب الشرقية",
+    "type": "Governorate",
+    "countryCode": "OM"
+  },
+  {
+    "code": "OM-ZU",
+    "name": "Dhahirah",
+    "nativeName": "الظاهرة",
+    "type": "Governorate",
+    "countryCode": "OM"
+  }
+]

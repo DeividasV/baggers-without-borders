@@ -1,0 +1,100 @@
+[
+  {
+    "code": "SN-DB",
+    "name": "Diourbel",
+    "nativeName": "Diourbel",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-DK",
+    "name": "Dakar",
+    "nativeName": "Dakar",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-FK",
+    "name": "Fatick",
+    "nativeName": "Fatick",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-KA",
+    "name": "Kaffrine",
+    "nativeName": "Kaffrine",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-KD",
+    "name": "Kolda",
+    "nativeName": "Kolda",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-KE",
+    "name": "Kédougou",
+    "nativeName": "Kédougou",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-KL",
+    "name": "Kaolack",
+    "nativeName": "Kaolack",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-LG",
+    "name": "Louga",
+    "nativeName": "Louga",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-MT",
+    "name": "Matam",
+    "nativeName": "Matam",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-SE",
+    "name": "Sédhiou",
+    "nativeName": "Sédhiou",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-SL",
+    "name": "Saint-Louis",
+    "nativeName": "Saint-Louis",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-TC",
+    "name": "Tambacounda",
+    "nativeName": "Tambacounda",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-TH",
+    "name": "Thiès",
+    "nativeName": "Thiès",
+    "type": "Region",
+    "countryCode": "SN"
+  },
+  {
+    "code": "SN-ZG",
+    "name": "Ziguinchor",
+    "nativeName": "Ziguinchor",
+    "type": "Region",
+    "countryCode": "SN"
+  }
+]

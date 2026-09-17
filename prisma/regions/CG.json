@@ -1,0 +1,86 @@
+[
+  {
+    "code": "CG-11",
+    "name": "Bouenza",
+    "nativeName": "Bouenza",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-12",
+    "name": "Pool",
+    "nativeName": "Pool",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-13",
+    "name": "Sangha",
+    "nativeName": "Sangha",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-14",
+    "name": "Plateaux",
+    "nativeName": "Plateaux",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-15",
+    "name": "Cuvette-Ouest",
+    "nativeName": "Cuvette-Ouest",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-2",
+    "name": "Lékoumou",
+    "nativeName": "Lékoumou",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-5",
+    "name": "Kouilou",
+    "nativeName": "Kouilou",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-7",
+    "name": "Likouala",
+    "nativeName": "Likouala",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-8",
+    "name": "Cuvette",
+    "nativeName": "Cuvette",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-9",
+    "name": "Niari",
+    "nativeName": "Niari",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-BZV",
+    "name": "Brazzaville",
+    "nativeName": "Brazzaville",
+    "type": "Department",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CG-16",
+    "name": "Pointe-Noire",
+    "nativeName": "Pointe-Noire",
+    "type": "Department",
+    "countryCode": "CG"
+  }
+]

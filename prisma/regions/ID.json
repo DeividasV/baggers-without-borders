@@ -1,0 +1,240 @@
+[
+  {
+    "code": "ID-AC",
+    "name": "Aceh",
+    "nativeName": "Acèh",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-BA",
+    "name": "Bali",
+    "nativeName": "Bali",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-BB",
+    "name": "Bangka Belitung Islands",
+    "nativeName": "Kepulauan Bangka Belitung",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-BT",
+    "name": "Banten",
+    "nativeName": "Banten",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-BE",
+    "name": "Bengkulu",
+    "nativeName": "Bengkulu",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-GO",
+    "name": "Gorontalo",
+    "nativeName": "Gorontalo",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-JK",
+    "name": "Jakarta",
+    "nativeName": "Jakarta",
+    "type": "Special Capital Region",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-JA",
+    "name": "Jambi",
+    "nativeName": "Jambi",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-JB",
+    "name": "West Java",
+    "nativeName": "Jawa Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-JT",
+    "name": "Central Java",
+    "nativeName": "Jawa Tengah",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-JI",
+    "name": "East Java",
+    "nativeName": "Jawa Timur",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-KB",
+    "name": "West Kalimantan",
+    "nativeName": "Kalimantan Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-KS",
+    "name": "South Kalimantan",
+    "nativeName": "Kalimantan Selatan",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-KT",
+    "name": "Central Kalimantan",
+    "nativeName": "Kalimantan Tengah",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-KI",
+    "name": "East Kalimantan",
+    "nativeName": "Kalimantan Timur",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-KU",
+    "name": "North Kalimantan",
+    "nativeName": "Kalimantan Utara",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-LA",
+    "name": "Lampung",
+    "nativeName": "Lampung",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-MA",
+    "name": "Maluku",
+    "nativeName": "Maluku",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-MU",
+    "name": "North Maluku",
+    "nativeName": "Maluku Utara",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-NB",
+    "name": "West Nusa Tenggara",
+    "nativeName": "Nusa Tenggara Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-NT",
+    "name": "East Nusa Tenggara",
+    "nativeName": "Nusa Tenggara Timur",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-PA",
+    "name": "Papua",
+    "nativeName": "Papua",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-PB",
+    "name": "West Papua",
+    "nativeName": "Papua Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-RI",
+    "name": "Riau",
+    "nativeName": "Riau",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SR",
+    "name": "Riau Islands",
+    "nativeName": "Kepulauan Riau",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SN",
+    "name": "South Sulawesi",
+    "nativeName": "Sulawesi Selatan",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-ST",
+    "name": "Central Sulawesi",
+    "nativeName": "Sulawesi Tengah",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SG",
+    "name": "Southeast Sulawesi",
+    "nativeName": "Sulawesi Tenggara",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SA",
+    "name": "North Sulawesi",
+    "nativeName": "Sulawesi Utara",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SB",
+    "name": "West Sulawesi",
+    "nativeName": "Sulawesi Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SS",
+    "name": "South Sumatra",
+    "nativeName": "Sumatera Selatan",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SU",
+    "name": "North Sumatra",
+    "nativeName": "Sumatera Utara",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-SB",
+    "name": "West Sumatra",
+    "nativeName": "Sumatera Barat",
+    "type": "Province",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ID-YO",
+    "name": "Yogyakarta",
+    "nativeName": "Daerah Istimewa Yogyakarta",
+    "type": "Special Region",
+    "countryCode": "ID"
+  }
+]

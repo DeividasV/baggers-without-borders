@@ -1,0 +1,51 @@
+[
+  {
+    "code": "BY-BR",
+    "name": "Brest Region",
+    "nativeName": "Брэсцкая вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-HO",
+    "name": "Gomel Region",
+    "nativeName": "Гомельская вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-HR",
+    "name": "Grodno Region",
+    "nativeName": "Гродзенская вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-MI",
+    "name": "Minsk Region",
+    "nativeName": "Мінская вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-HM",
+    "name": "Minsk",
+    "nativeName": "Мінск",
+    "type": "City",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-MA",
+    "name": "Mogilev Region",
+    "nativeName": "Магілёўская вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  },
+  {
+    "code": "BY-VI",
+    "name": "Vitebsk Region",
+    "nativeName": "Віцебская вобласць",
+    "type": "Region",
+    "countryCode": "BY"
+  }
+]

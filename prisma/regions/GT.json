@@ -1,0 +1,156 @@
+[
+  {
+    "code": "GT-AV",
+    "name": "Alta Verapaz Department",
+    "nativeName": "Departamento de Alta Verapaz",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-BV",
+    "name": "Baja Verapaz Department",
+    "nativeName": "Departamento de Baja Verapaz",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-CM",
+    "name": "Chimaltenango Department",
+    "nativeName": "Departamento de Chimaltenango",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-CQ",
+    "name": "Chiquimula Department",
+    "nativeName": "Departamento de Chiquimula",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-PR",
+    "name": "El Progreso Department",
+    "nativeName": "Departamento de El Progreso",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-ES",
+    "name": "Escuintla Department",
+    "nativeName": "Departamento de Escuintla",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-GU",
+    "name": "Guatemala Department",
+    "nativeName": "Departamento de Guatemala",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-HU",
+    "name": "Huehuetenango Department",
+    "nativeName": "Departamento de Huehuetenango",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-IZ",
+    "name": "Izabal Department",
+    "nativeName": "Departamento de Izabal",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-JA",
+    "name": "Jalapa Department",
+    "nativeName": "Departamento de Jalapa",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-JU",
+    "name": "Jutiapa Department",
+    "nativeName": "Departamento de Jutiapa",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-PE",
+    "name": "Petén Department",
+    "nativeName": "Departamento de Petén",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-QZ",
+    "name": "Quetzaltenango Department",
+    "nativeName": "Departamento de Quetzaltenango",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-QC",
+    "name": "Quiché Department",
+    "nativeName": "Departamento de Quiché",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-RE",
+    "name": "Retalhuleu Department",
+    "nativeName": "Departamento de Retalhuleu",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-SA",
+    "name": "Sacatepéquez Department",
+    "nativeName": "Departamento de Sacatepéquez",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-SM",
+    "name": "San Marcos Department",
+    "nativeName": "Departamento de San Marcos",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-SR",
+    "name": "Santa Rosa Department",
+    "nativeName": "Departamento de Santa Rosa",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-SO",
+    "name": "Sololá Department",
+    "nativeName": "Departamento de Sololá",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-SU",
+    "name": "Suchitepéquez Department",
+    "nativeName": "Departamento de Suchitepéquez",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-TO",
+    "name": "Totonicapán Department",
+    "nativeName": "Departamento de Totonicapán",
+    "type": "Department",
+    "countryCode": "GT"
+  },
+  {
+    "code": "GT-ZA",
+    "name": "Zacapa Department",
+    "nativeName": "Departamento de Zacapa",
+    "type": "Department",
+    "countryCode": "GT"
+  }
+]

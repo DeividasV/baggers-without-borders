@@ -1,0 +1,44 @@
+[
+  {
+    "code": "DJ-AR",
+    "name": "Arta",
+    "nativeName": "Arta",
+    "type": "Region",
+    "countryCode": "DJ"
+  },
+  {
+    "code": "DJ-AS",
+    "name": "Ali Sabieh",
+    "nativeName": "Ali Sabieh",
+    "type": "Region",
+    "countryCode": "DJ"
+  },
+  {
+    "code": "DJ-DI",
+    "name": "Dikhil",
+    "nativeName": "Dikhil",
+    "type": "Region",
+    "countryCode": "DJ"
+  },
+  {
+    "code": "DJ-DJ",
+    "name": "Djibouti",
+    "nativeName": "Djibouti",
+    "type": "Region",
+    "countryCode": "DJ"
+  },
+  {
+    "code": "DJ-OB",
+    "name": "Obock",
+    "nativeName": "Obock",
+    "type": "Region",
+    "countryCode": "DJ"
+  },
+  {
+    "code": "DJ-TA",
+    "name": "Tadjourah",
+    "nativeName": "Tadjourah",
+    "type": "Region",
+    "countryCode": "DJ"
+  }
+]

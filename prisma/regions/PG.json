@@ -1,0 +1,156 @@
+[
+  {
+    "code": "PG-NCD",
+    "name": "National Capital District",
+    "nativeName": "National Capital District",
+    "type": "District",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-CPM",
+    "name": "Central Province",
+    "nativeName": "Central",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-CPK",
+    "name": "Chimbu Province",
+    "nativeName": "Chimbu",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-EBR",
+    "name": "East New Britain Province",
+    "nativeName": "East New Britain",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-ESW",
+    "name": "East Sepik Province",
+    "nativeName": "East Sepik",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-EHG",
+    "name": "Eastern Highlands Province",
+    "nativeName": "Eastern Highlands",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-EPW",
+    "name": "Enga Province",
+    "nativeName": "Enga",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-GPK",
+    "name": "Gulf Province",
+    "nativeName": "Gulf",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-HLA",
+    "name": "Hela Province",
+    "nativeName": "Hela",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-JWK",
+    "name": "Jiwaka Province",
+    "nativeName": "Jiwaka",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-MPM",
+    "name": "Madang Province",
+    "nativeName": "Madang",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-MRL",
+    "name": "Manus Province",
+    "nativeName": "Manus",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-MBA",
+    "name": "Milne Bay Province",
+    "nativeName": "Milne Bay",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-MPL",
+    "name": "Morobe Province",
+    "nativeName": "Morobe",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-NIK",
+    "name": "New Ireland Province",
+    "nativeName": "New Ireland",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-NPP",
+    "name": "Northern Province",
+    "nativeName": "Northern",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-NSB",
+    "name": "Bougainville",
+    "nativeName": "Bougainville",
+    "type": "Autonomous Region",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-SAN",
+    "name": "Sandaun Province",
+    "nativeName": "Sandaun",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-SHM",
+    "name": "Southern Highlands Province",
+    "nativeName": "Southern Highlands",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-WBK",
+    "name": "West New Britain Province",
+    "nativeName": "West New Britain",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-WPD",
+    "name": "Western Province",
+    "nativeName": "Western",
+    "type": "Province",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PG-WHM",
+    "name": "Western Highlands Province",
+    "nativeName": "Western Highlands",
+    "type": "Province",
+    "countryCode": "PG"
+  }
+]

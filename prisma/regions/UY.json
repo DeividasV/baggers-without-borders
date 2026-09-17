@@ -1,0 +1,135 @@
+[
+  {
+    "code": "UY-AR",
+    "name": "Artigas Department",
+    "nativeName": "Departamento de Artigas",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-CA",
+    "name": "Canelones Department",
+    "nativeName": "Departamento de Canelones",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-CL",
+    "name": "Cerro Largo Department",
+    "nativeName": "Departamento de Cerro Largo",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-CO",
+    "name": "Colonia Department",
+    "nativeName": "Departamento de Colonia",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-DU",
+    "name": "Durazno Department",
+    "nativeName": "Departamento de Durazno",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-FS",
+    "name": "Flores Department",
+    "nativeName": "Departamento de Flores",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-FD",
+    "name": "Florida Department",
+    "nativeName": "Departamento de Florida",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-LA",
+    "name": "Lavalleja Department",
+    "nativeName": "Departamento de Lavalleja",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-MA",
+    "name": "Maldonado Department",
+    "nativeName": "Departamento de Maldonado",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-MO",
+    "name": "Montevideo Department",
+    "nativeName": "Departamento de Montevideo",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-PA",
+    "name": "Paysandú Department",
+    "nativeName": "Departamento de Paysandú",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-RN",
+    "name": "Río Negro Department",
+    "nativeName": "Departamento de Río Negro",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-RV",
+    "name": "Rivera Department",
+    "nativeName": "Departamento de Rivera",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-RO",
+    "name": "Rocha Department",
+    "nativeName": "Departamento de Rocha",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-SA",
+    "name": "Salto Department",
+    "nativeName": "Departamento de Salto",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-SJ",
+    "name": "San José Department",
+    "nativeName": "Departamento de San José",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-SO",
+    "name": "Soriano Department",
+    "nativeName": "Departamento de Soriano",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-TA",
+    "name": "Tacuarembó Department",
+    "nativeName": "Departamento de Tacuarembó",
+    "type": "Department",
+    "countryCode": "UY"
+  },
+  {
+    "code": "UY-TT",
+    "name": "Treinta y Tres Department",
+    "nativeName": "Departamento de Treinta y Tres",
+    "type": "Department",
+    "countryCode": "UY"
+  }
+]

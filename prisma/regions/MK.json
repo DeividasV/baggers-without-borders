@@ -1,0 +1,58 @@
+[
+  {
+    "code": "MK-01",
+    "name": "Skopje",
+    "nativeName": "Скопје",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-02",
+    "name": "Pelagonia",
+    "nativeName": "Пелагониски",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-03",
+    "name": "Polog",
+    "nativeName": "Полошки",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-04",
+    "name": "Eastern",
+    "nativeName": "Источен",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-05",
+    "name": "Southwestern",
+    "nativeName": "Југозападен",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-06",
+    "name": "Southeastern",
+    "nativeName": "Југоисточен",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-07",
+    "name": "Vardar",
+    "nativeName": "Вардарски",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  },
+  {
+    "code": "MK-08",
+    "name": "Northeastern",
+    "nativeName": "Североисточен",
+    "type": "Statistical Region",
+    "countryCode": "MK"
+  }
+]

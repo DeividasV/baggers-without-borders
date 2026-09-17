@@ -1,0 +1,72 @@
+[
+  {
+    "code": "ZM-01",
+    "name": "Western",
+    "nativeName": "Western",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-02",
+    "name": "Central",
+    "nativeName": "Central",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-03",
+    "name": "Eastern",
+    "nativeName": "Eastern",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-04",
+    "name": "Luapula",
+    "nativeName": "Luapula",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-05",
+    "name": "Northern",
+    "nativeName": "Northern",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-06",
+    "name": "North-Western",
+    "nativeName": "North-Western",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-07",
+    "name": "Southern",
+    "nativeName": "Southern",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-08",
+    "name": "Copperbelt",
+    "nativeName": "Copperbelt",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-09",
+    "name": "Lusaka",
+    "nativeName": "Lusaka",
+    "type": "Province",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "ZM-10",
+    "name": "Muchinga",
+    "nativeName": "Muchinga",
+    "type": "Province",
+    "countryCode": "ZM"
+  }
+]

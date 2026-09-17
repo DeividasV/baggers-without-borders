@@ -1,0 +1,114 @@
+[
+  {
+    "code": "CL-AI",
+    "name": "Aysén Region",
+    "nativeName": "Región de Aysén",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-AN",
+    "name": "Antofagasta Region",
+    "nativeName": "Región de Antofagasta",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-AP",
+    "name": "Arica y Parinacota Region",
+    "nativeName": "Región de Arica y Parinacota",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-AT",
+    "name": "Atacama Region",
+    "nativeName": "Región de Atacama",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-BI",
+    "name": "Biobío Region",
+    "nativeName": "Región del Biobío",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-CO",
+    "name": "Coquimbo Region",
+    "nativeName": "Región de Coquimbo",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-AR",
+    "name": "La Araucanía Region",
+    "nativeName": "Región de La Araucanía",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-LI",
+    "name": "Libertador General Bernardo O'Higgins Region",
+    "nativeName": "Región del Libertador General Bernardo O'Higgins",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-LL",
+    "name": "Los Lagos Region",
+    "nativeName": "Región de Los Lagos",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-LR",
+    "name": "Los Ríos Region",
+    "nativeName": "Región de Los Ríos",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-MA",
+    "name": "Magallanes Region",
+    "nativeName": "Región de Magallanes",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-ML",
+    "name": "Maule Region",
+    "nativeName": "Región del Maule",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-NB",
+    "name": "Ñuble Region",
+    "nativeName": "Región de Ñuble",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-RM",
+    "name": "Santiago Metropolitan Region",
+    "nativeName": "Región Metropolitana de Santiago",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-TA",
+    "name": "Tarapacá Region",
+    "nativeName": "Región de Tarapacá",
+    "type": "Region",
+    "countryCode": "CL"
+  },
+  {
+    "code": "CL-VS",
+    "name": "Valparaíso Region",
+    "nativeName": "Región de Valparaíso",
+    "type": "Region",
+    "countryCode": "CL"
+  }
+]

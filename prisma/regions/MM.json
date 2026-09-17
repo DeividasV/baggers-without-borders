@@ -1,0 +1,107 @@
+[
+  {
+    "code": "MM-01",
+    "name": "Sagaing",
+    "nativeName": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-02",
+    "name": "Bago",
+    "nativeName": "ပဲခူးတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-03",
+    "name": "Magway",
+    "nativeName": "မကွေးတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-04",
+    "name": "Mandalay",
+    "nativeName": "မန္တလေးတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-05",
+    "name": "Tanintharyi",
+    "nativeName": "တနင်္သာရီတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-06",
+    "name": "Yangon",
+    "nativeName": "ရန်ကုန်တိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-07",
+    "name": "Ayeyarwady",
+    "nativeName": "ဧရာဝတီတိုင်းဒေသကြီး",
+    "type": "Region",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-11",
+    "name": "Kachin",
+    "nativeName": "ကချင်ပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-12",
+    "name": "Kayah",
+    "nativeName": "ကယားပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-13",
+    "name": "Kayin",
+    "nativeName": "ကရင်ပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-14",
+    "name": "Chin",
+    "nativeName": "ချင်းပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-15",
+    "name": "Mon",
+    "nativeName": "မွန်ပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-16",
+    "name": "Rakhine",
+    "nativeName": "ရခိုင်ပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-17",
+    "name": "Shan",
+    "nativeName": "ရှမ်းပြည်နယ်",
+    "type": "State",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MM-18",
+    "name": "Naypyidaw",
+    "nativeName": "နေပြည်တော်",
+    "type": "Union Territory",
+    "countryCode": "MM"
+  }
+]

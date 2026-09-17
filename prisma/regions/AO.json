@@ -1,0 +1,128 @@
+[
+  {
+    "code": "AO-BGO",
+    "name": "Bengo",
+    "nativeName": "Bengo",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-BGU",
+    "name": "Benguela",
+    "nativeName": "Benguela",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-BIE",
+    "name": "Bié",
+    "nativeName": "Bié",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-CAB",
+    "name": "Cabinda",
+    "nativeName": "Cabinda",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-CCU",
+    "name": "Cuando Cubango",
+    "nativeName": "Cuando Cubango",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-CNO",
+    "name": "Cuanza Norte",
+    "nativeName": "Cuanza Norte",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-CUS",
+    "name": "Cuanza Sul",
+    "nativeName": "Cuanza Sul",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-CNN",
+    "name": "Cunene",
+    "nativeName": "Cunene",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-HUA",
+    "name": "Huambo",
+    "nativeName": "Huambo",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-HUI",
+    "name": "Huíla",
+    "nativeName": "Huíla",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-LUA",
+    "name": "Luanda",
+    "nativeName": "Luanda",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-LNO",
+    "name": "Lunda Norte",
+    "nativeName": "Lunda Norte",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-LSU",
+    "name": "Lunda Sul",
+    "nativeName": "Lunda Sul",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-MAL",
+    "name": "Malanje",
+    "nativeName": "Malanje",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-MOX",
+    "name": "Moxico",
+    "nativeName": "Moxico",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-NAM",
+    "name": "Namibe",
+    "nativeName": "Namibe",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-UIG",
+    "name": "Uíge",
+    "nativeName": "Uíge",
+    "type": "Province",
+    "countryCode": "AO"
+  },
+  {
+    "code": "AO-ZAI",
+    "name": "Zaire",
+    "nativeName": "Zaire",
+    "type": "Province",
+    "countryCode": "AO"
+  }
+]

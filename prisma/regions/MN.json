@@ -1,0 +1,156 @@
+[
+  {
+    "code": "MN-073",
+    "name": "Arkhangai",
+    "nativeName": "Архангай",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-069",
+    "name": "Bayankhongor",
+    "nativeName": "Баянхонгор",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-071",
+    "name": "Bayan-Ölgii",
+    "nativeName": "Баян-Өлгий",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-067",
+    "name": "Bulgan",
+    "nativeName": "Булган",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-037",
+    "name": "Darkhan-Uul",
+    "nativeName": "Дархан-Уул",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-061",
+    "name": "Dornod",
+    "nativeName": "Дорнод",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-063",
+    "name": "Dornogovi",
+    "nativeName": "Дорноговь",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-059",
+    "name": "Dundgovi",
+    "nativeName": "Дундговь",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-057",
+    "name": "Zavkhan",
+    "nativeName": "Завхан",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-065",
+    "name": "Govi-Altai",
+    "nativeName": "Говь-Алтай",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-064",
+    "name": "Govisümber",
+    "nativeName": "Говьсүмбэр",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-039",
+    "name": "Khentii",
+    "nativeName": "Хэнтий",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-043",
+    "name": "Khovd",
+    "nativeName": "Ховд",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-041",
+    "name": "Khövsgöl",
+    "nativeName": "Хөвсгөл",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-053",
+    "name": "Ömnögovi",
+    "nativeName": "Өмнөговь",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-035",
+    "name": "Orkhon",
+    "nativeName": "Орхон",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-055",
+    "name": "Övörkhangai",
+    "nativeName": "Өвөрхангай",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-049",
+    "name": "Selenge",
+    "nativeName": "Сэлэнгэ",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-051",
+    "name": "Sükhbaatar",
+    "nativeName": "Сүхбаатар",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-047",
+    "name": "Töv",
+    "nativeName": "Төв",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-046",
+    "name": "Uvs",
+    "nativeName": "Увс",
+    "type": "Province",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MN-1",
+    "name": "Ulaanbaatar",
+    "nativeName": "Улаанбаатар",
+    "type": "Municipality",
+    "countryCode": "MN"
+  }
+]

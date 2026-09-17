@@ -1,0 +1,44 @@
+[
+  {
+    "code": "GM-B",
+    "name": "Banjul",
+    "nativeName": "Banjul",
+    "type": "City",
+    "countryCode": "GM"
+  },
+  {
+    "code": "GM-L",
+    "name": "Lower River",
+    "nativeName": "Lower River",
+    "type": "Division",
+    "countryCode": "GM"
+  },
+  {
+    "code": "GM-M",
+    "name": "Central River",
+    "nativeName": "Central River",
+    "type": "Division",
+    "countryCode": "GM"
+  },
+  {
+    "code": "GM-N",
+    "name": "North Bank",
+    "nativeName": "North Bank",
+    "type": "Division",
+    "countryCode": "GM"
+  },
+  {
+    "code": "GM-U",
+    "name": "Upper River",
+    "nativeName": "Upper River",
+    "type": "Division",
+    "countryCode": "GM"
+  },
+  {
+    "code": "GM-W",
+    "name": "Western",
+    "nativeName": "Western",
+    "type": "Division",
+    "countryCode": "GM"
+  }
+]

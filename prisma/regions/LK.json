@@ -1,0 +1,65 @@
+[
+  {
+    "code": "LK-1",
+    "name": "Western Province",
+    "nativeName": "බස්නාහිර පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-2",
+    "name": "Central Province",
+    "nativeName": "මධ්‍යම පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-3",
+    "name": "Southern Province",
+    "nativeName": "දකුණු පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-4",
+    "name": "Northern Province",
+    "nativeName": "வடக்கு மாகாணம்",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-5",
+    "name": "Eastern Province",
+    "nativeName": "கிழக்கு மாகாணம்",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-6",
+    "name": "North Western Province",
+    "nativeName": "වයඹ පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-7",
+    "name": "North Central Province",
+    "nativeName": "උතුරු මැද පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-8",
+    "name": "Uva Province",
+    "nativeName": "ඌව පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  },
+  {
+    "code": "LK-9",
+    "name": "Sabaragamuwa Province",
+    "nativeName": "සබරගමුව පළාත",
+    "type": "Province",
+    "countryCode": "LK"
+  }
+]

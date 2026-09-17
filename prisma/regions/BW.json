@@ -1,0 +1,114 @@
+[
+  {
+    "code": "BW-CE",
+    "name": "Central",
+    "nativeName": "Central",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-CH",
+    "name": "Chobe",
+    "nativeName": "Chobe",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-FR",
+    "name": "Francistown",
+    "nativeName": "Francistown",
+    "type": "City",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-GA",
+    "name": "Gaborone",
+    "nativeName": "Gaborone",
+    "type": "City",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-GH",
+    "name": "Ghanzi",
+    "nativeName": "Ghanzi",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-JW",
+    "name": "Jwaneng",
+    "nativeName": "Jwaneng",
+    "type": "Town",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-KG",
+    "name": "Kgalagadi",
+    "nativeName": "Kgalagadi",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-KL",
+    "name": "Kgatleng",
+    "nativeName": "Kgatleng",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-KW",
+    "name": "Kweneng",
+    "nativeName": "Kweneng",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-LO",
+    "name": "Lobatse",
+    "nativeName": "Lobatse",
+    "type": "Town",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-NE",
+    "name": "North East",
+    "nativeName": "North East",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-NW",
+    "name": "North West",
+    "nativeName": "North West",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-SE",
+    "name": "South East",
+    "nativeName": "South East",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-SO",
+    "name": "Southern",
+    "nativeName": "Southern",
+    "type": "District",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-SP",
+    "name": "Selibe Phikwe",
+    "nativeName": "Selibe Phikwe",
+    "type": "Town",
+    "countryCode": "BW"
+  },
+  {
+    "code": "BW-ST",
+    "name": "Sowa Town",
+    "nativeName": "Sowa Town",
+    "type": "Town",
+    "countryCode": "BW"
+  }
+]

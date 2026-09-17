@@ -1,0 +1,79 @@
+[
+  {
+    "code": "NO-03",
+    "name": "Oslo",
+    "nativeName": "Oslo",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-11",
+    "name": "Rogaland",
+    "nativeName": "Rogaland",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-15",
+    "name": "Møre og Romsdal",
+    "nativeName": "Møre og Romsdal",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-18",
+    "name": "Nordland",
+    "nativeName": "Nordland",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-30",
+    "name": "Viken",
+    "nativeName": "Viken",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-34",
+    "name": "Innlandet",
+    "nativeName": "Innlandet",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-38",
+    "name": "Vestfold og Telemark",
+    "nativeName": "Vestfold og Telemark",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-42",
+    "name": "Agder",
+    "nativeName": "Agder",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-46",
+    "name": "Vestland",
+    "nativeName": "Vestland",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-50",
+    "name": "Trøndelag",
+    "nativeName": "Trøndelag",
+    "type": "County",
+    "countryCode": "NO"
+  },
+  {
+    "code": "NO-54",
+    "name": "Troms og Finnmark",
+    "nativeName": "Troms og Finnmark",
+    "type": "County",
+    "countryCode": "NO"
+  }
+]

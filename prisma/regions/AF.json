@@ -1,0 +1,240 @@
+[
+  {
+    "code": "AF-BDS",
+    "name": "Badakhshan",
+    "nativeName": "بدخشان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-BDG",
+    "name": "Badghis",
+    "nativeName": "بادغیس",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-BGL",
+    "name": "Baghlan",
+    "nativeName": "بغلان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-BAL",
+    "name": "Balkh",
+    "nativeName": "بلخ",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-BAM",
+    "name": "Bamyan",
+    "nativeName": "بامیان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-DAY",
+    "name": "Daykundi",
+    "nativeName": "دایکندی",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-FRA",
+    "name": "Farah",
+    "nativeName": "فراه",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-FYB",
+    "name": "Faryab",
+    "nativeName": "فاریاب",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-GHA",
+    "name": "Ghazni",
+    "nativeName": "غزنی",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-GHO",
+    "name": "Ghor",
+    "nativeName": "غور",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-HEL",
+    "name": "Helmand",
+    "nativeName": "هلمند",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-HER",
+    "name": "Herat",
+    "nativeName": "هرات",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-JOW",
+    "name": "Jowzjan",
+    "nativeName": "جوزجان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KAB",
+    "name": "Kabul",
+    "nativeName": "کابل",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KAN",
+    "name": "Kandahar",
+    "nativeName": "کندهار",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KAP",
+    "name": "Kapisa",
+    "nativeName": "کاپیسا",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KHO",
+    "name": "Khost",
+    "nativeName": "خوست",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KNR",
+    "name": "Kunar",
+    "nativeName": "کنر",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-KDZ",
+    "name": "Kunduz",
+    "nativeName": "کندز",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-LAG",
+    "name": "Laghman",
+    "nativeName": "لغمان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-LOG",
+    "name": "Logar",
+    "nativeName": "لوگر",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-NAN",
+    "name": "Nangarhar",
+    "nativeName": "ننگرهار",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-NIM",
+    "name": "Nimroz",
+    "nativeName": "نیمروز",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-NUR",
+    "name": "Nuristan",
+    "nativeName": "نورستان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-PAN",
+    "name": "Panjshir",
+    "nativeName": "پنجشیر",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-PAR",
+    "name": "Parwan",
+    "nativeName": "پروان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-PIA",
+    "name": "Paktia",
+    "nativeName": "پکتیا",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-PKA",
+    "name": "Paktika",
+    "nativeName": "پکتیکا",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-SAM",
+    "name": "Samangan",
+    "nativeName": "سمنگان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-SAR",
+    "name": "Sar-e Pol",
+    "nativeName": "سرپل",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-TAK",
+    "name": "Takhar",
+    "nativeName": "تخار",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-URU",
+    "name": "Urozgan",
+    "nativeName": "ارزگان",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-WAR",
+    "name": "Wardak",
+    "nativeName": "وردک",
+    "type": "Province",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AF-ZAB",
+    "name": "Zabul",
+    "nativeName": "زابل",
+    "type": "Province",
+    "countryCode": "AF"
+  }
+]

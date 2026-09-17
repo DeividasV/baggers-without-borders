@@ -1,0 +1,107 @@
+[
+  {
+    "code": "EE-37",
+    "name": "Harju County",
+    "nativeName": "Harju maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-39",
+    "name": "Hiiu County",
+    "nativeName": "Hiiu maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-44",
+    "name": "Ida-Viru County",
+    "nativeName": "Ida-Viru maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-49",
+    "name": "Jõgeva County",
+    "nativeName": "Jõgeva maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-51",
+    "name": "Järva County",
+    "nativeName": "Järva maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-57",
+    "name": "Lääne County",
+    "nativeName": "Lääne maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-59",
+    "name": "Lääne-Viru County",
+    "nativeName": "Lääne-Viru maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-65",
+    "name": "Pärnu County",
+    "nativeName": "Pärnu maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-67",
+    "name": "Põlva County",
+    "nativeName": "Põlva maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-70",
+    "name": "Rapla County",
+    "nativeName": "Rapla maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-74",
+    "name": "Saare County",
+    "nativeName": "Saare maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-78",
+    "name": "Tartu County",
+    "nativeName": "Tartu maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-82",
+    "name": "Valga County",
+    "nativeName": "Valga maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-84",
+    "name": "Viljandi County",
+    "nativeName": "Viljandi maakond",
+    "type": "County",
+    "countryCode": "EE"
+  },
+  {
+    "code": "EE-86",
+    "name": "Võru County",
+    "nativeName": "Võru maakond",
+    "type": "County",
+    "countryCode": "EE"
+  }
+]

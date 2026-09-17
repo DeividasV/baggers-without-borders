@@ -1,0 +1,121 @@
+[
+  {
+    "code": "NI-AN",
+    "name": "Atlántico Norte",
+    "nativeName": "Región Autónoma de la Costa Caribe Norte",
+    "type": "Autonomous Region",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-AS",
+    "name": "Atlántico Sur",
+    "nativeName": "Región Autónoma de la Costa Caribe Sur",
+    "type": "Autonomous Region",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-BO",
+    "name": "Boaco",
+    "nativeName": "Departamento de Boaco",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-CA",
+    "name": "Carazo",
+    "nativeName": "Departamento de Carazo",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-CI",
+    "name": "Chinandega",
+    "nativeName": "Departamento de Chinandega",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-CO",
+    "name": "Chontales",
+    "nativeName": "Departamento de Chontales",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-ES",
+    "name": "Estelí",
+    "nativeName": "Departamento de Estelí",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-GR",
+    "name": "Granada",
+    "nativeName": "Departamento de Granada",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-JI",
+    "name": "Jinotega",
+    "nativeName": "Departamento de Jinotega",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-LE",
+    "name": "León",
+    "nativeName": "Departamento de León",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-MD",
+    "name": "Madriz",
+    "nativeName": "Departamento de Madriz",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-MN",
+    "name": "Managua",
+    "nativeName": "Departamento de Managua",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-MS",
+    "name": "Masaya",
+    "nativeName": "Departamento de Masaya",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-MT",
+    "name": "Matagalpa",
+    "nativeName": "Departamento de Matagalpa",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-NS",
+    "name": "Nueva Segovia",
+    "nativeName": "Departamento de Nueva Segovia",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-RI",
+    "name": "Rivas",
+    "nativeName": "Departamento de Rivas",
+    "type": "Department",
+    "countryCode": "NI"
+  },
+  {
+    "code": "NI-SJ",
+    "name": "Río San Juan",
+    "nativeName": "Departamento de Río San Juan",
+    "type": "Department",
+    "countryCode": "NI"
+  }
+]

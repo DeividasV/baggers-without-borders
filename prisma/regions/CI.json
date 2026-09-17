@@ -1,0 +1,100 @@
+[
+  {
+    "code": "CI-AB",
+    "name": "Abidjan",
+    "nativeName": "Abidjan",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-BS",
+    "name": "Bas-Sassandra",
+    "nativeName": "Bas-Sassandra",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-CM",
+    "name": "Comoé",
+    "nativeName": "Comoé",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-DN",
+    "name": "Denguélé",
+    "nativeName": "Denguélé",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-GD",
+    "name": "Gôh-Djiboua",
+    "nativeName": "Gôh-Djiboua",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-LC",
+    "name": "Lacs",
+    "nativeName": "Lacs",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-LG",
+    "name": "Lagunes",
+    "nativeName": "Lagunes",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-MG",
+    "name": "Montagnes",
+    "nativeName": "Montagnes",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-SM",
+    "name": "Sassandra-Marahoué",
+    "nativeName": "Sassandra-Marahoué",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-SV",
+    "name": "Savanes",
+    "nativeName": "Savanes",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-VB",
+    "name": "Vallée du Bandama",
+    "nativeName": "Vallée du Bandama",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-WR",
+    "name": "Woroba",
+    "nativeName": "Woroba",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-YM",
+    "name": "Yamoussoukro",
+    "nativeName": "Yamoussoukro",
+    "type": "District",
+    "countryCode": "CI"
+  },
+  {
+    "code": "CI-ZZ",
+    "name": "Zanzan",
+    "nativeName": "Zanzan",
+    "type": "District",
+    "countryCode": "CI"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "code": "PY-16",
+    "name": "Alto Paraguay Department",
+    "nativeName": "Departamento de Alto Paraguay",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-10",
+    "name": "Alto Paraná Department",
+    "nativeName": "Departamento de Alto Paraná",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-13",
+    "name": "Amambay Department",
+    "nativeName": "Departamento de Amambay",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-ASU",
+    "name": "Asunción",
+    "nativeName": "Asunción",
+    "type": "Capital District",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-19",
+    "name": "Boquerón Department",
+    "nativeName": "Departamento de Boquerón",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-5",
+    "name": "Caaguazú Department",
+    "nativeName": "Departamento de Caaguazú",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-6",
+    "name": "Caazapá Department",
+    "nativeName": "Departamento de Caazapá",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-14",
+    "name": "Canindeyú Department",
+    "nativeName": "Departamento de Canindeyú",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-11",
+    "name": "Central Department",
+    "nativeName": "Departamento Central",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-1",
+    "name": "Concepción Department",
+    "nativeName": "Departamento de Concepción",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-3",
+    "name": "Cordillera Department",
+    "nativeName": "Departamento de Cordillera",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-4",
+    "name": "Guairá Department",
+    "nativeName": "Departamento de Guairá",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-7",
+    "name": "Itapúa Department",
+    "nativeName": "Departamento de Itapúa",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-8",
+    "name": "Misiones Department",
+    "nativeName": "Departamento de Misiones",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-9",
+    "name": "Paraguarí Department",
+    "nativeName": "Departamento de Paraguarí",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-15",
+    "name": "Presidente Hayes Department",
+    "nativeName": "Departamento de Presidente Hayes",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-2",
+    "name": "San Pedro Department",
+    "nativeName": "Departamento de San Pedro",
+    "type": "Department",
+    "countryCode": "PY"
+  },
+  {
+    "code": "PY-12",
+    "name": "Ñeembucú Department",
+    "nativeName": "Departamento de Ñeembucú",
+    "type": "Department",
+    "countryCode": "PY"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "SZ-HH",
+    "name": "Hhohho",
+    "nativeName": "Hhohho",
+    "type": "District",
+    "countryCode": "SZ"
+  },
+  {
+    "code": "SZ-LU",
+    "name": "Lubombo",
+    "nativeName": "Lubombo",
+    "type": "District",
+    "countryCode": "SZ"
+  },
+  {
+    "code": "SZ-MA",
+    "name": "Manzini",
+    "nativeName": "Manzini",
+    "type": "District",
+    "countryCode": "SZ"
+  },
+  {
+    "code": "SZ-SH",
+    "name": "Shiselweni",
+    "nativeName": "Shiselweni",
+    "type": "District",
+    "countryCode": "SZ"
+  }
+]

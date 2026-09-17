@@ -1,0 +1,58 @@
+[
+  {
+    "code": "GQ-AN",
+    "name": "Annobón",
+    "nativeName": "Annobón",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-BN",
+    "name": "Bioko Norte",
+    "nativeName": "Bioko Norte",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-BS",
+    "name": "Bioko Sur",
+    "nativeName": "Bioko Sur",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-CS",
+    "name": "Centro Sur",
+    "nativeName": "Centro Sur",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-DJ",
+    "name": "Djibloho",
+    "nativeName": "Djibloho",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-KN",
+    "name": "Kié-Ntem",
+    "nativeName": "Kié-Ntem",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-LI",
+    "name": "Litoral",
+    "nativeName": "Litoral",
+    "type": "Province",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "GQ-WN",
+    "name": "Wele-Nzas",
+    "nativeName": "Wele-Nzas",
+    "type": "Province",
+    "countryCode": "GQ"
+  }
+]

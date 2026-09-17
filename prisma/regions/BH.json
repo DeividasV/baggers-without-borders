@@ -1,0 +1,30 @@
+[
+  {
+    "code": "BH-13",
+    "name": "Capital Governorate",
+    "nativeName": "العاصمة",
+    "type": "Governorate",
+    "countryCode": "BH"
+  },
+  {
+    "code": "BH-14",
+    "name": "Southern Governorate",
+    "nativeName": "الجنوبية",
+    "type": "Governorate",
+    "countryCode": "BH"
+  },
+  {
+    "code": "BH-15",
+    "name": "Muharraq Governorate",
+    "nativeName": "المحرق",
+    "type": "Governorate",
+    "countryCode": "BH"
+  },
+  {
+    "code": "BH-17",
+    "name": "Northern Governorate",
+    "nativeName": "الشمالية",
+    "type": "Governorate",
+    "countryCode": "BH"
+  }
+]

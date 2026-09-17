@@ -1,0 +1,527 @@
+[
+  {
+    "code": "TH-10",
+    "name": "Bangkok",
+    "nativeName": "กรุงเทพมหานคร",
+    "type": "Special Administrative Area",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-37",
+    "name": "Amnat Charoen",
+    "nativeName": "อำนาจเจริญ",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-15",
+    "name": "Ang Thong",
+    "nativeName": "อ่างทอง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-31",
+    "name": "Bueng Kan",
+    "nativeName": "บึงกาฬ",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-24",
+    "name": "Chachoengsao",
+    "nativeName": "ฉะเชิงเทรา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-18",
+    "name": "Chai Nat",
+    "nativeName": "ชัยนาท",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-36",
+    "name": "Chaiyaphum",
+    "nativeName": "ชัยภูมิ",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-22",
+    "name": "Chanthaburi",
+    "nativeName": "จันทบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-50",
+    "name": "Chiang Mai",
+    "nativeName": "เชียงใหม่",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-57",
+    "name": "Chiang Rai",
+    "nativeName": "เชียงราย",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-20",
+    "name": "Chonburi",
+    "nativeName": "ชลบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-86",
+    "name": "Chumphon",
+    "nativeName": "ชุมพร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-46",
+    "name": "Kalasin",
+    "nativeName": "กาฬสินธุ์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-62",
+    "name": "Kamphaeng Phet",
+    "nativeName": "กำแพงเพชร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-71",
+    "name": "Kanchanaburi",
+    "nativeName": "กาญจนบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-40",
+    "name": "Khon Kaen",
+    "nativeName": "ขอนแก่น",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-81",
+    "name": "Krabi",
+    "nativeName": "กระบี่",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-52",
+    "name": "Lampang",
+    "nativeName": "ลำปาง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-51",
+    "name": "Lamphun",
+    "nativeName": "ลำพูน",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-42",
+    "name": "Loei",
+    "nativeName": "เลย",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-16",
+    "name": "Lopburi",
+    "nativeName": "ลพบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-58",
+    "name": "Mae Hong Son",
+    "nativeName": "แม่ฮ่องสอน",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-44",
+    "name": "Maha Sarakham",
+    "nativeName": "มหาสารคาม",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-49",
+    "name": "Mukdahan",
+    "nativeName": "มุกดาหาร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-26",
+    "name": "Nakhon Nayok",
+    "nativeName": "นครนายก",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-73",
+    "name": "Nakhon Pathom",
+    "nativeName": "นครปฐม",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-48",
+    "name": "Nakhon Phanom",
+    "nativeName": "นครพนม",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-30",
+    "name": "Nakhon Ratchasima",
+    "nativeName": "นครราชสีมา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-60",
+    "name": "Nakhon Sawan",
+    "nativeName": "นครสวรรค์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-80",
+    "name": "Nakhon Si Thammarat",
+    "nativeName": "นครศรีธรรมราช",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-55",
+    "name": "Nan",
+    "nativeName": "น่าน",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-96",
+    "name": "Narathiwat",
+    "nativeName": "นราธิวาส",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-39",
+    "name": "Nong Bua Lam Phu",
+    "nativeName": "หนองบัวลำภู",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-43",
+    "name": "Nong Khai",
+    "nativeName": "หนองคาย",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-12",
+    "name": "Nonthaburi",
+    "nativeName": "นนทบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-13",
+    "name": "Pathum Thani",
+    "nativeName": "ปทุมธานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-94",
+    "name": "Pattani",
+    "nativeName": "ปัตตานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-82",
+    "name": "Phang Nga",
+    "nativeName": "พังงา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-93",
+    "name": "Phatthalung",
+    "nativeName": "พัทลุง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-56",
+    "name": "Phayao",
+    "nativeName": "พะเยา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-67",
+    "name": "Phetchabun",
+    "nativeName": "เพชรบูรณ์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-76",
+    "name": "Phetchaburi",
+    "nativeName": "เพชรบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-66",
+    "name": "Phichit",
+    "nativeName": "พิจิตร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-65",
+    "name": "Phitsanulok",
+    "nativeName": "พิษณุโลก",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-54",
+    "name": "Phrae",
+    "nativeName": "แพร่",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-83",
+    "name": "Phuket",
+    "nativeName": "ภูเก็ต",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-25",
+    "name": "Prachinburi",
+    "nativeName": "ปราจีนบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-77",
+    "name": "Prachuap Khiri Khan",
+    "nativeName": "ประจวบคีรีขันธ์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-85",
+    "name": "Ranong",
+    "nativeName": "ระนอง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-70",
+    "name": "Ratchaburi",
+    "nativeName": "ราชบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-21",
+    "name": "Rayong",
+    "nativeName": "ระยอง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-45",
+    "name": "Roi Et",
+    "nativeName": "ร้อยเอ็ด",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-27",
+    "name": "Sa Kaeo",
+    "nativeName": "สระแก้ว",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-47",
+    "name": "Sakon Nakhon",
+    "nativeName": "สกลนคร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-11",
+    "name": "Samut Prakan",
+    "nativeName": "สมุทรปราการ",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-74",
+    "name": "Samut Sakhon",
+    "nativeName": "สมุทรสาคร",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-75",
+    "name": "Samut Songkhram",
+    "nativeName": "สมุทรสงคราม",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-19",
+    "name": "Saraburi",
+    "nativeName": "สระบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-91",
+    "name": "Satun",
+    "nativeName": "สตูล",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-33",
+    "name": "Si Sa Ket",
+    "nativeName": "ศรีสะเกษ",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-17",
+    "name": "Sing Buri",
+    "nativeName": "สิงห์บุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-90",
+    "name": "Songkhla",
+    "nativeName": "สงขลา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-64",
+    "name": "Sukhothai",
+    "nativeName": "สุโขทัย",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-72",
+    "name": "Suphan Buri",
+    "nativeName": "สุพรรณบุรี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-84",
+    "name": "Surat Thani",
+    "nativeName": "สุราษฎร์ธานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-32",
+    "name": "Surin",
+    "nativeName": "สุรินทร์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-63",
+    "name": "Tak",
+    "nativeName": "ตาก",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-92",
+    "name": "Trang",
+    "nativeName": "ตรัง",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-23",
+    "name": "Trat",
+    "nativeName": "ตราด",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-34",
+    "name": "Ubon Ratchathani",
+    "nativeName": "อุบลราชธานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-41",
+    "name": "Udon Thani",
+    "nativeName": "อุดรธานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-61",
+    "name": "Uthai Thani",
+    "nativeName": "อุทัยธานี",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-53",
+    "name": "Uttaradit",
+    "nativeName": "อุตรดิตถ์",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-95",
+    "name": "Yala",
+    "nativeName": "ยะลา",
+    "type": "Province",
+    "countryCode": "TH"
+  },
+  {
+    "code": "TH-35",
+    "name": "Yasothon",
+    "nativeName": "ยโสธร",
+    "type": "Province",
+    "countryCode": "TH"
+  }
+]

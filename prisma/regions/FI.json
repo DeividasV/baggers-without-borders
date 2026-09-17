@@ -1,0 +1,135 @@
+[
+  {
+    "code": "FI-01",
+    "name": "Åland",
+    "nativeName": "Åland",
+    "type": "Autonomous Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-02",
+    "name": "South Karelia",
+    "nativeName": "Etelä-Karjala",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-03",
+    "name": "Southern Ostrobothnia",
+    "nativeName": "Etelä-Pohjanmaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-04",
+    "name": "Southern Savonia",
+    "nativeName": "Etelä-Savo",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-05",
+    "name": "Kainuu",
+    "nativeName": "Kainuu",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-06",
+    "name": "Tavastia Proper",
+    "nativeName": "Kanta-Häme",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-07",
+    "name": "Central Ostrobothnia",
+    "nativeName": "Keski-Pohjanmaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-08",
+    "name": "Central Finland",
+    "nativeName": "Keski-Suomi",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-09",
+    "name": "Kymenlaakso",
+    "nativeName": "Kymenlaakso",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-10",
+    "name": "Lapland",
+    "nativeName": "Lappi",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-11",
+    "name": "Pirkanmaa",
+    "nativeName": "Pirkanmaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-12",
+    "name": "Ostrobothnia",
+    "nativeName": "Pohjanmaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-13",
+    "name": "North Karelia",
+    "nativeName": "Pohjois-Karjala",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-14",
+    "name": "Northern Ostrobothnia",
+    "nativeName": "Pohjois-Pohjanmaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-15",
+    "name": "Northern Savonia",
+    "nativeName": "Pohjois-Savo",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-16",
+    "name": "Päijänne Tavastia",
+    "nativeName": "Päijät-Häme",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-17",
+    "name": "Satakunta",
+    "nativeName": "Satakunta",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-18",
+    "name": "Uusimaa",
+    "nativeName": "Uusimaa",
+    "type": "Region",
+    "countryCode": "FI"
+  },
+  {
+    "code": "FI-19",
+    "name": "Southwest Finland",
+    "nativeName": "Varsinais-Suomi",
+    "type": "Region",
+    "countryCode": "FI"
+  }
+]

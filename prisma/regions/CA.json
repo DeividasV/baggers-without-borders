@@ -1,0 +1,93 @@
+[
+  {
+    "code": "CA-AB",
+    "name": "Alberta",
+    "nativeName": "Alberta",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-BC",
+    "name": "British Columbia",
+    "nativeName": "British Columbia",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-MB",
+    "name": "Manitoba",
+    "nativeName": "Manitoba",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-NB",
+    "name": "New Brunswick",
+    "nativeName": "New Brunswick",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-NL",
+    "name": "Newfoundland and Labrador",
+    "nativeName": "Newfoundland and Labrador",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-NS",
+    "name": "Nova Scotia",
+    "nativeName": "Nova Scotia",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-ON",
+    "name": "Ontario",
+    "nativeName": "Ontario",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-PE",
+    "name": "Prince Edward Island",
+    "nativeName": "Prince Edward Island",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-QC",
+    "name": "Quebec",
+    "nativeName": "Québec",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-SK",
+    "name": "Saskatchewan",
+    "nativeName": "Saskatchewan",
+    "type": "Province",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-NT",
+    "name": "Northwest Territories",
+    "nativeName": "Northwest Territories",
+    "type": "Territory",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-NU",
+    "name": "Nunavut",
+    "nativeName": "Nunavut",
+    "type": "Territory",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CA-YT",
+    "name": "Yukon",
+    "nativeName": "Yukon",
+    "type": "Territory",
+    "countryCode": "CA"
+  }
+]

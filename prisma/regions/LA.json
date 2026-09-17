@@ -1,0 +1,128 @@
+[
+  {
+    "code": "LA-AT",
+    "name": "Attapeu",
+    "nativeName": "ອັດຕະປື",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-BK",
+    "name": "Bokeo",
+    "nativeName": "ບໍ່ແກ້ວ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-BL",
+    "name": "Bolikhamsai",
+    "nativeName": "ບໍລິຄໍາໄຊ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-CH",
+    "name": "Champasak",
+    "nativeName": "ຈໍາປາສັກ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-HO",
+    "name": "Houaphanh",
+    "nativeName": "ຫົວພັນ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-KH",
+    "name": "Khammouane",
+    "nativeName": "ຄໍາມ່ວນ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-LM",
+    "name": "Luang Namtha",
+    "nativeName": "ຫຼວງນໍ້າທາ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-LP",
+    "name": "Luang Prabang",
+    "nativeName": "ຫຼວງພະບາງ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-OU",
+    "name": "Oudomxay",
+    "nativeName": "ອຸດົມໄຊ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-PH",
+    "name": "Phongsaly",
+    "nativeName": "ຜົ້ງສາລີ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-SL",
+    "name": "Salavan",
+    "nativeName": "ສາລະວັນ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-SV",
+    "name": "Savannakhet",
+    "nativeName": "ສະຫວັນນະເຂດ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-VI",
+    "name": "Vientiane Province",
+    "nativeName": "ວຽງຈັນ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-VT",
+    "name": "Vientiane",
+    "nativeName": "ນະຄອນຫຼວງວຽງຈັນ",
+    "type": "Prefecture",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-XA",
+    "name": "Sainyabuli",
+    "nativeName": "ໄຊຍະບູລີ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-XE",
+    "name": "Sekong",
+    "nativeName": "ເຊກອງ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-XI",
+    "name": "Xiangkhouang",
+    "nativeName": "ຊຽງຂວາງ",
+    "type": "Province",
+    "countryCode": "LA"
+  },
+  {
+    "code": "LA-XS",
+    "name": "Xaisomboun",
+    "nativeName": "ໄຊສົມບູນ",
+    "type": "Province",
+    "countryCode": "LA"
+  }
+]

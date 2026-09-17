@@ -1,0 +1,23 @@
+[
+  {
+    "code": "KM-A",
+    "name": "Anjouan",
+    "nativeName": "Ndzuwani",
+    "type": "Island",
+    "countryCode": "KM"
+  },
+  {
+    "code": "KM-G",
+    "name": "Grande Comore",
+    "nativeName": "Ngazidja",
+    "type": "Island",
+    "countryCode": "KM"
+  },
+  {
+    "code": "KM-M",
+    "name": "Mohéli",
+    "nativeName": "Mwali",
+    "type": "Island",
+    "countryCode": "KM"
+  }
+]

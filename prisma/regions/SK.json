@@ -1,0 +1,58 @@
+[
+  {
+    "code": "SK-BC",
+    "name": "Banská Bystrica Region",
+    "nativeName": "Banskobystrický kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-BL",
+    "name": "Bratislava Region",
+    "nativeName": "Bratislavský kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-KI",
+    "name": "Košice Region",
+    "nativeName": "Košický kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-NI",
+    "name": "Nitra Region",
+    "nativeName": "Nitriansky kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-PV",
+    "name": "Prešov Region",
+    "nativeName": "Prešovský kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-TC",
+    "name": "Trenčín Region",
+    "nativeName": "Trenčiansky kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-TA",
+    "name": "Trnava Region",
+    "nativeName": "Trnavský kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  },
+  {
+    "code": "SK-ZI",
+    "name": "Žilina Region",
+    "nativeName": "Žilinský kraj",
+    "type": "Region",
+    "countryCode": "SK"
+  }
+]

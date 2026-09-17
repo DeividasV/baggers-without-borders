@@ -1,0 +1,226 @@
+[
+  {
+    "code": "MX-AGU",
+    "name": "Aguascalientes",
+    "nativeName": "Aguascalientes",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-BCN",
+    "name": "Baja California",
+    "nativeName": "Baja California",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-BCS",
+    "name": "Baja California Sur",
+    "nativeName": "Baja California Sur",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-CAM",
+    "name": "Campeche",
+    "nativeName": "Campeche",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-CHP",
+    "name": "Chiapas",
+    "nativeName": "Chiapas",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-CHH",
+    "name": "Chihuahua",
+    "nativeName": "Chihuahua",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-COA",
+    "name": "Coahuila",
+    "nativeName": "Coahuila",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-COL",
+    "name": "Colima",
+    "nativeName": "Colima",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-DUR",
+    "name": "Durango",
+    "nativeName": "Durango",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-GUA",
+    "name": "Guanajuato",
+    "nativeName": "Guanajuato",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-GRO",
+    "name": "Guerrero",
+    "nativeName": "Guerrero",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-HID",
+    "name": "Hidalgo",
+    "nativeName": "Hidalgo",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-JAL",
+    "name": "Jalisco",
+    "nativeName": "Jalisco",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-MEX",
+    "name": "México",
+    "nativeName": "México",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-MIC",
+    "name": "Michoacán",
+    "nativeName": "Michoacán",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-MOR",
+    "name": "Morelos",
+    "nativeName": "Morelos",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-NAY",
+    "name": "Nayarit",
+    "nativeName": "Nayarit",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-NLE",
+    "name": "Nuevo León",
+    "nativeName": "Nuevo León",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-OAX",
+    "name": "Oaxaca",
+    "nativeName": "Oaxaca",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-PUE",
+    "name": "Puebla",
+    "nativeName": "Puebla",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-QUE",
+    "name": "Querétaro",
+    "nativeName": "Querétaro",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-ROO",
+    "name": "Quintana Roo",
+    "nativeName": "Quintana Roo",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-SLP",
+    "name": "San Luis Potosí",
+    "nativeName": "San Luis Potosí",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-SIN",
+    "name": "Sinaloa",
+    "nativeName": "Sinaloa",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-SON",
+    "name": "Sonora",
+    "nativeName": "Sonora",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-TAB",
+    "name": "Tabasco",
+    "nativeName": "Tabasco",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-TAM",
+    "name": "Tamaulipas",
+    "nativeName": "Tamaulipas",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-TLA",
+    "name": "Tlaxcala",
+    "nativeName": "Tlaxcala",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-VER",
+    "name": "Veracruz",
+    "nativeName": "Veracruz",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-YUC",
+    "name": "Yucatán",
+    "nativeName": "Yucatán",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-ZAC",
+    "name": "Zacatecas",
+    "nativeName": "Zacatecas",
+    "type": "State",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MX-CMX",
+    "name": "Mexico City",
+    "nativeName": "Ciudad de México",
+    "type": "Federal District",
+    "countryCode": "MX"
+  }
+]

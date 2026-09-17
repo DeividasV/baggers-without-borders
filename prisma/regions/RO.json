@@ -1,0 +1,296 @@
+[
+  {
+    "code": "RO-AB",
+    "name": "Alba",
+    "nativeName": "Alba",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-AR",
+    "name": "Arad",
+    "nativeName": "Arad",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-AG",
+    "name": "Argeș",
+    "nativeName": "Argeș",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BC",
+    "name": "Bacău",
+    "nativeName": "Bacău",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BH",
+    "name": "Bihor",
+    "nativeName": "Bihor",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BN",
+    "name": "Bistrița-Năsăud",
+    "nativeName": "Bistrița-Năsăud",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BT",
+    "name": "Botoșani",
+    "nativeName": "Botoșani",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BR",
+    "name": "Brăila",
+    "nativeName": "Brăila",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BV",
+    "name": "Brașov",
+    "nativeName": "Brașov",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-B",
+    "name": "Bucharest",
+    "nativeName": "București",
+    "type": "Municipality",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-BZ",
+    "name": "Buzău",
+    "nativeName": "Buzău",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-CL",
+    "name": "Călărași",
+    "nativeName": "Călărași",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-CS",
+    "name": "Caraș-Severin",
+    "nativeName": "Caraș-Severin",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-CJ",
+    "name": "Cluj",
+    "nativeName": "Cluj",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-CT",
+    "name": "Constanța",
+    "nativeName": "Constanța",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-CV",
+    "name": "Covasna",
+    "nativeName": "Covasna",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-DB",
+    "name": "Dâmbovița",
+    "nativeName": "Dâmbovița",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-DJ",
+    "name": "Dolj",
+    "nativeName": "Dolj",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-GL",
+    "name": "Galați",
+    "nativeName": "Galați",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-GR",
+    "name": "Giurgiu",
+    "nativeName": "Giurgiu",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-GJ",
+    "name": "Gorj",
+    "nativeName": "Gorj",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-HR",
+    "name": "Harghita",
+    "nativeName": "Harghita",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-HD",
+    "name": "Hunedoara",
+    "nativeName": "Hunedoara",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-IL",
+    "name": "Ialomița",
+    "nativeName": "Ialomița",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-IS",
+    "name": "Iași",
+    "nativeName": "Iași",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-IF",
+    "name": "Ilfov",
+    "nativeName": "Ilfov",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-MM",
+    "name": "Maramureș",
+    "nativeName": "Maramureș",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-MH",
+    "name": "Mehedinți",
+    "nativeName": "Mehedinți",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-MS",
+    "name": "Mureș",
+    "nativeName": "Mureș",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-NT",
+    "name": "Neamț",
+    "nativeName": "Neamț",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-OT",
+    "name": "Olt",
+    "nativeName": "Olt",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-PH",
+    "name": "Prahova",
+    "nativeName": "Prahova",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-SJ",
+    "name": "Sălaj",
+    "nativeName": "Sălaj",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-SM",
+    "name": "Satu Mare",
+    "nativeName": "Satu Mare",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-SB",
+    "name": "Sibiu",
+    "nativeName": "Sibiu",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-SV",
+    "name": "Suceava",
+    "nativeName": "Suceava",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-TR",
+    "name": "Teleorman",
+    "nativeName": "Teleorman",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-TM",
+    "name": "Timiș",
+    "nativeName": "Timiș",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-TL",
+    "name": "Tulcea",
+    "nativeName": "Tulcea",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-VL",
+    "name": "Vâlcea",
+    "nativeName": "Vâlcea",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-VS",
+    "name": "Vaslui",
+    "nativeName": "Vaslui",
+    "type": "County",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RO-VN",
+    "name": "Vrancea",
+    "nativeName": "Vrancea",
+    "type": "County",
+    "countryCode": "RO"
+  }
+]

@@ -1,0 +1,809 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model User {
+  id                          String                  @id @default(cuid())
+  username                    String                  @unique
+  password                    String
+  passwordChangedAt           DateTime?
+  email                       String                  @unique
+  emailVerified               DateTime?
+  emailVerificationToken      String?                 @unique
+  emailVerificationExpires    DateTime?
+  emailVerificationResendCount Int                    @default(0)
+  passwordResetToken          String?                 @unique
+  passwordResetExpires        DateTime?
+  role                        String                  @default("USER")
+  status                      String                  @default("NEW")
+  displayName                 String
+  givenName                   String?
+  familyName                  String?
+  gender                      String?
+  birthYear                   Int?
+  birthCountryId              String?
+  residenceCountryId          String?
+  residenceRegionId           String?
+  peakbaggerId                String?
+  peakbaggerAllAscents        Boolean                 @default(false)
+  bwbForumNickname            String?
+  hillBaggingId               String?
+  forumJoinDate               DateTime?
+  retiredYear                 Int?
+  deceasedYear                Int?
+  notes                       String?                 @default("")
+  allowManualEntry            Boolean                 @default(true)
+  prHallConsent               DateTime?
+  pIndexConsent               DateTime?
+  infoRetentionConsent        DateTime?
+  publishTotalsConsent        DateTime?
+  createdAt                   DateTime                @default(now())
+  updatedAt                   DateTime                @updatedAt
+  changeRequests              ChangeRequest[]
+  changeRequestVotes          ChangeRequestVote[]
+  hofEntries                  HofEntry[]
+  userConsents                UserConsent[]
+  hofParticipations           UserHofParticipation[]
+  donations                   Donation[]
+  userInterests               UserInterest[]
+  yearParticipations          UserYearParticipation[]
+  emailsReceived              EmailLog[]              @relation("EmailRecipient")
+  emailsSent                  EmailLog[]              @relation("EmailSentBy")
+  auditLogs                   AuditLog[]
+  managedYearConfigs          HofYearConfig[]         @relation("HofmeisterAssignments")
+  supportRequests             SupportRequest[]
+  assignedSupportRequests     SupportRequest[]        @relation("SupportAssignedTo")
+  ticketNotes                 TicketNote[]            @relation("TicketNoteAuthor")
+  ticketStatusChanges         TicketStatusHistory[]   @relation("TicketStatusChanger")
+  residenceRegion             Region?                 @relation("UserResidenceRegion", fields: [residenceRegionId], references: [id])
+  residenceCountry            Country?                @relation("UserResidenceCountry", fields: [residenceCountryId], references: [id])
+  birthCountry                Country?                @relation("UserBirthCountry", fields: [birthCountryId], references: [id])
+  journalsCreated             Journal[]               @relation("JournalCreator")
+  journalsApproved            Journal[]               @relation("JournalApprover")
+  journalAuthorships          JournalAuthor[]
+  journalsEdited              Journal[]               @relation("JournalEditor")
+
+  @@map("users")
+}
+
+model ChangeRequest {
+  id          String                    @id @default(cuid())
+  ticketNumber String?                  @unique
+  ticketSlug   String?                  @unique
+  title       String
+  description String
+  type        String
+  priority    String
+  impact      String
+  status      String                    @default("PENDING")
+  createdAt   DateTime                  @default(now())
+  updatedAt   DateTime                  @updatedAt
+  createdById String
+  actualTime  Float?
+  plannedTime Float?
+  attachments ChangeRequestAttachment[]
+  votes       ChangeRequestVote[]
+  createdBy   User                      @relation(fields: [createdById], references: [id], onDelete: Cascade)
+
+  // Git sync fields
+  commitHash   String?   @unique
+  commitDate   DateTime?
+  version      String?
+  category     String?
+  linesAdded   Int?
+  linesDeleted Int?
+  filesChanged Int?
+  isFromGit    Boolean   @default(false)
+
+  // Enhanced breakdown fields
+  technicalDetails  String?   // Original git commit message
+  businessValue     String?   // "Why this matters" statement
+  affectedAreas     String?   // JSON array: ["ui", "reports"]
+
+  @@map("change_requests")
+}
+
+model ChangeRequestVote {
+  id              String        @id @default(cuid())
+  changeRequestId String
+  userId          String
+  score           Int
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  changeRequest   ChangeRequest @relation(fields: [changeRequestId], references: [id], onDelete: Cascade)
+  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([changeRequestId, userId])
+  @@index([changeRequestId])
+  @@index([userId])
+  @@index([changeRequestId, score])
+  @@map("change_request_votes")
+}
+
+model ChangeRequestTicketCounter {
+  id         String   @id @default(cuid())
+  year       Int      @unique
+  nextNumber Int      @default(1)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@map("change_request_ticket_counters")
+}
+
+model ChangeRequestAttachment {
+  id              String        @id @default(cuid())
+  filename        String
+  originalName    String
+  mimeType        String
+  size            Int
+  path            String
+  createdAt       DateTime      @default(now())
+  changeRequestId String
+  changeRequest   ChangeRequest @relation(fields: [changeRequestId], references: [id], onDelete: Cascade)
+
+  @@map("change_request_attachments")
+}
+
+model Country {
+  id                         String                  @id @default(cuid())
+  code                       String                  @unique
+  code3                      String                  @unique
+  name                       String
+  nativeName                 String?
+  numericCode                String?
+  capital                    String?
+  continent                  String
+  currency                   String?
+  languages                  String?
+  hasRegions                 Boolean                 @default(false)
+  createdAt                  DateTime                @default(now())
+  updatedAt                  DateTime                @updatedAt
+  lceConfigs                 CountryLceConfig[]
+  regions                    Region[]
+  yearParticipationOverrides UserYearParticipation[] @relation("UserYearCountryOverride")
+  usersResidenceCountry      User[]                  @relation("UserResidenceCountry")
+  usersBirthCountry          User[]                  @relation("UserBirthCountry")
+
+  @@map("countries")
+}
+
+model Region {
+  id             String   @id @default(cuid())
+  code           String
+  name           String
+  nativeName     String?
+  type           String
+  countryId      String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  country        Country  @relation(fields: [countryId], references: [id], onDelete: Cascade)
+  usersResidence User[]   @relation("UserResidenceRegion")
+
+  @@unique([countryId, code])
+  @@map("regions")
+}
+
+model ConsentType {
+  id             String                  @id @default(cuid())
+  title          String
+  description    String
+  status         String                  @default("ACTIVE")
+  dateIntroduced DateTime                @default(now())
+  createdAt      DateTime                @default(now())
+  updatedAt      DateTime                @updatedAt
+  internalNotes  String?
+  attachments    ConsentTypeAttachment[]
+  userConsents   UserConsent[]
+
+  @@map("consent_types")
+}
+
+model ConsentTypeAttachment {
+  id            String      @id @default(cuid())
+  filename      String
+  originalName  String
+  mimeType      String
+  size          Int
+  path          String
+  consentTypeId String
+  createdAt     DateTime    @default(now())
+  consentType   ConsentType @relation(fields: [consentTypeId], references: [id], onDelete: Cascade)
+
+  @@map("consent_type_attachments")
+}
+
+model UserConsent {
+  id            String                  @id @default(cuid())
+  userId        String
+  consentTypeId String
+  dateGiven     DateTime?
+  consentMethod String?
+  note          String?
+  isRequired    Boolean                 @default(true)
+  createdAt     DateTime                @default(now())
+  updatedAt     DateTime                @updatedAt
+  attachments   UserConsentAttachment[]
+  consentType   ConsentType             @relation(fields: [consentTypeId], references: [id], onDelete: Cascade)
+  user          User                    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, consentTypeId])
+  @@map("user_consents")
+}
+
+model UserConsentAttachment {
+  id            String      @id @default(cuid())
+  filename      String
+  originalName  String
+  mimeType      String
+  size          Int
+  path          String
+  userConsentId String
+  createdAt     DateTime    @default(now())
+  userConsent   UserConsent @relation(fields: [userConsentId], references: [id], onDelete: Cascade)
+
+  @@map("user_consent_attachments")
+}
+
+model Interest {
+  id            String         @id @default(cuid())
+  name          String         @unique
+  description   String?
+  displayOrder  Int            @default(0)
+  isActive      Boolean        @default(true)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  userInterests UserInterest[]
+
+  @@map("interests")
+}
+
+model Sponsor {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  description String?
+  logoPath    String?
+  url         String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("sponsors")
+}
+
+model UserInterest {
+  id         String   @id @default(cuid())
+  userId     String
+  interestId String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  interest   Interest @relation(fields: [interestId], references: [id], onDelete: Cascade)
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, interestId])
+  @@map("user_interests")
+}
+
+model HallOfFame {
+  id                 String                 @id @default(cuid())
+  code               String                 @unique
+  title              String
+  description        String?
+  isActive           Boolean                @default(true)
+  displayOrder       Int                    @default(0)
+  allowManualEntry   Boolean                @default(true)
+  progressRegisterExcludeRetired   Boolean  @default(true)
+  progressRegisterExcludeDeceased  Boolean  @default(true)
+  progressRegisterExcludeInactive  Boolean  @default(true)
+  progressRegisterInactivityYears  Int      @default(2)
+  createdAt          DateTime               @default(now())
+  updatedAt          DateTime               @updatedAt
+  hofEntries         HofEntry[]
+  hofYearConfigs     HofYearConfig[]
+  userParticipations UserHofParticipation[]
+  supportRequests    SupportRequest[]
+
+  @@map("hofs")
+}
+
+model Year {
+  id                 String                  @id @default(cuid())
+  code               String                  @unique
+  title              String
+  description        String?
+  isActive           Boolean                 @default(true)
+  displayOrder       Int                     @default(0)
+  allowManualEntry   Boolean                 @default(true)
+  createdAt          DateTime                @default(now())
+  updatedAt          DateTime                @updatedAt
+  hofEntries         HofEntry[]
+  hofYearConfigs     HofYearConfig[]
+  userParticipations UserYearParticipation[]
+
+  @@map("years")
+}
+
+model HofEntry {
+  id                 String     @id @default(cuid())
+  memberId           String
+  hofId              String
+  yearId             String
+  totalPeaks         Int        @default(0) // Cumulative total domestic peaks up to this year
+  peaksInYear        Int        @default(0) // Domestic peaks climbed in this specific year
+  foreignPeaks       Int        @default(0) // Cumulative total foreign peaks up to this year
+  foreignPeaksInYear Int        @default(0) // Foreign peaks climbed in this specific year
+  createdAt          DateTime   @default(now())
+  updatedAt          DateTime   @updatedAt
+  year               Year       @relation(fields: [yearId], references: [id], onDelete: Cascade)
+  hof                HallOfFame @relation(fields: [hofId], references: [id], onDelete: Cascade)
+  member             User       @relation(fields: [memberId], references: [id], onDelete: Cascade)
+
+  @@unique([memberId, hofId, yearId])
+  @@map("hof_entries")
+}
+
+model HofYearConfig {
+  id                      String             @id @default(cuid())
+  hofId                   String
+  yearId                  String
+  hofmeisterId            String?
+  minPeaks                Int                @default(0)
+  minPeaksEnabled         Boolean            @default(true)
+  minForeignPeaks         Int                @default(0)
+  minForeignPeaksEnabled  Boolean            @default(true)
+  minFpr                  Float              @default(0)
+  minFprEnabled           Boolean            @default(true)
+  minimumAge              Int                @default(0)
+  minimumAgeEnabled       Boolean            @default(true)
+  lceEnabled              Boolean            @default(false)
+  lceMinFpr               Float?
+  lceMinPeaks             Int?
+  lceMinForeignPeaks      Int?
+  notes                   String?            @default("")
+  meisterReportContent    String?
+  meisterReportImage      String?
+  meisterReportImageTitle String?
+  meisterReportImageAttribution String?
+  createdAt               DateTime           @default(now())
+  updatedAt               DateTime           @updatedAt
+  awardTiers      AwardTier[]
+  lceCountries    CountryLceConfig[]
+  year            Year               @relation(fields: [yearId], references: [id], onDelete: Cascade)
+  hof             HallOfFame         @relation(fields: [hofId], references: [id], onDelete: Cascade)
+  hofmeister      User?              @relation("HofmeisterAssignments", fields: [hofmeisterId], references: [id], onDelete: Restrict)
+
+  @@unique([hofId, yearId])
+  @@map("hof_year_configs")
+}
+
+model CountryLceConfig {
+  id              String        @id @default(cuid())
+  hofYearConfigId String
+  countryId       String
+  hasLce          Boolean       @default(true)
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  country         Country       @relation(fields: [countryId], references: [id], onDelete: Cascade)
+  hofYearConfig   HofYearConfig @relation(fields: [hofYearConfigId], references: [id], onDelete: Cascade)
+
+  @@unique([hofYearConfigId, countryId])
+  @@map("country_lce_configs")
+}
+
+model AwardTier {
+  id              String        @id @default(cuid())
+  hofYearConfigId String
+  name            String
+  minPeaks        Int
+  maxPeaks        Int?
+  displayOrder    Int
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  hofYearConfig   HofYearConfig @relation(fields: [hofYearConfigId], references: [id], onDelete: Cascade)
+
+  @@index([hofYearConfigId, displayOrder])
+  @@map("award_tiers")
+}
+
+model AppSetting {
+  id          String   @id @default(cuid())
+  key         String   @unique
+  value       String?
+  description String?
+  category    String   @default("general")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("app_settings")
+}
+
+model UserHofParticipation {
+  id        String     @id @default(cuid())
+  userId    String
+  hofId     String
+  enabled   Boolean    @default(true)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  hof       HallOfFame @relation(fields: [hofId], references: [id], onDelete: Cascade)
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, hofId])
+  @@map("user_hof_participations")
+}
+
+model UserYearParticipation {
+  id              String   @id @default(cuid())
+  userId          String
+  yearId          String
+  enabled         Boolean  @default(true)
+  dataNotProvided Boolean  @default(false)
+  countryId       String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  country         Country? @relation("UserYearCountryOverride", fields: [countryId], references: [id])
+  year            Year     @relation(fields: [yearId], references: [id], onDelete: Cascade)
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, yearId])
+  @@map("user_year_participations")
+}
+
+model Document {
+  id           String   @id @default(cuid())
+  name         String
+  isFolder     Boolean  @default(false)
+  parentId     String?
+  path         String
+  filename     String?
+  originalName String?
+  mimeType     String?
+  size         Int?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  parent       Document?  @relation("DocumentHierarchy", fields: [parentId], references: [id], onDelete: Cascade)
+  children     Document[] @relation("DocumentHierarchy")
+
+  @@map("documents")
+}
+
+model EmailLog {
+  id               String    @id @default(cuid())
+  recipientEmail   String
+  recipientName    String?
+  recipientUserId  String?
+  subject          String
+  bodyText         String?
+  bodyHtml         String?
+  bodyHash         String
+  emailType        String
+  category         String    @default("transactional")
+  brevoMessageId   String?   @unique
+  status           String    @default("PENDING")
+  errorMessage     String?
+  errorCode        String?
+  retryCount       Int       @default(0)
+  sentAt           DateTime?
+  deliveredAt      DateTime?
+  bouncedAt        DateTime?
+  retentionDate    DateTime?
+  createdAt        DateTime  @default(now())
+  sentByUserId     String?
+  recipientUser    User?     @relation("EmailRecipient", fields: [recipientUserId], references: [id], onDelete: SetNull)
+  sentByUser       User?     @relation("EmailSentBy", fields: [sentByUserId], references: [id], onDelete: SetNull)
+  supportRequest   SupportRequest?
+
+  @@index([recipientEmail])
+  @@index([status])
+  @@index([emailType])
+  @@index([createdAt])
+  @@index([brevoMessageId])
+  @@map("email_logs")
+}
+
+model AuditLog {
+  id             String    @id @default(cuid())
+  eventType      EventType
+  eventCategory  EventCategory
+  status         EventStatus
+  userId         String?
+  sessionId      String?
+  ipAddressHash  String
+  ipCountry      String?   // ISO 3166-1 Alpha-2 country code from Cloudflare
+  userAgent      String?   // Parsed: "Chrome 120/Windows 11"
+  resourceType   String?   // e.g., "User", "HofEntry"
+  resourceId     String?
+  actionDetails  String?   // JSON string for before/after snapshots
+  errorMessage   String?
+  retentionDate  DateTime  // 90 days for AUTH, 730 days for ADMIN
+  createdAt      DateTime  @default(now())
+  user           User?     @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([eventType])
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+  @@index([ipCountry])
+  @@index([ipAddressHash])
+  @@map("audit_logs")
+}
+
+enum EventType {
+  // Authentication events
+  AUTH_LOGIN_SUCCESS
+  AUTH_LOGIN_FAILED
+  AUTH_REGISTER_SUCCESS
+  AUTH_REGISTER_FAILED
+  AUTH_PASSWORD_RESET_REQUEST_SUCCESS
+  AUTH_PASSWORD_RESET_REQUEST_FAILED
+  AUTH_PASSWORD_RESET_COMPLETE_SUCCESS
+  AUTH_PASSWORD_RESET_COMPLETE_FAILED
+  AUTH_EMAIL_VERIFY_SUCCESS
+  AUTH_EMAIL_VERIFY_FAILED
+  AUTH_RESEND_VERIFY_SUCCESS
+  AUTH_RESEND_VERIFY_FAILED
+  AUTH_PASSWORD_CHANGE
+  AUTH_EMAIL_CHANGE
+  ADMIN_USER_EMAIL_CHANGE
+  ADMIN_USER_USERNAME_CHANGE
+  
+  // User management events
+  USER_PROFILE_UPDATE
+  USER_BAG_UPDATE
+  USER_BAG_DELETE
+  USER_ROLE_ESCALATION
+  ADMIN_USER_CREATE
+  ADMIN_USER_UPDATE
+  ADMIN_USER_DELETE
+  
+  // Document management events
+  ADMIN_DOCUMENT_CREATE
+  ADMIN_DOCUMENT_UPDATE
+  ADMIN_DOCUMENT_DELETE
+  ADMIN_DOCUMENT_UPLOAD
+  ADMIN_DOCUMENT_DOWNLOAD
+  
+  // Configuration events (HoF, Years)
+  ADMIN_HOF_CREATE
+  ADMIN_HOF_UPDATE
+  ADMIN_HOF_DELETE
+  ADMIN_YEAR_CREATE
+  ADMIN_YEAR_UPDATE
+  ADMIN_YEAR_DELETE
+  ADMIN_HOF_YEAR_CONFIG_CREATE
+  ADMIN_HOF_YEAR_CONFIG_UPDATE
+  ADMIN_HOF_YEAR_CONFIG_DELETE
+  
+  // Data entry events
+  ADMIN_DATA_ENTRY_CREATE
+  ADMIN_DATA_ENTRY_UPDATE
+  ADMIN_DATA_ENTRY_DELETE
+  
+  // Backup events
+  ADMIN_BACKUP_CREATE
+  ADMIN_BACKUP_DOWNLOAD
+  ADMIN_BACKUP_DELETE
+  
+  // Change request events
+  ADMIN_CHANGE_REQUEST_CREATE
+  ADMIN_CHANGE_REQUEST_UPDATE
+  ADMIN_CHANGE_REQUEST_DELETE
+  
+  // Donation events
+  DONATION_SUCCESS
+  DONATION_FAILED
+  DONATION_CANCELLED
+}
+
+enum EventCategory {
+  AUTH
+  ADMIN
+  USER
+}
+
+enum EventStatus {
+  SUCCESS
+  FAILURE
+}
+
+model RateLimitAttempt {
+  id         String   @id @default(cuid())
+  identifier String   // IP address hash or email
+  type       String   // 'registration', 'password-reset', 'email-verification'
+  createdAt  DateTime @default(now())
+
+  @@index([identifier, type, createdAt])
+  @@map("rate_limit_attempts")
+}
+
+model Donation {
+  id                   String    @id @default(cuid())
+  amount               Int       // Amount in smallest currency unit (cents, pence, etc.)
+  currency             String    // USD, EUR, GBP
+  type                 String    // ONE_TIME or MONTHLY
+  status               String    // PENDING, COMPLETED, FAILED, CANCELLED
+  stripeSessionId      String    @unique
+  stripeSubscriptionId String?   @unique
+  userId               String?
+  user                 User?     @relation(fields: [userId], references: [id], onDelete: SetNull)
+  donorEmail           String
+  donorName            String?
+  createdAt            DateTime  @default(now())
+  completedAt          DateTime?
+
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+  @@map("donations")
+}
+
+model SupportRequest {
+  id             String                      @id @default(cuid())
+  name           String
+  email          String
+  subject        String
+  message        String
+  category       String                      @default("GENERAL") // GENERAL, TECHNICAL, HOF_DATA
+  priority       String                      @default("NORMAL") // LOW, NORMAL, HIGH
+  status         String                      @default("OPEN") // OPEN, IN_PROGRESS, WAITING_RESPONSE, NEEDS_INFO, ON_HOLD, RESOLVED, CLOSED, REOPENED
+  userId         String?
+  user           User?                       @relation(fields: [userId], references: [id], onDelete: SetNull)
+  hofId          String?
+  hof            HallOfFame?                 @relation(fields: [hofId], references: [id], onDelete: SetNull)
+  emailLogId     String?                     @unique
+  emailLog       EmailLog?                   @relation(fields: [emailLogId], references: [id])
+  assignedToId   String?
+  assignedTo     User?                       @relation("SupportAssignedTo", fields: [assignedToId], references: [id], onDelete: SetNull)
+  respondedAt    DateTime?
+  resolvedAt     DateTime?
+  attachments    SupportRequestAttachment[]
+  notes          TicketNote[]
+  statusHistory  TicketStatusHistory[]
+  createdAt      DateTime                    @default(now())
+  updatedAt      DateTime                    @updatedAt
+
+  @@index([status])
+  @@index([category])
+  @@index([createdAt])
+  @@map("support_requests")
+}
+
+model SupportRequestAttachment {
+  id               String         @id @default(cuid())
+  filename         String
+  originalName     String
+  mimeType         String
+  size             Int
+  path             String
+  supportRequestId String
+  createdAt        DateTime       @default(now())
+  supportRequest   SupportRequest @relation(fields: [supportRequestId], references: [id], onDelete: Cascade)
+
+  @@map("support_request_attachments")
+}
+
+model TicketNote {
+  id               String                 @id @default(cuid())
+  ticketId         String
+  authorId         String
+  content          String                 // Max 9999 chars enforced in API
+  isInternal       Boolean                @default(true)
+  isEdited         Boolean                @default(false)
+  lastEditedAt     DateTime?
+  createdAt        DateTime               @default(now())
+  updatedAt        DateTime               @updatedAt
+  ticket           SupportRequest         @relation(fields: [ticketId], references: [id], onDelete: Cascade)
+  author           User                   @relation("TicketNoteAuthor", fields: [authorId], references: [id], onDelete: Cascade)
+  attachments      TicketNoteAttachment[]
+
+  @@index([ticketId])
+  @@index([authorId])
+  @@index([createdAt])
+  @@map("ticket_notes")
+}
+
+model TicketNoteAttachment {
+  id           String     @id @default(cuid())
+  noteId       String
+  filename     String
+  originalName String
+  mimeType     String
+  size         Int
+  path         String
+  createdAt    DateTime   @default(now())
+  note         TicketNote @relation(fields: [noteId], references: [id], onDelete: Cascade)
+
+  @@map("ticket_note_attachments")
+}
+
+model TicketStatusHistory {
+  id          String         @id @default(cuid())
+  ticketId    String
+  changedById String
+  oldStatus   String
+  newStatus   String
+  changedAt   DateTime       @default(now())
+  ticket      SupportRequest @relation(fields: [ticketId], references: [id], onDelete: Cascade)
+  changedBy   User           @relation("TicketStatusChanger", fields: [changedById], references: [id], onDelete: Cascade)
+
+  @@index([ticketId])
+  @@index([changedAt])
+  @@map("ticket_status_history")
+}
+
+// ─── Journal / Magazine feature ───────────────────────────────────────────────
+
+model JournalPhoto {
+  id           String   @id @default(cuid())
+  filename     String
+  originalName String
+  mimeType     String
+  size         Int
+  title        String?
+  caption      String?
+  attribution  String?
+  order        Int      @default(0)
+  journalId    String?
+  journal      Journal? @relation("ArticlePhotos", fields: [journalId], references: [id], onDelete: SetNull)
+  createdAt    DateTime @default(now())
+
+  coverOfJournal Journal? @relation("CoverPhoto")
+
+  @@index([journalId])
+  @@map("journal_photos")
+}
+
+model Journal {
+  id           String          @id @default(cuid())
+  title        String
+  subtitle     String?
+  slug         String          @unique
+  content      String
+  tableStyle   String          @default("legacy")
+  type         String          @default("journal")
+  status       String          @default("DRAFT")
+  // Manual ordering of this record within its parent (only meaningful when parentId != null)
+  childOrder   Int             @default(0)
+  // Self-referential hierarchy: null = top-level (issue), non-null = child article
+  parentId     String?
+  parent       Journal?        @relation("IssueChildren", fields: [parentId], references: [id], onDelete: SetNull)
+  children     Journal[]       @relation("IssueChildren")
+  // Issue editor (optional BWB member)
+  editorId     String?
+  editor       User?           @relation("JournalEditor", fields: [editorId], references: [id], onDelete: SetNull)
+  authors      JournalAuthor[]
+  photos       JournalPhoto[]  @relation("ArticlePhotos")
+  coverPhotoId String?         @unique
+  coverPhoto   JournalPhoto?   @relation("CoverPhoto", fields: [coverPhotoId], references: [id], onDelete: SetNull)
+  createdById  String
+  createdBy    User            @relation("JournalCreator", fields: [createdById], references: [id], onDelete: Restrict)
+  approvedById String?
+  approvedBy   User?           @relation("JournalApprover", fields: [approvedById], references: [id], onDelete: SetNull)
+  createdAt    DateTime        @default(now())
+  publishedAt  DateTime?
+  updatedAt    DateTime        @updatedAt
+
+  @@index([type])
+  @@index([status])
+  @@index([slug])
+  @@index([publishedAt])
+  @@index([parentId])
+  @@map("journals")
+}
+
+model JournalAuthor {
+  id        String  @id @default(cuid())
+  journalId String
+  journal   Journal @relation(fields: [journalId], references: [id], onDelete: Cascade)
+  userId    String?
+  user      User?   @relation(fields: [userId], references: [id], onDelete: SetNull)
+  name      String?
+  order     Int     @default(0)
+
+  @@unique([journalId, userId])
+  @@index([userId])
+  @@map("journal_authors")
+}

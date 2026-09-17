@@ -1,0 +1,6 @@
+# Staging area for data you import locally.
+#
+# Everything here is ignored except this file, so real member data dropped in
+# for an import cannot be committed by accident.
+*
+!.gitignore

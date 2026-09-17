@@ -1,0 +1,128 @@
+[
+  {
+    "code": "KZ-ALA",
+    "name": "Almaty",
+    "nativeName": "Алматы",
+    "type": "City",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-ALM",
+    "name": "Almaty Region",
+    "nativeName": "Алматы облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-AKM",
+    "name": "Akmola Region",
+    "nativeName": "Ақмола облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-AKT",
+    "name": "Aktobe Region",
+    "nativeName": "Ақтөбе облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-AST",
+    "name": "Astana",
+    "nativeName": "Астана",
+    "type": "City",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-ATY",
+    "name": "Atyrau Region",
+    "nativeName": "Атырау облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-ZAP",
+    "name": "West Kazakhstan Region",
+    "nativeName": "Батыс Қазақстан облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-BAY",
+    "name": "Baikonur",
+    "nativeName": "Байқоңыр",
+    "type": "City",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-MAN",
+    "name": "Mangystau Region",
+    "nativeName": "Маңғыстау облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-YUZ",
+    "name": "Turkestan Region",
+    "nativeName": "Түркістан облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-PAV",
+    "name": "Pavlodar Region",
+    "nativeName": "Павлодар облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-KAR",
+    "name": "Karaganda Region",
+    "nativeName": "Қарағанды облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-KOS",
+    "name": "Kostanay Region",
+    "nativeName": "Қостанай облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-KZY",
+    "name": "Kyzylorda Region",
+    "nativeName": "Қызылорда облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-VOS",
+    "name": "East Kazakhstan Region",
+    "nativeName": "Шығыс Қазақстан облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-SEV",
+    "name": "North Kazakhstan Region",
+    "nativeName": "Солтүстік Қазақстан облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-ZHA",
+    "name": "Jambyl Region",
+    "nativeName": "Жамбыл облысы",
+    "type": "Region",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "KZ-SHY",
+    "name": "Shymkent",
+    "nativeName": "Шымкент",
+    "type": "City",
+    "countryCode": "KZ"
+  }
+]

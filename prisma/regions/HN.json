@@ -1,0 +1,128 @@
+[
+  {
+    "code": "HN-AT",
+    "name": "Atlántida Department",
+    "nativeName": "Departamento de Atlántida",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-CH",
+    "name": "Choluteca Department",
+    "nativeName": "Departamento de Choluteca",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-CL",
+    "name": "Colón Department",
+    "nativeName": "Departamento de Colón",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-CM",
+    "name": "Comayagua Department",
+    "nativeName": "Departamento de Comayagua",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-CP",
+    "name": "Copán Department",
+    "nativeName": "Departamento de Copán",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-CR",
+    "name": "Cortés Department",
+    "nativeName": "Departamento de Cortés",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-EP",
+    "name": "El Paraíso Department",
+    "nativeName": "Departamento de El Paraíso",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-FM",
+    "name": "Francisco Morazán Department",
+    "nativeName": "Departamento de Francisco Morazán",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-GD",
+    "name": "Gracias a Dios Department",
+    "nativeName": "Departamento de Gracias a Dios",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-IN",
+    "name": "Intibucá Department",
+    "nativeName": "Departamento de Intibucá",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-IB",
+    "name": "Islas de la Bahía Department",
+    "nativeName": "Departamento de Islas de la Bahía",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-LP",
+    "name": "La Paz Department",
+    "nativeName": "Departamento de La Paz",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-LE",
+    "name": "Lempira Department",
+    "nativeName": "Departamento de Lempira",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-OC",
+    "name": "Ocotepeque Department",
+    "nativeName": "Departamento de Ocotepeque",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-OL",
+    "name": "Olancho Department",
+    "nativeName": "Departamento de Olancho",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-SB",
+    "name": "Santa Bárbara Department",
+    "nativeName": "Departamento de Santa Bárbara",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-VA",
+    "name": "Valle Department",
+    "nativeName": "Departamento de Valle",
+    "type": "Department",
+    "countryCode": "HN"
+  },
+  {
+    "code": "HN-YO",
+    "name": "Yoro Department",
+    "nativeName": "Departamento de Yoro",
+    "type": "Department",
+    "countryCode": "HN"
+  }
+]

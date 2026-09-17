@@ -1,0 +1,86 @@
+[
+  {
+    "code": "AL-01",
+    "name": "Berat County",
+    "nativeName": "Qarku i Beratit",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-09",
+    "name": "Dibër County",
+    "nativeName": "Qarku i Dibrës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-02",
+    "name": "Durrës County",
+    "nativeName": "Qarku i Durrësit",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-03",
+    "name": "Elbasan County",
+    "nativeName": "Qarku i Elbasanit",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-04",
+    "name": "Fier County",
+    "nativeName": "Qarku i Fierit",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-05",
+    "name": "Gjirokastër County",
+    "nativeName": "Qarku i Gjirokastrës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-06",
+    "name": "Korçë County",
+    "nativeName": "Qarku i Korçës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-07",
+    "name": "Kukës County",
+    "nativeName": "Qarku i Kukësit",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-08",
+    "name": "Lezhë County",
+    "nativeName": "Qarku i Lezhës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-10",
+    "name": "Shkodër County",
+    "nativeName": "Qarku i Shkodrës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-11",
+    "name": "Tirana County",
+    "nativeName": "Qarku i Tiranës",
+    "type": "County",
+    "countryCode": "AL"
+  },
+  {
+    "code": "AL-12",
+    "name": "Vlorë County",
+    "nativeName": "Qarku i Vlorës",
+    "type": "County",
+    "countryCode": "AL"
+  }
+]

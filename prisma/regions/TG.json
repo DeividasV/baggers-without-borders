@@ -1,0 +1,37 @@
+[
+  {
+    "code": "TG-C",
+    "name": "Centrale",
+    "nativeName": "Centrale",
+    "type": "Region",
+    "countryCode": "TG"
+  },
+  {
+    "code": "TG-K",
+    "name": "Kara",
+    "nativeName": "Kara",
+    "type": "Region",
+    "countryCode": "TG"
+  },
+  {
+    "code": "TG-M",
+    "name": "Maritime",
+    "nativeName": "Maritime",
+    "type": "Region",
+    "countryCode": "TG"
+  },
+  {
+    "code": "TG-P",
+    "name": "Plateaux",
+    "nativeName": "Plateaux",
+    "type": "Region",
+    "countryCode": "TG"
+  },
+  {
+    "code": "TG-S",
+    "name": "Savanes",
+    "nativeName": "Savanes",
+    "type": "Region",
+    "countryCode": "TG"
+  }
+]

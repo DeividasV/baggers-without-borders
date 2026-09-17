@@ -1,0 +1,170 @@
+[
+  {
+    "code": "AR-B",
+    "name": "Buenos Aires Province",
+    "nativeName": "Provincia de Buenos Aires",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-C",
+    "name": "Ciudad Autónoma de Buenos Aires",
+    "nativeName": "Ciudad Autónoma de Buenos Aires",
+    "type": "Autonomous City",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-K",
+    "name": "Catamarca Province",
+    "nativeName": "Provincia de Catamarca",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-H",
+    "name": "Chaco Province",
+    "nativeName": "Provincia del Chaco",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-U",
+    "name": "Chubut Province",
+    "nativeName": "Provincia del Chubut",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-X",
+    "name": "Córdoba Province",
+    "nativeName": "Provincia de Córdoba",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-W",
+    "name": "Corrientes Province",
+    "nativeName": "Provincia de Corrientes",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-E",
+    "name": "Entre Ríos Province",
+    "nativeName": "Provincia de Entre Ríos",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-P",
+    "name": "Formosa Province",
+    "nativeName": "Provincia de Formosa",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-Y",
+    "name": "Jujuy Province",
+    "nativeName": "Provincia de Jujuy",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-L",
+    "name": "La Pampa Province",
+    "nativeName": "Provincia de La Pampa",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-F",
+    "name": "La Rioja Province",
+    "nativeName": "Provincia de La Rioja",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-M",
+    "name": "Mendoza Province",
+    "nativeName": "Provincia de Mendoza",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-N",
+    "name": "Misiones Province",
+    "nativeName": "Provincia de Misiones",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-Q",
+    "name": "Neuquén Province",
+    "nativeName": "Provincia del Neuquén",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-R",
+    "name": "Río Negro Province",
+    "nativeName": "Provincia de Río Negro",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-A",
+    "name": "Salta Province",
+    "nativeName": "Provincia de Salta",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-J",
+    "name": "San Juan Province",
+    "nativeName": "Provincia de San Juan",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-D",
+    "name": "San Luis Province",
+    "nativeName": "Provincia de San Luis",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-Z",
+    "name": "Santa Cruz Province",
+    "nativeName": "Provincia de Santa Cruz",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-S",
+    "name": "Santa Fe Province",
+    "nativeName": "Provincia de Santa Fe",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-G",
+    "name": "Santiago del Estero Province",
+    "nativeName": "Provincia de Santiago del Estero",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-V",
+    "name": "Tierra del Fuego Province",
+    "nativeName": "Provincia de Tierra del Fuego",
+    "type": "Province",
+    "countryCode": "AR"
+  },
+  {
+    "code": "AR-T",
+    "name": "Tucumán Province",
+    "nativeName": "Provincia de Tucumán",
+    "type": "Province",
+    "countryCode": "AR"
+  }
+]

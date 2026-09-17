@@ -1,0 +1,219 @@
+[
+  {
+    "code": "MW-BA",
+    "name": "Balaka",
+    "nativeName": "Balaka",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-BL",
+    "name": "Blantyre",
+    "nativeName": "Blantyre",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-C",
+    "name": "Central",
+    "nativeName": "Central",
+    "type": "Region",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-CK",
+    "name": "Chikwawa",
+    "nativeName": "Chikwawa",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-CR",
+    "name": "Chiradzulu",
+    "nativeName": "Chiradzulu",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-CT",
+    "name": "Chitipa",
+    "nativeName": "Chitipa",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-DE",
+    "name": "Dedza",
+    "nativeName": "Dedza",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-DO",
+    "name": "Dowa",
+    "nativeName": "Dowa",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-KR",
+    "name": "Karonga",
+    "nativeName": "Karonga",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-KS",
+    "name": "Kasungu",
+    "nativeName": "Kasungu",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-LI",
+    "name": "Lilongwe",
+    "nativeName": "Lilongwe",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-LK",
+    "name": "Likoma",
+    "nativeName": "Likoma",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MC",
+    "name": "Mchinji",
+    "nativeName": "Mchinji",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MG",
+    "name": "Mangochi",
+    "nativeName": "Mangochi",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MH",
+    "name": "Machinga",
+    "nativeName": "Machinga",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MU",
+    "name": "Mulanje",
+    "nativeName": "Mulanje",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MW",
+    "name": "Mwanza",
+    "nativeName": "Mwanza",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-MZ",
+    "name": "Mzimba",
+    "nativeName": "Mzimba",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-N",
+    "name": "Northern",
+    "nativeName": "Northern",
+    "type": "Region",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NB",
+    "name": "Nkhata Bay",
+    "nativeName": "Nkhata Bay",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NE",
+    "name": "Neno",
+    "nativeName": "Neno",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NI",
+    "name": "Ntchisi",
+    "nativeName": "Ntchisi",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NK",
+    "name": "Nkhotakota",
+    "nativeName": "Nkhotakota",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NS",
+    "name": "Nsanje",
+    "nativeName": "Nsanje",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-NU",
+    "name": "Ntcheu",
+    "nativeName": "Ntcheu",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-PH",
+    "name": "Phalombe",
+    "nativeName": "Phalombe",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-RU",
+    "name": "Rumphi",
+    "nativeName": "Rumphi",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-S",
+    "name": "Southern",
+    "nativeName": "Southern",
+    "type": "Region",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-SA",
+    "name": "Salima",
+    "nativeName": "Salima",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-TH",
+    "name": "Thyolo",
+    "nativeName": "Thyolo",
+    "type": "District",
+    "countryCode": "MW"
+  },
+  {
+    "code": "MW-ZO",
+    "name": "Zomba",
+    "nativeName": "Zomba",
+    "type": "District",
+    "countryCode": "MW"
+  }
+]

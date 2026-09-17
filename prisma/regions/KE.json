@@ -1,0 +1,331 @@
+[
+  {
+    "code": "KE-01",
+    "name": "Baringo",
+    "nativeName": "Baringo",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-02",
+    "name": "Bomet",
+    "nativeName": "Bomet",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-03",
+    "name": "Bungoma",
+    "nativeName": "Bungoma",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-04",
+    "name": "Busia",
+    "nativeName": "Busia",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-05",
+    "name": "Elgeyo-Marakwet",
+    "nativeName": "Elgeyo-Marakwet",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-06",
+    "name": "Embu",
+    "nativeName": "Embu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-07",
+    "name": "Garissa",
+    "nativeName": "Garissa",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-08",
+    "name": "Homa Bay",
+    "nativeName": "Homa Bay",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-09",
+    "name": "Isiolo",
+    "nativeName": "Isiolo",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-10",
+    "name": "Kajiado",
+    "nativeName": "Kajiado",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-11",
+    "name": "Kakamega",
+    "nativeName": "Kakamega",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-12",
+    "name": "Kericho",
+    "nativeName": "Kericho",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-13",
+    "name": "Kiambu",
+    "nativeName": "Kiambu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-14",
+    "name": "Kilifi",
+    "nativeName": "Kilifi",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-15",
+    "name": "Kirinyaga",
+    "nativeName": "Kirinyaga",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-16",
+    "name": "Kisii",
+    "nativeName": "Kisii",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-17",
+    "name": "Kisumu",
+    "nativeName": "Kisumu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-18",
+    "name": "Kitui",
+    "nativeName": "Kitui",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-19",
+    "name": "Kwale",
+    "nativeName": "Kwale",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-20",
+    "name": "Laikipia",
+    "nativeName": "Laikipia",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-21",
+    "name": "Lamu",
+    "nativeName": "Lamu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-22",
+    "name": "Machakos",
+    "nativeName": "Machakos",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-23",
+    "name": "Makueni",
+    "nativeName": "Makueni",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-24",
+    "name": "Mandera",
+    "nativeName": "Mandera",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-25",
+    "name": "Marsabit",
+    "nativeName": "Marsabit",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-26",
+    "name": "Meru",
+    "nativeName": "Meru",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-27",
+    "name": "Migori",
+    "nativeName": "Migori",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-28",
+    "name": "Mombasa",
+    "nativeName": "Mombasa",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-29",
+    "name": "Murang'a",
+    "nativeName": "Murang'a",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-30",
+    "name": "Nairobi",
+    "nativeName": "Nairobi",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-31",
+    "name": "Nakuru",
+    "nativeName": "Nakuru",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-32",
+    "name": "Nandi",
+    "nativeName": "Nandi",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-33",
+    "name": "Narok",
+    "nativeName": "Narok",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-34",
+    "name": "Nyamira",
+    "nativeName": "Nyamira",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-35",
+    "name": "Nyandarua",
+    "nativeName": "Nyandarua",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-36",
+    "name": "Nyeri",
+    "nativeName": "Nyeri",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-37",
+    "name": "Samburu",
+    "nativeName": "Samburu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-38",
+    "name": "Siaya",
+    "nativeName": "Siaya",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-39",
+    "name": "Taita-Taveta",
+    "nativeName": "Taita-Taveta",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-40",
+    "name": "Tana River",
+    "nativeName": "Tana River",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-41",
+    "name": "Tharaka-Nithi",
+    "nativeName": "Tharaka-Nithi",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-42",
+    "name": "Trans Nzoia",
+    "nativeName": "Trans Nzoia",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-43",
+    "name": "Turkana",
+    "nativeName": "Turkana",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-44",
+    "name": "Uasin Gishu",
+    "nativeName": "Uasin Gishu",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-45",
+    "name": "Vihiga",
+    "nativeName": "Vihiga",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-46",
+    "name": "Wajir",
+    "nativeName": "Wajir",
+    "type": "County",
+    "countryCode": "KE"
+  },
+  {
+    "code": "KE-47",
+    "name": "West Pokot",
+    "nativeName": "West Pokot",
+    "type": "County",
+    "countryCode": "KE"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "FR-ARA",
+    "name": "Auvergne-Rhône-Alpes",
+    "nativeName": "Auvergne-Rhône-Alpes",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-BFC",
+    "name": "Bourgogne-Franche-Comté",
+    "nativeName": "Bourgogne-Franche-Comté",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-BRE",
+    "name": "Brittany",
+    "nativeName": "Bretagne",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-CVL",
+    "name": "Centre-Val de Loire",
+    "nativeName": "Centre-Val de Loire",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-COR",
+    "name": "Corsica",
+    "nativeName": "Corse",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-GES",
+    "name": "Grand Est",
+    "nativeName": "Grand Est",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-HDF",
+    "name": "Hauts-de-France",
+    "nativeName": "Hauts-de-France",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-IDF",
+    "name": "Île-de-France",
+    "nativeName": "Île-de-France",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-NOR",
+    "name": "Normandy",
+    "nativeName": "Normandie",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-NAQ",
+    "name": "Nouvelle-Aquitaine",
+    "nativeName": "Nouvelle-Aquitaine",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-OCC",
+    "name": "Occitanie",
+    "nativeName": "Occitanie",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-PDL",
+    "name": "Pays de la Loire",
+    "nativeName": "Pays de la Loire",
+    "type": "Region",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FR-PAC",
+    "name": "Provence-Alpes-Côte d'Azur",
+    "nativeName": "Provence-Alpes-Côte d'Azur",
+    "type": "Region",
+    "countryCode": "FR"
+  }
+]

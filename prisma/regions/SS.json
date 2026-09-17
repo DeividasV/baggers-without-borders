@@ -1,0 +1,72 @@
+[
+  {
+    "code": "SS-BN",
+    "name": "Northern Bahr el Ghazal",
+    "nativeName": "Northern Bahr el Ghazal",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-BW",
+    "name": "Western Bahr el Ghazal",
+    "nativeName": "Western Bahr el Ghazal",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-EC",
+    "name": "Central Equatoria",
+    "nativeName": "Central Equatoria",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-EE",
+    "name": "Eastern Equatoria",
+    "nativeName": "Eastern Equatoria",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-EW",
+    "name": "Western Equatoria",
+    "nativeName": "Western Equatoria",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-JG",
+    "name": "Jonglei",
+    "nativeName": "Jonglei",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-LK",
+    "name": "Lakes",
+    "nativeName": "Lakes",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-NU",
+    "name": "Upper Nile",
+    "nativeName": "Upper Nile",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-UY",
+    "name": "Unity",
+    "nativeName": "Unity",
+    "type": "State",
+    "countryCode": "SS"
+  },
+  {
+    "code": "SS-WR",
+    "name": "Warrap",
+    "nativeName": "Warrap",
+    "type": "State",
+    "countryCode": "SS"
+  }
+]

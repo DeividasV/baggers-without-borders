@@ -1,0 +1,177 @@
+[
+  {
+    "code": "VE-Z",
+    "name": "Amazonas State",
+    "nativeName": "Estado Amazonas",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-B",
+    "name": "Anzoátegui State",
+    "nativeName": "Estado Anzoátegui",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-C",
+    "name": "Apure State",
+    "nativeName": "Estado Apure",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-D",
+    "name": "Aragua State",
+    "nativeName": "Estado Aragua",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-E",
+    "name": "Barinas State",
+    "nativeName": "Estado Barinas",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-F",
+    "name": "Bolívar State",
+    "nativeName": "Estado Bolívar",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-G",
+    "name": "Carabobo State",
+    "nativeName": "Estado Carabobo",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-H",
+    "name": "Cojedes State",
+    "nativeName": "Estado Cojedes",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-Y",
+    "name": "Delta Amacuro State",
+    "nativeName": "Estado Delta Amacuro",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-W",
+    "name": "Federal Dependencies",
+    "nativeName": "Dependencias Federales",
+    "type": "Federal Dependency",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-A",
+    "name": "Capital District",
+    "nativeName": "Distrito Capital",
+    "type": "Capital District",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-I",
+    "name": "Falcón State",
+    "nativeName": "Estado Falcón",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-J",
+    "name": "Guárico State",
+    "nativeName": "Estado Guárico",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-K",
+    "name": "Lara State",
+    "nativeName": "Estado Lara",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-L",
+    "name": "Mérida State",
+    "nativeName": "Estado Mérida",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-M",
+    "name": "Miranda State",
+    "nativeName": "Estado Miranda",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-N",
+    "name": "Monagas State",
+    "nativeName": "Estado Monagas",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-O",
+    "name": "Nueva Esparta State",
+    "nativeName": "Estado Nueva Esparta",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-P",
+    "name": "Portuguesa State",
+    "nativeName": "Estado Portuguesa",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-R",
+    "name": "Sucre State",
+    "nativeName": "Estado Sucre",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-S",
+    "name": "Táchira State",
+    "nativeName": "Estado Táchira",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-T",
+    "name": "Trujillo State",
+    "nativeName": "Estado Trujillo",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-X",
+    "name": "Vargas State",
+    "nativeName": "Estado Vargas",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-U",
+    "name": "Yaracuy State",
+    "nativeName": "Estado Yaracuy",
+    "type": "State",
+    "countryCode": "VE"
+  },
+  {
+    "code": "VE-V",
+    "name": "Zulia State",
+    "nativeName": "Estado Zulia",
+    "type": "State",
+    "countryCode": "VE"
+  }
+]

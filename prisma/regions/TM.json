@@ -1,0 +1,44 @@
+[
+  {
+    "code": "TM-A",
+    "name": "Ahal",
+    "nativeName": "Ahal",
+    "type": "Region",
+    "countryCode": "TM"
+  },
+  {
+    "code": "TM-B",
+    "name": "Balkan",
+    "nativeName": "Balkan",
+    "type": "Region",
+    "countryCode": "TM"
+  },
+  {
+    "code": "TM-D",
+    "name": "Daşoguz",
+    "nativeName": "Daşoguz",
+    "type": "Region",
+    "countryCode": "TM"
+  },
+  {
+    "code": "TM-L",
+    "name": "Lebap",
+    "nativeName": "Lebap",
+    "type": "Region",
+    "countryCode": "TM"
+  },
+  {
+    "code": "TM-M",
+    "name": "Mary",
+    "nativeName": "Mary",
+    "type": "Region",
+    "countryCode": "TM"
+  },
+  {
+    "code": "TM-S",
+    "name": "Ashgabat",
+    "nativeName": "Aşgabat",
+    "type": "City",
+    "countryCode": "TM"
+  }
+]

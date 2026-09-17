@@ -1,0 +1,30 @@
+[
+  {
+    "code": "GB-ENG",
+    "name": "England",
+    "nativeName": "England",
+    "type": "Country",
+    "countryCode": "GB"
+  },
+  {
+    "code": "GB-NIR",
+    "name": "Northern Ireland",
+    "nativeName": "Northern Ireland",
+    "type": "Country",
+    "countryCode": "GB"
+  },
+  {
+    "code": "GB-SCT",
+    "name": "Scotland",
+    "nativeName": "Scotland",
+    "type": "Country",
+    "countryCode": "GB"
+  },
+  {
+    "code": "GB-WLS",
+    "name": "Wales",
+    "nativeName": "Wales",
+    "type": "Country",
+    "countryCode": "GB"
+  }
+]

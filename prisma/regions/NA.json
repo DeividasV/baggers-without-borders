@@ -1,0 +1,100 @@
+[
+  {
+    "code": "NA-CA",
+    "name": "Zambezi",
+    "nativeName": "Zambezi",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-ER",
+    "name": "Erongo",
+    "nativeName": "Erongo",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-HA",
+    "name": "Hardap",
+    "nativeName": "Hardap",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-KA",
+    "name": "Karas",
+    "nativeName": "Karas",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-KE",
+    "name": "Kavango East",
+    "nativeName": "Kavango East",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-KH",
+    "name": "Khomas",
+    "nativeName": "Khomas",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-KU",
+    "name": "Kunene",
+    "nativeName": "Kunene",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-KW",
+    "name": "Kavango West",
+    "nativeName": "Kavango West",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-OD",
+    "name": "Otjozondjupa",
+    "nativeName": "Otjozondjupa",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-OH",
+    "name": "Omaheke",
+    "nativeName": "Omaheke",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-ON",
+    "name": "Oshana",
+    "nativeName": "Oshana",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-OS",
+    "name": "Omusati",
+    "nativeName": "Omusati",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-OT",
+    "name": "Oshikoto",
+    "nativeName": "Oshikoto",
+    "type": "Region",
+    "countryCode": "NA"
+  },
+  {
+    "code": "NA-OW",
+    "name": "Ohangwena",
+    "nativeName": "Ohangwena",
+    "type": "Region",
+    "countryCode": "NA"
+  }
+]

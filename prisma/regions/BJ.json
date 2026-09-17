@@ -1,0 +1,86 @@
+[
+  {
+    "code": "BJ-AK",
+    "name": "Atacora",
+    "nativeName": "Atacora",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-AL",
+    "name": "Alibori",
+    "nativeName": "Alibori",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-AQ",
+    "name": "Atlantique",
+    "nativeName": "Atlantique",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-BO",
+    "name": "Borgou",
+    "nativeName": "Borgou",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-CO",
+    "name": "Collines",
+    "nativeName": "Collines",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-DO",
+    "name": "Donga",
+    "nativeName": "Donga",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-KO",
+    "name": "Kouffo",
+    "nativeName": "Kouffo",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-LI",
+    "name": "Littoral",
+    "nativeName": "Littoral",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-MO",
+    "name": "Mono",
+    "nativeName": "Mono",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-OU",
+    "name": "Ouémé",
+    "nativeName": "Ouémé",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-PL",
+    "name": "Plateau",
+    "nativeName": "Plateau",
+    "type": "Department",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "BJ-ZO",
+    "name": "Zou",
+    "nativeName": "Zou",
+    "type": "Department",
+    "countryCode": "BJ"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "RW-01",
+    "name": "City of Kigali",
+    "nativeName": "Umujyi wa Kigali",
+    "type": "City",
+    "countryCode": "RW"
+  },
+  {
+    "code": "RW-02",
+    "name": "Eastern Province",
+    "nativeName": "Intara y'Iburasirazuba",
+    "type": "Province",
+    "countryCode": "RW"
+  },
+  {
+    "code": "RW-03",
+    "name": "Northern Province",
+    "nativeName": "Intara y'Amajyaruguru",
+    "type": "Province",
+    "countryCode": "RW"
+  },
+  {
+    "code": "RW-04",
+    "name": "Western Province",
+    "nativeName": "Intara y'Iburengerazuba",
+    "type": "Province",
+    "countryCode": "RW"
+  },
+  {
+    "code": "RW-05",
+    "name": "Southern Province",
+    "nativeName": "Intara y'Amajyepfo",
+    "type": "Province",
+    "countryCode": "RW"
+  }
+]

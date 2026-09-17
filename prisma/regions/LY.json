@@ -1,0 +1,156 @@
+[
+  {
+    "code": "LY-BA",
+    "name": "Benghazi",
+    "nativeName": "بنغازي",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-BU",
+    "name": "Al Butnan",
+    "nativeName": "البطنان",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-DR",
+    "name": "Derna",
+    "nativeName": "درنة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-GT",
+    "name": "Ghat",
+    "nativeName": "غات",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-JA",
+    "name": "Al Jabal al Akhdar",
+    "nativeName": "الجبل الأخضر",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-JG",
+    "name": "Al Jabal al Gharbi",
+    "nativeName": "الجبل الغربي",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-JI",
+    "name": "Al Jfara",
+    "nativeName": "الجفارة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-JU",
+    "name": "Al Jufrah",
+    "nativeName": "الجفرة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-KF",
+    "name": "Al Kufrah",
+    "nativeName": "الكفرة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-MB",
+    "name": "Al Marqab",
+    "nativeName": "المرقب",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-MI",
+    "name": "Misrata",
+    "nativeName": "مصراتة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-MJ",
+    "name": "Al Marj",
+    "nativeName": "المرج",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-MQ",
+    "name": "Murzuq",
+    "nativeName": "مرزق",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-NL",
+    "name": "Nalut",
+    "nativeName": "نالوت",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-NQ",
+    "name": "Nuqat al Khams",
+    "nativeName": "النقاط الخمس",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-SB",
+    "name": "Sabha",
+    "nativeName": "سبها",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-SR",
+    "name": "Sirte",
+    "nativeName": "سرت",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-TB",
+    "name": "Tripoli",
+    "nativeName": "طرابلس",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-WA",
+    "name": "Al Wahat",
+    "nativeName": "الواحات",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-WD",
+    "name": "Wadi al Hayaa",
+    "nativeName": "وادي الحياة",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-WS",
+    "name": "Wadi al Shatii",
+    "nativeName": "وادي الشاطئ",
+    "type": "District",
+    "countryCode": "LY"
+  },
+  {
+    "code": "LY-ZA",
+    "name": "Az Zawiyah",
+    "nativeName": "الزاوية",
+    "type": "District",
+    "countryCode": "LY"
+  }
+]

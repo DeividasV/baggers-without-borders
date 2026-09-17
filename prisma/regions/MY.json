@@ -1,0 +1,114 @@
+[
+  {
+    "code": "MY-01",
+    "name": "Johor",
+    "nativeName": "Johor",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-02",
+    "name": "Kedah",
+    "nativeName": "Kedah",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-03",
+    "name": "Kelantan",
+    "nativeName": "Kelantan",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-04",
+    "name": "Malacca",
+    "nativeName": "Melaka",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-05",
+    "name": "Negeri Sembilan",
+    "nativeName": "Negeri Sembilan",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-06",
+    "name": "Pahang",
+    "nativeName": "Pahang",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-07",
+    "name": "Penang",
+    "nativeName": "Pulau Pinang",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-08",
+    "name": "Perak",
+    "nativeName": "Perak",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-09",
+    "name": "Perlis",
+    "nativeName": "Perlis",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-10",
+    "name": "Selangor",
+    "nativeName": "Selangor",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-11",
+    "name": "Terengganu",
+    "nativeName": "Terengganu",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-12",
+    "name": "Sabah",
+    "nativeName": "Sabah",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-13",
+    "name": "Sarawak",
+    "nativeName": "Sarawak",
+    "type": "State",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-14",
+    "name": "Kuala Lumpur",
+    "nativeName": "Kuala Lumpur",
+    "type": "Federal Territory",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-15",
+    "name": "Labuan",
+    "nativeName": "Labuan",
+    "type": "Federal Territory",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MY-16",
+    "name": "Putrajaya",
+    "nativeName": "Putrajaya",
+    "type": "Federal Territory",
+    "countryCode": "MY"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "code": "BG-01",
+    "name": "Blagoevgrad",
+    "nativeName": "Благоевград",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-02",
+    "name": "Burgas",
+    "nativeName": "Бургас",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-03",
+    "name": "Varna",
+    "nativeName": "Варна",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-04",
+    "name": "Veliko Tarnovo",
+    "nativeName": "Велико Търново",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-05",
+    "name": "Vidin",
+    "nativeName": "Видин",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-06",
+    "name": "Vratsa",
+    "nativeName": "Враца",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-07",
+    "name": "Gabrovo",
+    "nativeName": "Габрово",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-08",
+    "name": "Dobrich",
+    "nativeName": "Добрич",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-09",
+    "name": "Kardzhali",
+    "nativeName": "Кърджали",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-10",
+    "name": "Kyustendil",
+    "nativeName": "Кюстендил",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-11",
+    "name": "Lovech",
+    "nativeName": "Ловеч",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-12",
+    "name": "Montana",
+    "nativeName": "Монтана",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-13",
+    "name": "Pazardzhik",
+    "nativeName": "Пазарджик",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-14",
+    "name": "Pernik",
+    "nativeName": "Перник",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-15",
+    "name": "Pleven",
+    "nativeName": "Плевен",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-16",
+    "name": "Plovdiv",
+    "nativeName": "Пловдив",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-17",
+    "name": "Razgrad",
+    "nativeName": "Разград",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-18",
+    "name": "Ruse",
+    "nativeName": "Русе",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-19",
+    "name": "Silistra",
+    "nativeName": "Силистра",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-20",
+    "name": "Sliven",
+    "nativeName": "Сливен",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-21",
+    "name": "Smolyan",
+    "nativeName": "Смолян",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-22",
+    "name": "Sofia City",
+    "nativeName": "София-град",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-23",
+    "name": "Sofia Province",
+    "nativeName": "София",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-24",
+    "name": "Stara Zagora",
+    "nativeName": "Стара Загора",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-25",
+    "name": "Targovishte",
+    "nativeName": "Търговище",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-26",
+    "name": "Haskovo",
+    "nativeName": "Хасково",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-27",
+    "name": "Shumen",
+    "nativeName": "Шумен",
+    "type": "Province",
+    "countryCode": "BG"
+  },
+  {
+    "code": "BG-28",
+    "name": "Yambol",
+    "nativeName": "Ямбол",
+    "type": "Province",
+    "countryCode": "BG"
+  }
+]

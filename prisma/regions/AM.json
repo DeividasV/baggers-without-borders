@@ -1,0 +1,79 @@
+[
+  {
+    "code": "AM-AG",
+    "name": "Aragatsotn",
+    "nativeName": "Արագածոտն",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-AR",
+    "name": "Ararat",
+    "nativeName": "Արարատ",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-AV",
+    "name": "Armavir",
+    "nativeName": "Արմավիր",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-ER",
+    "name": "Yerevan",
+    "nativeName": "Երևան",
+    "type": "City",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-GR",
+    "name": "Gegharkunik",
+    "nativeName": "Գեղարքունիք",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-KT",
+    "name": "Kotayk",
+    "nativeName": "Կոտայք",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-LO",
+    "name": "Lori",
+    "nativeName": "Լոռի",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-SH",
+    "name": "Shirak",
+    "nativeName": "Շիրակ",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-SU",
+    "name": "Syunik",
+    "nativeName": "Սյունիք",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-TV",
+    "name": "Tavush",
+    "nativeName": "Տավուշ",
+    "type": "Province",
+    "countryCode": "AM"
+  },
+  {
+    "code": "AM-VD",
+    "name": "Vayots Dzor",
+    "nativeName": "Վայոց Ձոր",
+    "type": "Province",
+    "countryCode": "AM"
+  }
+]

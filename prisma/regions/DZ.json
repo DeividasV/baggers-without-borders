@@ -1,0 +1,338 @@
+[
+  {
+    "code": "DZ-01",
+    "name": "Adrar",
+    "nativeName": "أدرار",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-44",
+    "name": "Aïn Defla",
+    "nativeName": "عين الدفلى",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-46",
+    "name": "Aïn Témouchent",
+    "nativeName": "عين تموشنت",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-16",
+    "name": "Algiers",
+    "nativeName": "الجزائر",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-23",
+    "name": "Annaba",
+    "nativeName": "عنابة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-05",
+    "name": "Batna",
+    "nativeName": "باتنة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-08",
+    "name": "Béchar",
+    "nativeName": "بشار",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-06",
+    "name": "Béjaïa",
+    "nativeName": "بجاية",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-07",
+    "name": "Biskra",
+    "nativeName": "بسكرة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-09",
+    "name": "Blida",
+    "nativeName": "البليدة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-34",
+    "name": "Bordj Bou Arréridj",
+    "nativeName": "برج بوعريريج",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-10",
+    "name": "Bouira",
+    "nativeName": "البويرة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-35",
+    "name": "Boumerdès",
+    "nativeName": "بومرداس",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-02",
+    "name": "Chlef",
+    "nativeName": "الشلف",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-25",
+    "name": "Constantine",
+    "nativeName": "قسنطينة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-17",
+    "name": "Djelfa",
+    "nativeName": "الجلفة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-32",
+    "name": "El Bayadh",
+    "nativeName": "البيض",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-39",
+    "name": "El Oued",
+    "nativeName": "الوادي",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-36",
+    "name": "El Tarf",
+    "nativeName": "الطارف",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-47",
+    "name": "Ghardaïa",
+    "nativeName": "غرداية",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-24",
+    "name": "Guelma",
+    "nativeName": "قالمة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-33",
+    "name": "Illizi",
+    "nativeName": "إليزي",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-18",
+    "name": "Jijel",
+    "nativeName": "جيجل",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-40",
+    "name": "Khenchela",
+    "nativeName": "خنشلة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-03",
+    "name": "Laghouat",
+    "nativeName": "الأغواط",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-29",
+    "name": "Mascara",
+    "nativeName": "معسكر",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-26",
+    "name": "Médéa",
+    "nativeName": "المدية",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-43",
+    "name": "Mila",
+    "nativeName": "ميلة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-27",
+    "name": "Mostaganem",
+    "nativeName": "مستغانم",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-28",
+    "name": "M'Sila",
+    "nativeName": "المسيلة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-45",
+    "name": "Naâma",
+    "nativeName": "النعامة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-31",
+    "name": "Oran",
+    "nativeName": "وهران",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-30",
+    "name": "Ouargla",
+    "nativeName": "ورقلة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-04",
+    "name": "Oum El Bouaghi",
+    "nativeName": "أم البواقي",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-48",
+    "name": "Relizane",
+    "nativeName": "غليزان",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-20",
+    "name": "Saïda",
+    "nativeName": "سعيدة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-19",
+    "name": "Sétif",
+    "nativeName": "سطيف",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-22",
+    "name": "Sidi Bel Abbès",
+    "nativeName": "سيدي بلعباس",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-21",
+    "name": "Skikda",
+    "nativeName": "سكيكدة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-41",
+    "name": "Souk Ahras",
+    "nativeName": "سوق أهراس",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-11",
+    "name": "Tamanrasset",
+    "nativeName": "تمنراست",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-12",
+    "name": "Tébessa",
+    "nativeName": "تبسة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-14",
+    "name": "Tiaret",
+    "nativeName": "تيارت",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-37",
+    "name": "Tindouf",
+    "nativeName": "تندوف",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-42",
+    "name": "Tipaza",
+    "nativeName": "تيبازة",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-38",
+    "name": "Tissemsilt",
+    "nativeName": "تيسمسيلت",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-15",
+    "name": "Tizi Ouzou",
+    "nativeName": "تيزي وزو",
+    "type": "Province",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DZ-13",
+    "name": "Tlemcen",
+    "nativeName": "تلمسان",
+    "type": "Province",
+    "countryCode": "DZ"
+  }
+]

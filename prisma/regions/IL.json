@@ -1,0 +1,44 @@
+[
+  {
+    "code": "IL-D",
+    "name": "Southern District",
+    "nativeName": "מחוז הדרום",
+    "type": "District",
+    "countryCode": "IL"
+  },
+  {
+    "code": "IL-HA",
+    "name": "Haifa District",
+    "nativeName": "מחוז חיפה",
+    "type": "District",
+    "countryCode": "IL"
+  },
+  {
+    "code": "IL-JM",
+    "name": "Jerusalem District",
+    "nativeName": "מחוז ירושלים",
+    "type": "District",
+    "countryCode": "IL"
+  },
+  {
+    "code": "IL-M",
+    "name": "Central District",
+    "nativeName": "המחוז המרכזי",
+    "type": "District",
+    "countryCode": "IL"
+  },
+  {
+    "code": "IL-TA",
+    "name": "Tel Aviv District",
+    "nativeName": "מחוז תל אביב",
+    "type": "District",
+    "countryCode": "IL"
+  },
+  {
+    "code": "IL-Z",
+    "name": "Northern District",
+    "nativeName": "מחוז הצפון",
+    "type": "District",
+    "countryCode": "IL"
+  }
+]

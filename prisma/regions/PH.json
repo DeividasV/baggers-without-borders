@@ -1,0 +1,562 @@
+[
+  {
+    "code": "PH-ABR",
+    "name": "Abra",
+    "nativeName": "Abra",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-AGN",
+    "name": "Agusan del Norte",
+    "nativeName": "Agusan del Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-AGS",
+    "name": "Agusan del Sur",
+    "nativeName": "Agusan del Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-AKL",
+    "name": "Aklan",
+    "nativeName": "Aklan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ALB",
+    "name": "Albay",
+    "nativeName": "Albay",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ANT",
+    "name": "Antique",
+    "nativeName": "Antique",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-APA",
+    "name": "Apayao",
+    "nativeName": "Apayao",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-AUR",
+    "name": "Aurora",
+    "nativeName": "Aurora",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BAS",
+    "name": "Basilan",
+    "nativeName": "Basilan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BAN",
+    "name": "Bataan",
+    "nativeName": "Bataan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BTN",
+    "name": "Batanes",
+    "nativeName": "Batanes",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BTG",
+    "name": "Batangas",
+    "nativeName": "Batangas",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BEN",
+    "name": "Benguet",
+    "nativeName": "Benguet",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BIL",
+    "name": "Biliran",
+    "nativeName": "Biliran",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BOH",
+    "name": "Bohol",
+    "nativeName": "Bohol",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BUK",
+    "name": "Bukidnon",
+    "nativeName": "Bukidnon",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-BUL",
+    "name": "Bulacan",
+    "nativeName": "Bulacan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAG",
+    "name": "Cagayan",
+    "nativeName": "Cagayan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAN",
+    "name": "Camarines Norte",
+    "nativeName": "Camarines Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAS",
+    "name": "Camarines Sur",
+    "nativeName": "Camarines Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAM",
+    "name": "Camiguin",
+    "nativeName": "Camiguin",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAP",
+    "name": "Capiz",
+    "nativeName": "Capiz",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAT",
+    "name": "Catanduanes",
+    "nativeName": "Catanduanes",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CAV",
+    "name": "Cavite",
+    "nativeName": "Cavite",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-CEB",
+    "name": "Cebu",
+    "nativeName": "Cebu",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-COM",
+    "name": "Compostela Valley",
+    "nativeName": "Compostela Valley",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-DAO",
+    "name": "Davao Oriental",
+    "nativeName": "Davao Oriental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-DAS",
+    "name": "Davao del Sur",
+    "nativeName": "Davao del Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-DAV",
+    "name": "Davao del Norte",
+    "nativeName": "Davao del Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-DIN",
+    "name": "Dinagat Islands",
+    "nativeName": "Dinagat Islands",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-EAS",
+    "name": "Eastern Samar",
+    "nativeName": "Eastern Samar",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-GUI",
+    "name": "Guimaras",
+    "nativeName": "Guimaras",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-IFU",
+    "name": "Ifugao",
+    "nativeName": "Ifugao",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ILN",
+    "name": "Ilocos Norte",
+    "nativeName": "Ilocos Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ILS",
+    "name": "Ilocos Sur",
+    "nativeName": "Ilocos Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ILI",
+    "name": "Iloilo",
+    "nativeName": "Iloilo",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ISA",
+    "name": "Isabela",
+    "nativeName": "Isabela",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-KAL",
+    "name": "Kalinga",
+    "nativeName": "Kalinga",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-LAG",
+    "name": "Laguna",
+    "nativeName": "Laguna",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-LAN",
+    "name": "Lanao del Norte",
+    "nativeName": "Lanao del Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-LAS",
+    "name": "Lanao del Sur",
+    "nativeName": "Lanao del Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-LUN",
+    "name": "La Union",
+    "nativeName": "La Union",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-LEY",
+    "name": "Leyte",
+    "nativeName": "Leyte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MAG",
+    "name": "Maguindanao",
+    "nativeName": "Maguindanao",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MAD",
+    "name": "Marinduque",
+    "nativeName": "Marinduque",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MAS",
+    "name": "Masbate",
+    "nativeName": "Masbate",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MDC",
+    "name": "Mindoro Occidental",
+    "nativeName": "Mindoro Occidental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MDR",
+    "name": "Mindoro Oriental",
+    "nativeName": "Mindoro Oriental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MSC",
+    "name": "Misamis Occidental",
+    "nativeName": "Misamis Occidental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MSR",
+    "name": "Misamis Oriental",
+    "nativeName": "Misamis Oriental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-MOU",
+    "name": "Mountain Province",
+    "nativeName": "Mountain Province",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-00",
+    "name": "Metro Manila",
+    "nativeName": "Kalakhang Maynila",
+    "type": "National Capital Region",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-NEC",
+    "name": "Negros Occidental",
+    "nativeName": "Negros Occidental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-NER",
+    "name": "Negros Oriental",
+    "nativeName": "Negros Oriental",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-NSA",
+    "name": "Northern Samar",
+    "nativeName": "Northern Samar",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-NUE",
+    "name": "Nueva Ecija",
+    "nativeName": "Nueva Ecija",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-NUV",
+    "name": "Nueva Vizcaya",
+    "nativeName": "Nueva Vizcaya",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-PLW",
+    "name": "Palawan",
+    "nativeName": "Palawan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-PAM",
+    "name": "Pampanga",
+    "nativeName": "Pampanga",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-PAN",
+    "name": "Pangasinan",
+    "nativeName": "Pangasinan",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-QUE",
+    "name": "Quezon",
+    "nativeName": "Quezon",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-QUI",
+    "name": "Quirino",
+    "nativeName": "Quirino",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-RIZ",
+    "name": "Rizal",
+    "nativeName": "Rizal",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ROM",
+    "name": "Romblon",
+    "nativeName": "Romblon",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SAR",
+    "name": "Sarangani",
+    "nativeName": "Sarangani",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SIG",
+    "name": "Siquijor",
+    "nativeName": "Siquijor",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SOR",
+    "name": "Sorsogon",
+    "nativeName": "Sorsogon",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SCO",
+    "name": "South Cotabato",
+    "nativeName": "South Cotabato",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SLE",
+    "name": "Southern Leyte",
+    "nativeName": "Southern Leyte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SUK",
+    "name": "Sultan Kudarat",
+    "nativeName": "Sultan Kudarat",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SLU",
+    "name": "Sulu",
+    "nativeName": "Sulu",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SUN",
+    "name": "Surigao del Norte",
+    "nativeName": "Surigao del Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-SUR",
+    "name": "Surigao del Sur",
+    "nativeName": "Surigao del Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-TAR",
+    "name": "Tarlac",
+    "nativeName": "Tarlac",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-TAW",
+    "name": "Tawi-Tawi",
+    "nativeName": "Tawi-Tawi",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-WSA",
+    "name": "Western Samar",
+    "nativeName": "Western Samar",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ZMB",
+    "name": "Zambales",
+    "nativeName": "Zambales",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ZAN",
+    "name": "Zamboanga del Norte",
+    "nativeName": "Zamboanga del Norte",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ZAS",
+    "name": "Zamboanga del Sur",
+    "nativeName": "Zamboanga del Sur",
+    "type": "Province",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PH-ZSI",
+    "name": "Zamboanga Sibugay",
+    "nativeName": "Zamboanga Sibugay",
+    "type": "Province",
+    "countryCode": "PH"
+  }
+]

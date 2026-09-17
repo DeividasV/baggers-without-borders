@@ -1,0 +1,219 @@
+[
+  {
+    "code": "IR-32",
+    "name": "Alborz",
+    "nativeName": "البرز",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-03",
+    "name": "Ardabil",
+    "nativeName": "اردبیل",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-02",
+    "name": "West Azerbaijan",
+    "nativeName": "آذربایجان غربی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-01",
+    "name": "East Azerbaijan",
+    "nativeName": "آذربایجان شرقی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-06",
+    "name": "Bushehr",
+    "nativeName": "بوشهر",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-08",
+    "name": "Chaharmahal and Bakhtiari",
+    "nativeName": "چهارمحال و بختیاری",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-04",
+    "name": "Isfahan",
+    "nativeName": "اصفهان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-14",
+    "name": "Fars",
+    "nativeName": "فارس",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-19",
+    "name": "Gilan",
+    "nativeName": "گیلان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-27",
+    "name": "Golestan",
+    "nativeName": "گلستان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-24",
+    "name": "Hamadan",
+    "nativeName": "همدان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-23",
+    "name": "Hormozgan",
+    "nativeName": "هرمزگان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-15",
+    "name": "Ilam",
+    "nativeName": "ایلام",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-10",
+    "name": "Kerman",
+    "nativeName": "کرمان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-05",
+    "name": "Kermanshah",
+    "nativeName": "کرمانشاه",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-29",
+    "name": "North Khorasan",
+    "nativeName": "خراسان شمالی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-30",
+    "name": "Razavi Khorasan",
+    "nativeName": "خراسان رضوی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-31",
+    "name": "South Khorasan",
+    "nativeName": "خراسان جنوبی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-17",
+    "name": "Khuzestan",
+    "nativeName": "خوزستان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-16",
+    "name": "Kohgiluyeh and Boyer-Ahmad",
+    "nativeName": "کهگیلویه و بویراحمد",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-20",
+    "name": "Kurdistan",
+    "nativeName": "کردستان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-12",
+    "name": "Lorestan",
+    "nativeName": "لرستان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-21",
+    "name": "Markazi",
+    "nativeName": "مرکزی",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-22",
+    "name": "Mazandaran",
+    "nativeName": "مازندران",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-28",
+    "name": "Qazvin",
+    "nativeName": "قزوین",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-26",
+    "name": "Qom",
+    "nativeName": "قم",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-13",
+    "name": "Semnan",
+    "nativeName": "سمنان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-11",
+    "name": "Sistan and Baluchestan",
+    "nativeName": "سیستان و بلوچستان",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-07",
+    "name": "Tehran",
+    "nativeName": "تهران",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-25",
+    "name": "Yazd",
+    "nativeName": "یزد",
+    "type": "Province",
+    "countryCode": "IR"
+  },
+  {
+    "code": "IR-18",
+    "name": "Zanjan",
+    "nativeName": "زنجان",
+    "type": "Province",
+    "countryCode": "IR"
+  }
+]

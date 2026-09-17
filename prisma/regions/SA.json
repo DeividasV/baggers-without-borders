@@ -1,0 +1,93 @@
+[
+  {
+    "code": "SA-01",
+    "name": "Riyadh",
+    "nativeName": "الرياض",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-02",
+    "name": "Makkah",
+    "nativeName": "مكة المكرمة",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-03",
+    "name": "Medina",
+    "nativeName": "المدينة المنورة",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-04",
+    "name": "Eastern Province",
+    "nativeName": "المنطقة الشرقية",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-05",
+    "name": "Al-Qassim",
+    "nativeName": "القصيم",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-06",
+    "name": "Ha'il",
+    "nativeName": "حائل",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-07",
+    "name": "Tabuk",
+    "nativeName": "تبوك",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-08",
+    "name": "Northern Borders",
+    "nativeName": "الحدود الشمالية",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-09",
+    "name": "Jizan",
+    "nativeName": "جازان",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-10",
+    "name": "Najran",
+    "nativeName": "نجران",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-11",
+    "name": "Al Bahah",
+    "nativeName": "الباحة",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-12",
+    "name": "Al Jawf",
+    "nativeName": "الجوف",
+    "type": "Region",
+    "countryCode": "SA"
+  },
+  {
+    "code": "SA-14",
+    "name": "Asir",
+    "nativeName": "عسير",
+    "type": "Region",
+    "countryCode": "SA"
+  }
+]

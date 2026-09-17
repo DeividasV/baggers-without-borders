@@ -1,0 +1,100 @@
+[
+  {
+    "code": "SY-HA",
+    "name": "Al-Hasakah",
+    "nativeName": "الحسكة",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-LA",
+    "name": "Latakia",
+    "nativeName": "اللاذقية",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-QU",
+    "name": "Quneitra",
+    "nativeName": "القنيطرة",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-RA",
+    "name": "Raqqa",
+    "nativeName": "الرقة",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-SU",
+    "name": "As-Suwayda",
+    "nativeName": "السويداء",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-DR",
+    "name": "Daraa",
+    "nativeName": "درعا",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-DY",
+    "name": "Deir ez-Zor",
+    "nativeName": "دير الزور",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-DI",
+    "name": "Damascus",
+    "nativeName": "دمشق",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-HL",
+    "name": "Aleppo",
+    "nativeName": "حلب",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-HM",
+    "name": "Hama",
+    "nativeName": "حماة",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-HI",
+    "name": "Homs",
+    "nativeName": "حمص",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-ID",
+    "name": "Idlib",
+    "nativeName": "إدلب",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-RD",
+    "name": "Rif Dimashq",
+    "nativeName": "ريف دمشق",
+    "type": "Governorate",
+    "countryCode": "SY"
+  },
+  {
+    "code": "SY-TA",
+    "name": "Tartus",
+    "nativeName": "طرطوس",
+    "type": "Governorate",
+    "countryCode": "SY"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "code": "KR-11",
+    "name": "Seoul",
+    "nativeName": "서울특별시",
+    "type": "Special City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-26",
+    "name": "Busan",
+    "nativeName": "부산광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-27",
+    "name": "Daegu",
+    "nativeName": "대구광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-28",
+    "name": "Incheon",
+    "nativeName": "인천광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-29",
+    "name": "Gwangju",
+    "nativeName": "광주광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-30",
+    "name": "Daejeon",
+    "nativeName": "대전광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-31",
+    "name": "Ulsan",
+    "nativeName": "울산광역시",
+    "type": "Metropolitan City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-50",
+    "name": "Sejong",
+    "nativeName": "세종특별자치시",
+    "type": "Special Self-Governing City",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-41",
+    "name": "Gyeonggi",
+    "nativeName": "경기도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-42",
+    "name": "Gangwon",
+    "nativeName": "강원도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-43",
+    "name": "North Chungcheong",
+    "nativeName": "충청북도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-44",
+    "name": "South Chungcheong",
+    "nativeName": "충청남도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-45",
+    "name": "North Jeolla",
+    "nativeName": "전라북도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-46",
+    "name": "South Jeolla",
+    "nativeName": "전라남도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-47",
+    "name": "North Gyeongsang",
+    "nativeName": "경상북도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-48",
+    "name": "South Gyeongsang",
+    "nativeName": "경상남도",
+    "type": "Province",
+    "countryCode": "KR"
+  },
+  {
+    "code": "KR-49",
+    "name": "Jeju",
+    "nativeName": "제주특별자치도",
+    "type": "Special Self-Governing Province",
+    "countryCode": "KR"
+  }
+]

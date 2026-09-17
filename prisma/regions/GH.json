@@ -1,0 +1,114 @@
+[
+  {
+    "code": "GH-AA",
+    "name": "Greater Accra",
+    "nativeName": "Greater Accra",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-AF",
+    "name": "Ahafo",
+    "nativeName": "Ahafo",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-AH",
+    "name": "Ashanti",
+    "nativeName": "Ashanti",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-BE",
+    "name": "Bono East",
+    "nativeName": "Bono East",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-BO",
+    "name": "Bono",
+    "nativeName": "Bono",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-CP",
+    "name": "Central",
+    "nativeName": "Central",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-EP",
+    "name": "Eastern",
+    "nativeName": "Eastern",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-NE",
+    "name": "North East",
+    "nativeName": "North East",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-NP",
+    "name": "Northern",
+    "nativeName": "Northern",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-OT",
+    "name": "Oti",
+    "nativeName": "Oti",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-SV",
+    "name": "Savannah",
+    "nativeName": "Savannah",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-UE",
+    "name": "Upper East",
+    "nativeName": "Upper East",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-UW",
+    "name": "Upper West",
+    "nativeName": "Upper West",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-TV",
+    "name": "Volta",
+    "nativeName": "Volta",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-WN",
+    "name": "Western North",
+    "nativeName": "Western North",
+    "type": "Region",
+    "countryCode": "GH"
+  },
+  {
+    "code": "GH-WP",
+    "name": "Western",
+    "nativeName": "Western",
+    "type": "Region",
+    "countryCode": "GH"
+  }
+]

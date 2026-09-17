@@ -1,0 +1,128 @@
+[
+  {
+    "code": "IQ-AN",
+    "name": "Al Anbar",
+    "nativeName": "الأنبار",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-BA",
+    "name": "Basra",
+    "nativeName": "البصرة",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-MU",
+    "name": "Al Muthanna",
+    "nativeName": "المثنى",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-QA",
+    "name": "Al-Qādisiyyah",
+    "nativeName": "القادسية",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-NA",
+    "name": "Najaf",
+    "nativeName": "النجف",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-AR",
+    "name": "Arbil",
+    "nativeName": "أربيل",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-SU",
+    "name": "As Sulaymaniyah",
+    "nativeName": "السليمانية",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-BG",
+    "name": "Baghdad",
+    "nativeName": "بغداد",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-BB",
+    "name": "Babil",
+    "nativeName": "بابل",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-DA",
+    "name": "Dohuk",
+    "nativeName": "دهوك",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-DQ",
+    "name": "Dhi Qar",
+    "nativeName": "ذي قار",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-DI",
+    "name": "Diyala",
+    "nativeName": "ديالى",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-KA",
+    "name": "Karbala",
+    "nativeName": "كربلاء",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-KI",
+    "name": "Kirkuk",
+    "nativeName": "كركوك",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-MA",
+    "name": "Maysan",
+    "nativeName": "ميسان",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-NI",
+    "name": "Nineveh",
+    "nativeName": "نينوى",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-SD",
+    "name": "Saladin",
+    "nativeName": "صلاح الدين",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  },
+  {
+    "code": "IQ-WA",
+    "name": "Wasit",
+    "nativeName": "واسط",
+    "type": "Governorate",
+    "countryCode": "IQ"
+  }
+]

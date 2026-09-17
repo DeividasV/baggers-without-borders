@@ -1,0 +1,233 @@
+[
+  {
+    "code": "CO-AMA",
+    "name": "Amazonas Department",
+    "nativeName": "Departamento del Amazonas",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-ANT",
+    "name": "Antioquia Department",
+    "nativeName": "Departamento de Antioquia",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-ARA",
+    "name": "Arauca Department",
+    "nativeName": "Departamento de Arauca",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-ATL",
+    "name": "Atlántico Department",
+    "nativeName": "Departamento del Atlántico",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-BOL",
+    "name": "Bolívar Department",
+    "nativeName": "Departamento de Bolívar",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-BOY",
+    "name": "Boyacá Department",
+    "nativeName": "Departamento de Boyacá",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CAL",
+    "name": "Caldas Department",
+    "nativeName": "Departamento de Caldas",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CAQ",
+    "name": "Caquetá Department",
+    "nativeName": "Departamento del Caquetá",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CAS",
+    "name": "Casanare Department",
+    "nativeName": "Departamento de Casanare",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CAU",
+    "name": "Cauca Department",
+    "nativeName": "Departamento del Cauca",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CES",
+    "name": "Cesar Department",
+    "nativeName": "Departamento del Cesar",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CHO",
+    "name": "Chocó Department",
+    "nativeName": "Departamento del Chocó",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-COR",
+    "name": "Córdoba Department",
+    "nativeName": "Departamento de Córdoba",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-CUN",
+    "name": "Cundinamarca Department",
+    "nativeName": "Departamento de Cundinamarca",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-DC",
+    "name": "Bogotá",
+    "nativeName": "Bogotá, Distrito Capital",
+    "type": "Capital District",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-GUA",
+    "name": "Guainía Department",
+    "nativeName": "Departamento de Guainía",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-GUV",
+    "name": "Guaviare Department",
+    "nativeName": "Departamento del Guaviare",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-HUI",
+    "name": "Huila Department",
+    "nativeName": "Departamento del Huila",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-LAG",
+    "name": "La Guajira Department",
+    "nativeName": "Departamento de La Guajira",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-MAG",
+    "name": "Magdalena Department",
+    "nativeName": "Departamento del Magdalena",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-MET",
+    "name": "Meta Department",
+    "nativeName": "Departamento del Meta",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-NAR",
+    "name": "Nariño Department",
+    "nativeName": "Departamento de Nariño",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-NSA",
+    "name": "Norte de Santander Department",
+    "nativeName": "Departamento de Norte de Santander",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-PUT",
+    "name": "Putumayo Department",
+    "nativeName": "Departamento del Putumayo",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-QUI",
+    "name": "Quindío Department",
+    "nativeName": "Departamento del Quindío",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-RIS",
+    "name": "Risaralda Department",
+    "nativeName": "Departamento de Risaralda",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-SAP",
+    "name": "San Andrés y Providencia Department",
+    "nativeName": "Departamento de San Andrés y Providencia",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-SAN",
+    "name": "Santander Department",
+    "nativeName": "Departamento de Santander",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-SUC",
+    "name": "Sucre Department",
+    "nativeName": "Departamento de Sucre",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-TOL",
+    "name": "Tolima Department",
+    "nativeName": "Departamento del Tolima",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-VAC",
+    "name": "Valle del Cauca Department",
+    "nativeName": "Departamento del Valle del Cauca",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-VAU",
+    "name": "Vaupés Department",
+    "nativeName": "Departamento del Vaupés",
+    "type": "Department",
+    "countryCode": "CO"
+  },
+  {
+    "code": "CO-VID",
+    "name": "Vichada Department",
+    "nativeName": "Departamento del Vichada",
+    "type": "Department",
+    "countryCode": "CO"
+  }
+]

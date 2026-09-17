@@ -1,0 +1,93 @@
+[
+  {
+    "code": "PA-1",
+    "name": "Bocas del Toro Province",
+    "nativeName": "Provincia de Bocas del Toro",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-4",
+    "name": "Chiriquí Province",
+    "nativeName": "Provincia de Chiriquí",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-2",
+    "name": "Coclé Province",
+    "nativeName": "Provincia de Coclé",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-3",
+    "name": "Colón Province",
+    "nativeName": "Provincia de Colón",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-5",
+    "name": "Darién Province",
+    "nativeName": "Provincia de Darién",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-EM",
+    "name": "Emberá-Wounaan Comarca",
+    "nativeName": "Comarca Emberá-Wounaan",
+    "type": "Comarca",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-KY",
+    "name": "Guna Yala",
+    "nativeName": "Comarca Guna Yala",
+    "type": "Comarca",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-6",
+    "name": "Herrera Province",
+    "nativeName": "Provincia de Herrera",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-7",
+    "name": "Los Santos Province",
+    "nativeName": "Provincia de Los Santos",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-NB",
+    "name": "Ngäbe-Buglé Comarca",
+    "nativeName": "Comarca Ngäbe-Buglé",
+    "type": "Comarca",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-8",
+    "name": "Panamá Province",
+    "nativeName": "Provincia de Panamá",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-10",
+    "name": "Panamá Oeste Province",
+    "nativeName": "Provincia de Panamá Oeste",
+    "type": "Province",
+    "countryCode": "PA"
+  },
+  {
+    "code": "PA-9",
+    "name": "Veraguas Province",
+    "nativeName": "Provincia de Veraguas",
+    "type": "Province",
+    "countryCode": "PA"
+  }
+]

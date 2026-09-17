@@ -1,0 +1,142 @@
+[
+  {
+    "code": "IT-65",
+    "name": "Abruzzo",
+    "nativeName": "Abruzzo",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-77",
+    "name": "Basilicata",
+    "nativeName": "Basilicata",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-78",
+    "name": "Calabria",
+    "nativeName": "Calabria",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-72",
+    "name": "Campania",
+    "nativeName": "Campania",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-45",
+    "name": "Emilia-Romagna",
+    "nativeName": "Emilia-Romagna",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-36",
+    "name": "Friuli-Venezia Giulia",
+    "nativeName": "Friuli-Venezia Giulia",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-62",
+    "name": "Lazio",
+    "nativeName": "Lazio",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-42",
+    "name": "Liguria",
+    "nativeName": "Liguria",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-25",
+    "name": "Lombardy",
+    "nativeName": "Lombardia",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-57",
+    "name": "Marche",
+    "nativeName": "Marche",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-67",
+    "name": "Molise",
+    "nativeName": "Molise",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-21",
+    "name": "Piedmont",
+    "nativeName": "Piemonte",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-75",
+    "name": "Apulia",
+    "nativeName": "Puglia",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-88",
+    "name": "Sardinia",
+    "nativeName": "Sardegna",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-82",
+    "name": "Sicily",
+    "nativeName": "Sicilia",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-52",
+    "name": "Tuscany",
+    "nativeName": "Toscana",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-32",
+    "name": "Trentino-Alto Adige",
+    "nativeName": "Trentino-Alto Adige",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-55",
+    "name": "Umbria",
+    "nativeName": "Umbria",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-23",
+    "name": "Aosta Valley",
+    "nativeName": "Valle d'Aosta",
+    "type": "Region",
+    "countryCode": "IT"
+  },
+  {
+    "code": "IT-34",
+    "name": "Veneto",
+    "nativeName": "Veneto",
+    "type": "Region",
+    "countryCode": "IT"
+  }
+]

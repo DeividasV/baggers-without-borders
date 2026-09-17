@@ -1,0 +1,86 @@
+[
+  {
+    "code": "MA-01",
+    "name": "Tanger-Tetouan-Al Hoceima",
+    "nativeName": "طنجة-تطوان-الحسيمة",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-02",
+    "name": "L'Oriental",
+    "nativeName": "الشرق",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-03",
+    "name": "Fès-Meknès",
+    "nativeName": "فاس-مكناس",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-04",
+    "name": "Rabat-Salé-Kénitra",
+    "nativeName": "الرباط-سلا-القنيطرة",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-05",
+    "name": "Béni Mellal-Khénifra",
+    "nativeName": "بني ملال-خنيفرة",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-06",
+    "name": "Casablanca-Settat",
+    "nativeName": "الدار البيضاء-سطات",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-07",
+    "name": "Marrakech-Safi",
+    "nativeName": "مراكش-آسفي",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-08",
+    "name": "Drâa-Tafilalet",
+    "nativeName": "درعة-تافيلالت",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-09",
+    "name": "Souss-Massa",
+    "nativeName": "سوس-ماسة",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-10",
+    "name": "Guelmim-Oued Noun",
+    "nativeName": "كلميم-واد نون",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-11",
+    "name": "Laâyoune-Sakia El Hamra",
+    "nativeName": "العيون-الساقية الحمراء",
+    "type": "Region",
+    "countryCode": "MA"
+  },
+  {
+    "code": "MA-12",
+    "name": "Dakhla-Oued Ed-Dahab",
+    "nativeName": "الداخلة-وادي الذهب",
+    "type": "Region",
+    "countryCode": "MA"
+  }
+]

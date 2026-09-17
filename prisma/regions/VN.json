@@ -1,0 +1,443 @@
+[
+  {
+    "code": "VN-01",
+    "name": "Lai Châu",
+    "nativeName": "Lai Châu",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-02",
+    "name": "Lào Cai",
+    "nativeName": "Lào Cai",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-03",
+    "name": "Hà Giang",
+    "nativeName": "Hà Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-04",
+    "name": "Cao Bằng",
+    "nativeName": "Cao Bằng",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-05",
+    "name": "Sơn La",
+    "nativeName": "Sơn La",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-06",
+    "name": "Yên Bái",
+    "nativeName": "Yên Bái",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-07",
+    "name": "Tuyên Quang",
+    "nativeName": "Tuyên Quang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-09",
+    "name": "Lạng Sơn",
+    "nativeName": "Lạng Sơn",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-13",
+    "name": "Quảng Ninh",
+    "nativeName": "Quảng Ninh",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-14",
+    "name": "Hòa Bình",
+    "nativeName": "Hòa Bình",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-18",
+    "name": "Ninh Bình",
+    "nativeName": "Ninh Bình",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-20",
+    "name": "Thái Bình",
+    "nativeName": "Thái Bình",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-21",
+    "name": "Thanh Hóa",
+    "nativeName": "Thanh Hóa",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-22",
+    "name": "Nghệ An",
+    "nativeName": "Nghệ An",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-23",
+    "name": "Hà Tĩnh",
+    "nativeName": "Hà Tĩnh",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-24",
+    "name": "Quảng Bình",
+    "nativeName": "Quảng Bình",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-25",
+    "name": "Quảng Trị",
+    "nativeName": "Quảng Trị",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-26",
+    "name": "Thừa Thiên-Huế",
+    "nativeName": "Thừa Thiên-Huế",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-27",
+    "name": "Quảng Nam",
+    "nativeName": "Quảng Nam",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-28",
+    "name": "Kon Tum",
+    "nativeName": "Kon Tum",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-29",
+    "name": "Quảng Ngãi",
+    "nativeName": "Quảng Ngãi",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-30",
+    "name": "Gia Lai",
+    "nativeName": "Gia Lai",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-31",
+    "name": "Bình Định",
+    "nativeName": "Bình Định",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-32",
+    "name": "Phú Yên",
+    "nativeName": "Phú Yên",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-33",
+    "name": "Đắk Lắk",
+    "nativeName": "Đắk Lắk",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-34",
+    "name": "Khánh Hòa",
+    "nativeName": "Khánh Hòa",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-35",
+    "name": "Lâm Đồng",
+    "nativeName": "Lâm Đồng",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-36",
+    "name": "Ninh Thuận",
+    "nativeName": "Ninh Thuận",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-37",
+    "name": "Tây Ninh",
+    "nativeName": "Tây Ninh",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-39",
+    "name": "Đồng Nai",
+    "nativeName": "Đồng Nai",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-40",
+    "name": "Bình Thuận",
+    "nativeName": "Bình Thuận",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-41",
+    "name": "Long An",
+    "nativeName": "Long An",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-43",
+    "name": "Bà Rịa-Vũng Tàu",
+    "nativeName": "Bà Rịa-Vũng Tàu",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-44",
+    "name": "An Giang",
+    "nativeName": "An Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-45",
+    "name": "Đồng Tháp",
+    "nativeName": "Đồng Tháp",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-46",
+    "name": "Tiền Giang",
+    "nativeName": "Tiền Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-47",
+    "name": "Kiên Giang",
+    "nativeName": "Kiên Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-49",
+    "name": "Vĩnh Long",
+    "nativeName": "Vĩnh Long",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-50",
+    "name": "Bến Tre",
+    "nativeName": "Bến Tre",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-51",
+    "name": "Trà Vinh",
+    "nativeName": "Trà Vinh",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-52",
+    "name": "Sóc Trăng",
+    "nativeName": "Sóc Trăng",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-53",
+    "name": "Bắc Kạn",
+    "nativeName": "Bắc Kạn",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-54",
+    "name": "Bắc Giang",
+    "nativeName": "Bắc Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-55",
+    "name": "Bạc Liêu",
+    "nativeName": "Bạc Liêu",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-56",
+    "name": "Bắc Ninh",
+    "nativeName": "Bắc Ninh",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-57",
+    "name": "Bình Dương",
+    "nativeName": "Bình Dương",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-58",
+    "name": "Bình Phước",
+    "nativeName": "Bình Phước",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-59",
+    "name": "Cà Mau",
+    "nativeName": "Cà Mau",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-61",
+    "name": "Hải Dương",
+    "nativeName": "Hải Dương",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-63",
+    "name": "Hà Nam",
+    "nativeName": "Hà Nam",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-66",
+    "name": "Hưng Yên",
+    "nativeName": "Hưng Yên",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-67",
+    "name": "Nam Định",
+    "nativeName": "Nam Định",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-68",
+    "name": "Phú Thọ",
+    "nativeName": "Phú Thọ",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-69",
+    "name": "Thái Nguyên",
+    "nativeName": "Thái Nguyên",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-70",
+    "name": "Vĩnh Phúc",
+    "nativeName": "Vĩnh Phúc",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-71",
+    "name": "Điện Biên",
+    "nativeName": "Điện Biên",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-72",
+    "name": "Đắk Nông",
+    "nativeName": "Đắk Nông",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-73",
+    "name": "Hậu Giang",
+    "nativeName": "Hậu Giang",
+    "type": "Province",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-CT",
+    "name": "Cần Thơ",
+    "nativeName": "Cần Thơ",
+    "type": "Municipality",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-DN",
+    "name": "Da Nang",
+    "nativeName": "Đà Nẵng",
+    "type": "Municipality",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-HN",
+    "name": "Hanoi",
+    "nativeName": "Hà Nội",
+    "type": "Municipality",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-HP",
+    "name": "Haiphong",
+    "nativeName": "Hải Phòng",
+    "type": "Municipality",
+    "countryCode": "VN"
+  },
+  {
+    "code": "VN-SG",
+    "name": "Ho Chi Minh City",
+    "nativeName": "Thành phố Hồ Chí Minh",
+    "type": "Municipality",
+    "countryCode": "VN"
+  }
+]

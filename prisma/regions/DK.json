@@ -1,0 +1,37 @@
+[
+  {
+    "code": "DK-84",
+    "name": "Capital Region",
+    "nativeName": "Hovedstaden",
+    "type": "Region",
+    "countryCode": "DK"
+  },
+  {
+    "code": "DK-82",
+    "name": "Central Denmark",
+    "nativeName": "Midtjylland",
+    "type": "Region",
+    "countryCode": "DK"
+  },
+  {
+    "code": "DK-81",
+    "name": "North Denmark",
+    "nativeName": "Nordjylland",
+    "type": "Region",
+    "countryCode": "DK"
+  },
+  {
+    "code": "DK-85",
+    "name": "Zealand",
+    "nativeName": "Sjælland",
+    "type": "Region",
+    "countryCode": "DK"
+  },
+  {
+    "code": "DK-83",
+    "name": "Southern Denmark",
+    "nativeName": "Syddanmark",
+    "type": "Region",
+    "countryCode": "DK"
+  }
+]

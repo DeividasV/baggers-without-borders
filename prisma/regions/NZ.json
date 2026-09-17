@@ -1,0 +1,121 @@
+[
+  {
+    "code": "NZ-AUK",
+    "name": "Auckland",
+    "nativeName": "Auckland",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-BOP",
+    "name": "Bay of Plenty",
+    "nativeName": "Bay of Plenty",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-CAN",
+    "name": "Canterbury",
+    "nativeName": "Canterbury",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-CIT",
+    "name": "Chatham Islands",
+    "nativeName": "Chatham Islands",
+    "type": "Special Island Authority",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-GIS",
+    "name": "Gisborne",
+    "nativeName": "Gisborne",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-HKB",
+    "name": "Hawke's Bay",
+    "nativeName": "Hawke's Bay",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-MWT",
+    "name": "Manawatū-Whanganui",
+    "nativeName": "Manawatū-Whanganui",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-MBH",
+    "name": "Marlborough",
+    "nativeName": "Marlborough",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-NSN",
+    "name": "Nelson",
+    "nativeName": "Nelson",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-NTL",
+    "name": "Northland",
+    "nativeName": "Northland",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-OTA",
+    "name": "Otago",
+    "nativeName": "Otago",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-STL",
+    "name": "Southland",
+    "nativeName": "Southland",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-TKI",
+    "name": "Taranaki",
+    "nativeName": "Taranaki",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-TAS",
+    "name": "Tasman",
+    "nativeName": "Tasman",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-WKO",
+    "name": "Waikato",
+    "nativeName": "Waikato",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-WGN",
+    "name": "Wellington",
+    "nativeName": "Wellington",
+    "type": "Region",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "NZ-WTC",
+    "name": "West Coast",
+    "nativeName": "West Coast",
+    "type": "Region",
+    "countryCode": "NZ"
+  }
+]

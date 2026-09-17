@@ -1,0 +1,30 @@
+[
+  {
+    "code": "BN-BE",
+    "name": "Belait",
+    "nativeName": "Belait",
+    "type": "District",
+    "countryCode": "BN"
+  },
+  {
+    "code": "BN-BM",
+    "name": "Brunei-Muara",
+    "nativeName": "Brunei-Muara",
+    "type": "District",
+    "countryCode": "BN"
+  },
+  {
+    "code": "BN-TE",
+    "name": "Temburong",
+    "nativeName": "Temburong",
+    "type": "District",
+    "countryCode": "BN"
+  },
+  {
+    "code": "BN-TU",
+    "name": "Tutong",
+    "nativeName": "Tutong",
+    "type": "District",
+    "countryCode": "BN"
+  }
+]

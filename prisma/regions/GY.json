@@ -1,0 +1,72 @@
+[
+  {
+    "code": "GY-BA",
+    "name": "Barima-Waini",
+    "nativeName": "Barima-Waini",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-CU",
+    "name": "Cuyuni-Mazaruni",
+    "nativeName": "Cuyuni-Mazaruni",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-DE",
+    "name": "Demerara-Mahaica",
+    "nativeName": "Demerara-Mahaica",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-EB",
+    "name": "East Berbice-Corentyne",
+    "nativeName": "East Berbice-Corentyne",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-ES",
+    "name": "Essequibo Islands-West Demerara",
+    "nativeName": "Essequibo Islands-West Demerara",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-MA",
+    "name": "Mahaica-Berbice",
+    "nativeName": "Mahaica-Berbice",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-PM",
+    "name": "Pomeroon-Supenaam",
+    "nativeName": "Pomeroon-Supenaam",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-PT",
+    "name": "Potaro-Siparuni",
+    "nativeName": "Potaro-Siparuni",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-UD",
+    "name": "Upper Demerara-Berbice",
+    "nativeName": "Upper Demerara-Berbice",
+    "type": "Region",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GY-UT",
+    "name": "Upper Takutu-Upper Essequibo",
+    "nativeName": "Upper Takutu-Upper Essequibo",
+    "type": "Region",
+    "countryCode": "GY"
+  }
+]

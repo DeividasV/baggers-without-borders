@@ -1,0 +1,65 @@
+[
+  {
+    "code": "BO-H",
+    "name": "Chuquisaca Department",
+    "nativeName": "Departamento de Chuquisaca",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-C",
+    "name": "Cochabamba Department",
+    "nativeName": "Departamento de Cochabamba",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-B",
+    "name": "El Beni Department",
+    "nativeName": "Departamento del Beni",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-L",
+    "name": "La Paz Department",
+    "nativeName": "Departamento de La Paz",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-O",
+    "name": "Oruro Department",
+    "nativeName": "Departamento de Oruro",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-N",
+    "name": "Pando Department",
+    "nativeName": "Departamento de Pando",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-P",
+    "name": "Potosí Department",
+    "nativeName": "Departamento de Potosí",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-S",
+    "name": "Santa Cruz Department",
+    "nativeName": "Departamento de Santa Cruz",
+    "type": "Department",
+    "countryCode": "BO"
+  },
+  {
+    "code": "BO-T",
+    "name": "Tarija Department",
+    "nativeName": "Departamento de Tarija",
+    "type": "Department",
+    "countryCode": "BO"
+  }
+]

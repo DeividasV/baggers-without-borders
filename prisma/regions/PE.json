@@ -1,0 +1,184 @@
+[
+  {
+    "code": "PE-AMA",
+    "name": "Amazonas Region",
+    "nativeName": "Región Amazonas",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-ANC",
+    "name": "Ancash Region",
+    "nativeName": "Región Áncash",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-APU",
+    "name": "Apurímac Region",
+    "nativeName": "Región Apurímac",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-ARE",
+    "name": "Arequipa Region",
+    "nativeName": "Región Arequipa",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-AYA",
+    "name": "Ayacucho Region",
+    "nativeName": "Región Ayacucho",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-CAJ",
+    "name": "Cajamarca Region",
+    "nativeName": "Región Cajamarca",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-CAL",
+    "name": "Callao Region",
+    "nativeName": "Región Callao",
+    "type": "Constitutional Province",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-CUS",
+    "name": "Cusco Region",
+    "nativeName": "Región Cusco",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-HUV",
+    "name": "Huancavelica Region",
+    "nativeName": "Región Huancavelica",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-HUC",
+    "name": "Huánuco Region",
+    "nativeName": "Región Huánuco",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-ICA",
+    "name": "Ica Region",
+    "nativeName": "Región Ica",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-JUN",
+    "name": "Junín Region",
+    "nativeName": "Región Junín",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-LAL",
+    "name": "La Libertad Region",
+    "nativeName": "Región La Libertad",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-LAM",
+    "name": "Lambayeque Region",
+    "nativeName": "Región Lambayeque",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-LIM",
+    "name": "Lima Region",
+    "nativeName": "Región Lima",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-LMA",
+    "name": "Lima Province",
+    "nativeName": "Provincia de Lima",
+    "type": "Metropolitan Municipality",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-LOR",
+    "name": "Loreto Region",
+    "nativeName": "Región Loreto",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-MDD",
+    "name": "Madre de Dios Region",
+    "nativeName": "Región Madre de Dios",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-MOQ",
+    "name": "Moquegua Region",
+    "nativeName": "Región Moquegua",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-PAS",
+    "name": "Pasco Region",
+    "nativeName": "Región Pasco",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-PIU",
+    "name": "Piura Region",
+    "nativeName": "Región Piura",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-PUN",
+    "name": "Puno Region",
+    "nativeName": "Región Puno",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-SAM",
+    "name": "San Martín Region",
+    "nativeName": "Región San Martín",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-TAC",
+    "name": "Tacna Region",
+    "nativeName": "Región Tacna",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-TUM",
+    "name": "Tumbes Region",
+    "nativeName": "Región Tumbes",
+    "type": "Region",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PE-UCA",
+    "name": "Ucayali Region",
+    "nativeName": "Región Ucayali",
+    "type": "Region",
+    "countryCode": "PE"
+  }
+]

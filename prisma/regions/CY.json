@@ -1,0 +1,44 @@
+[
+  {
+    "code": "CY-04",
+    "name": "Ammochostos District",
+    "nativeName": "Επαρχία Αμμοχώστου",
+    "type": "District",
+    "countryCode": "CY"
+  },
+  {
+    "code": "CY-06",
+    "name": "Kyrenia District",
+    "nativeName": "Επαρχία Κερύνειας",
+    "type": "District",
+    "countryCode": "CY"
+  },
+  {
+    "code": "CY-03",
+    "name": "Larnaca District",
+    "nativeName": "Επαρχία Λάρνακας",
+    "type": "District",
+    "countryCode": "CY"
+  },
+  {
+    "code": "CY-01",
+    "name": "Nicosia District",
+    "nativeName": "Επαρχία Λευκωσίας",
+    "type": "District",
+    "countryCode": "CY"
+  },
+  {
+    "code": "CY-02",
+    "name": "Limassol District",
+    "nativeName": "Επαρχία Λεμεσού",
+    "type": "District",
+    "countryCode": "CY"
+  },
+  {
+    "code": "CY-05",
+    "name": "Paphos District",
+    "nativeName": "Επαρχία Πάφου",
+    "type": "District",
+    "countryCode": "CY"
+  }
+]

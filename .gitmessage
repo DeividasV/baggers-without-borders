@@ -1,0 +1,44 @@
+# BWB Climbing App Commit Template
+#
+# Format: <type>[scope]: <description>
+#
+# Types:
+#   feat:     A new feature
+#   fix:      A bug fix
+#   docs:     Documentation only changes
+#   style:    Changes that don't affect code meaning
+#   refactor: Code change that neither fixes a bug nor adds a feature
+#   test:     Adding missing tests or correcting existing tests
+#   chore:    Changes to build process or auxiliary tools
+#
+# Scopes (for BWB):
+#   ui:       Frontend components, styling, user interface
+#   api:      Backend routes, server logic, API endpoints
+#   db:       Database schema, migrations, Prisma
+#   auth:     Authentication, authorization, middleware
+#   docs:     Documentation files
+#   test:     Test files and testing utilities
+#   deploy:   Deployment, build scripts, CI/CD
+#   deps:     Dependency updates
+#   hof:      Hall of Fame domain logic
+#   data:     Data import, export, seeding
+#   admin:    Admin area features
+#   infra:    Infrastructure, Docker, hosting
+#   tooling:  Developer tooling and scripts
+#   legal:    LICENSE, NOTICE, LICENSES/, licensing text
+#
+# The authoritative list is scope-enum in commitlint.config.cjs.
+#
+# Examples:
+#   feat(ui): add user profile component
+#   fix(api): resolve authentication timeout
+#   docs(deploy): update deployment guide
+#   style(ui): improve navigation spacing
+#
+# Remember:
+# - Use present tense ("add" not "added")
+# - Use imperative mood ("move cursor" not "moves cursor")
+# - First line should be 50 characters or less
+# - Reference issues and pull requests liberally after the first line
+# - Consider the impact on automatic versioning:
+#   feat: → MINOR bump, fix: → PATCH bump, BREAKING CHANGE: → MAJOR bump

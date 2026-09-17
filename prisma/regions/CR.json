@@ -1,0 +1,51 @@
+[
+  {
+    "code": "CR-A",
+    "name": "Alajuela Province",
+    "nativeName": "Provincia de Alajuela",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-C",
+    "name": "Cartago Province",
+    "nativeName": "Provincia de Cartago",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-G",
+    "name": "Guanacaste Province",
+    "nativeName": "Provincia de Guanacaste",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-H",
+    "name": "Heredia Province",
+    "nativeName": "Provincia de Heredia",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-L",
+    "name": "Limón Province",
+    "nativeName": "Provincia de Limón",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-P",
+    "name": "Puntarenas Province",
+    "nativeName": "Provincia de Puntarenas",
+    "type": "Province",
+    "countryCode": "CR"
+  },
+  {
+    "code": "CR-SJ",
+    "name": "San José Province",
+    "nativeName": "Provincia de San José",
+    "type": "Province",
+    "countryCode": "CR"
+  }
+]

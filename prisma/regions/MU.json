@@ -1,0 +1,86 @@
+[
+  {
+    "code": "MU-AG",
+    "name": "Agalega Islands",
+    "nativeName": "Agalega Islands",
+    "type": "Dependency",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-BL",
+    "name": "Black River",
+    "nativeName": "Rivière Noire",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-CC",
+    "name": "Cargados Carajos",
+    "nativeName": "Cargados Carajos",
+    "type": "Dependency",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-FL",
+    "name": "Flacq",
+    "nativeName": "Flacq",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-GP",
+    "name": "Grand Port",
+    "nativeName": "Grand Port",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-MO",
+    "name": "Moka",
+    "nativeName": "Moka",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-PA",
+    "name": "Pamplemousses",
+    "nativeName": "Pamplemousses",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-PL",
+    "name": "Port Louis",
+    "nativeName": "Port Louis",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-PW",
+    "name": "Plaines Wilhems",
+    "nativeName": "Plaines Wilhems",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-RO",
+    "name": "Rodrigues",
+    "nativeName": "Rodrigues",
+    "type": "Dependency",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-RR",
+    "name": "Rivière du Rempart",
+    "nativeName": "Rivière du Rempart",
+    "type": "District",
+    "countryCode": "MU"
+  },
+  {
+    "code": "MU-SA",
+    "name": "Savanne",
+    "nativeName": "Savanne",
+    "type": "District",
+    "countryCode": "MU"
+  }
+]

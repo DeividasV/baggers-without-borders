@@ -1,0 +1,62 @@
+[
+  {
+    "code": "AQ",
+    "code3": "ATA",
+    "name": "Antarctica",
+    "nativeName": "Antarctica",
+    "numericCode": "010",
+    "capital": "",
+    "continent": "Antarctica",
+    "currency": "",
+    "languages": "",
+    "hasRegions": false
+  },
+  {
+    "code": "BV",
+    "code3": "BVT",
+    "name": "Bouvet Island",
+    "nativeName": "Bouvetøya",
+    "numericCode": "074",
+    "capital": "",
+    "continent": "Antarctica",
+    "currency": "NOK",
+    "languages": "no",
+    "hasRegions": false
+  },
+  {
+    "code": "TF",
+    "code3": "ATF",
+    "name": "French Southern Territories",
+    "nativeName": "Terres australes françaises",
+    "numericCode": "260",
+    "capital": "",
+    "continent": "Antarctica",
+    "currency": "EUR",
+    "languages": "fr",
+    "hasRegions": false
+  },
+  {
+    "code": "HM",
+    "code3": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "nativeName": "Heard Island",
+    "numericCode": "334",
+    "capital": "",
+    "continent": "Antarctica",
+    "currency": "AUD",
+    "languages": "en",
+    "hasRegions": false
+  },
+  {
+    "code": "GS",
+    "code3": "SGS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "nativeName": "South Georgia",
+    "numericCode": "239",
+    "capital": "",
+    "continent": "Antarctica",
+    "currency": "GBP",
+    "languages": "en",
+    "hasRegions": false
+  }
+]

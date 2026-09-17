@@ -1,0 +1,219 @@
+[
+  {
+    "code": "TZ-01",
+    "name": "Arusha",
+    "nativeName": "Arusha",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-02",
+    "name": "Dar es Salaam",
+    "nativeName": "Dar es Salaam",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-03",
+    "name": "Dodoma",
+    "nativeName": "Dodoma",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-04",
+    "name": "Geita",
+    "nativeName": "Geita",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-05",
+    "name": "Iringa",
+    "nativeName": "Iringa",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-06",
+    "name": "Kagera",
+    "nativeName": "Kagera",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-07",
+    "name": "Katavi",
+    "nativeName": "Katavi",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-08",
+    "name": "Kigoma",
+    "nativeName": "Kigoma",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-09",
+    "name": "Kilimanjaro",
+    "nativeName": "Kilimanjaro",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-10",
+    "name": "Lindi",
+    "nativeName": "Lindi",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-11",
+    "name": "Manyara",
+    "nativeName": "Manyara",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-12",
+    "name": "Mara",
+    "nativeName": "Mara",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-13",
+    "name": "Mbeya",
+    "nativeName": "Mbeya",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-14",
+    "name": "Morogoro",
+    "nativeName": "Morogoro",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-15",
+    "name": "Mtwara",
+    "nativeName": "Mtwara",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-16",
+    "name": "Mwanza",
+    "nativeName": "Mwanza",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-17",
+    "name": "Njombe",
+    "nativeName": "Njombe",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-18",
+    "name": "Pemba North",
+    "nativeName": "Pemba North",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-19",
+    "name": "Pemba South",
+    "nativeName": "Pemba South",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-20",
+    "name": "Pwani",
+    "nativeName": "Pwani",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-21",
+    "name": "Rukwa",
+    "nativeName": "Rukwa",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-22",
+    "name": "Ruvuma",
+    "nativeName": "Ruvuma",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-23",
+    "name": "Shinyanga",
+    "nativeName": "Shinyanga",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-24",
+    "name": "Simiyu",
+    "nativeName": "Simiyu",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-25",
+    "name": "Singida",
+    "nativeName": "Singida",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-26",
+    "name": "Songwe",
+    "nativeName": "Songwe",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-27",
+    "name": "Tabora",
+    "nativeName": "Tabora",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-28",
+    "name": "Tanga",
+    "nativeName": "Tanga",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-29",
+    "name": "Zanzibar North",
+    "nativeName": "Zanzibar North",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-30",
+    "name": "Zanzibar South",
+    "nativeName": "Zanzibar South",
+    "type": "Region",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "TZ-31",
+    "name": "Zanzibar West",
+    "nativeName": "Zanzibar West",
+    "type": "Region",
+    "countryCode": "TZ"
+  }
+]

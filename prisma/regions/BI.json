@@ -1,0 +1,128 @@
+[
+  {
+    "code": "BI-BB",
+    "name": "Bubanza",
+    "nativeName": "Bubanza",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-BL",
+    "name": "Bujumbura Rural",
+    "nativeName": "Bujumbura Rural",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-BM",
+    "name": "Bujumbura Mairie",
+    "nativeName": "Bujumbura Mairie",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-BR",
+    "name": "Bururi",
+    "nativeName": "Bururi",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-CA",
+    "name": "Cankuzo",
+    "nativeName": "Cankuzo",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-CI",
+    "name": "Cibitoke",
+    "nativeName": "Cibitoke",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-GI",
+    "name": "Gitega",
+    "nativeName": "Gitega",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-KI",
+    "name": "Kirundo",
+    "nativeName": "Kirundo",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-KR",
+    "name": "Karuzi",
+    "nativeName": "Karuzi",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-KY",
+    "name": "Kayanza",
+    "nativeName": "Kayanza",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-MA",
+    "name": "Makamba",
+    "nativeName": "Makamba",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-MU",
+    "name": "Muramvya",
+    "nativeName": "Muramvya",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-MW",
+    "name": "Mwaro",
+    "nativeName": "Mwaro",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-MY",
+    "name": "Muyinga",
+    "nativeName": "Muyinga",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-NG",
+    "name": "Ngozi",
+    "nativeName": "Ngozi",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-RM",
+    "name": "Rumonge",
+    "nativeName": "Rumonge",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-RT",
+    "name": "Rutana",
+    "nativeName": "Rutana",
+    "type": "Province",
+    "countryCode": "BI"
+  },
+  {
+    "code": "BI-RY",
+    "name": "Ruyigi",
+    "nativeName": "Ruyigi",
+    "type": "Province",
+    "countryCode": "BI"
+  }
+]

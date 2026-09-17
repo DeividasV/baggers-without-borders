@@ -1,0 +1,240 @@
+[
+  {
+    "code": "MD-AN",
+    "name": "Anenii Noi District",
+    "nativeName": "Anenii Noi",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-BS",
+    "name": "Basarabeasca District",
+    "nativeName": "Basarabeasca",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-BR",
+    "name": "Briceni District",
+    "nativeName": "Briceni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CA",
+    "name": "Cahul District",
+    "nativeName": "Cahul",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CT",
+    "name": "Cantemir District",
+    "nativeName": "Cantemir",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CL",
+    "name": "Călărași District",
+    "nativeName": "Călărași",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CS",
+    "name": "Căușeni District",
+    "nativeName": "Căușeni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CU",
+    "name": "Chișinău",
+    "nativeName": "Chișinău",
+    "type": "Municipality",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CM",
+    "name": "Cimișlia District",
+    "nativeName": "Cimișlia",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-CR",
+    "name": "Criuleni District",
+    "nativeName": "Criuleni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-DO",
+    "name": "Dondușeni District",
+    "nativeName": "Dondușeni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-DR",
+    "name": "Drochia District",
+    "nativeName": "Drochia",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-DU",
+    "name": "Dubăsari District",
+    "nativeName": "Dubăsari",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-ED",
+    "name": "Edineț District",
+    "nativeName": "Edineț",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-FA",
+    "name": "Fălești District",
+    "nativeName": "Fălești",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-FL",
+    "name": "Florești District",
+    "nativeName": "Florești",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-GA",
+    "name": "Gagauzia",
+    "nativeName": "Gagauzia",
+    "type": "Autonomous Territorial Unit",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-GL",
+    "name": "Glodeni District",
+    "nativeName": "Glodeni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-HI",
+    "name": "Hîncești District",
+    "nativeName": "Hîncești",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-IA",
+    "name": "Ialoveni District",
+    "nativeName": "Ialoveni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-LE",
+    "name": "Leova District",
+    "nativeName": "Leova",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-NI",
+    "name": "Nisporeni District",
+    "nativeName": "Nisporeni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-OC",
+    "name": "Ocnița District",
+    "nativeName": "Ocnița",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-OR",
+    "name": "Orhei District",
+    "nativeName": "Orhei",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-RE",
+    "name": "Rezina District",
+    "nativeName": "Rezina",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-RI",
+    "name": "Rîșcani District",
+    "nativeName": "Rîșcani",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-SI",
+    "name": "Sîngerei District",
+    "nativeName": "Sîngerei",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-SO",
+    "name": "Soroca District",
+    "nativeName": "Soroca",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-ST",
+    "name": "Strășeni District",
+    "nativeName": "Strășeni",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-SV",
+    "name": "Ștefan Vodă District",
+    "nativeName": "Ștefan Vodă",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-TA",
+    "name": "Taraclia District",
+    "nativeName": "Taraclia",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-TE",
+    "name": "Telenești District",
+    "nativeName": "Telenești",
+    "type": "District",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-SN",
+    "name": "Transnistria",
+    "nativeName": "Transnistria",
+    "type": "Territorial Unit",
+    "countryCode": "MD"
+  },
+  {
+    "code": "MD-UN",
+    "name": "Ungheni District",
+    "nativeName": "Ungheni",
+    "type": "District",
+    "countryCode": "MD"
+  }
+]

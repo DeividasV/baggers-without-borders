@@ -1,0 +1,65 @@
+[
+  {
+    "code": "KG-B",
+    "name": "Batken",
+    "nativeName": "Баткен",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-C",
+    "name": "Chuy",
+    "nativeName": "Чүй",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-GB",
+    "name": "Bishkek",
+    "nativeName": "Бишкек",
+    "type": "City",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-GO",
+    "name": "Osh City",
+    "nativeName": "Ош шаары",
+    "type": "City",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-J",
+    "name": "Jalal-Abad",
+    "nativeName": "Жалал-Абад",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-N",
+    "name": "Naryn",
+    "nativeName": "Нарын",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-O",
+    "name": "Osh",
+    "nativeName": "Ош",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-T",
+    "name": "Talas",
+    "nativeName": "Талас",
+    "type": "Region",
+    "countryCode": "KG"
+  },
+  {
+    "code": "KG-Y",
+    "name": "Issyk-Kul",
+    "nativeName": "Ысык-Көл",
+    "type": "Region",
+    "countryCode": "KG"
+  }
+]

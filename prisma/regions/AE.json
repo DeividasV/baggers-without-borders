@@ -1,0 +1,51 @@
+[
+  {
+    "code": "AE-AZ",
+    "name": "Abu Dhabi",
+    "nativeName": "أبو ظبي",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-AJ",
+    "name": "Ajman",
+    "nativeName": "عجمان",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-DU",
+    "name": "Dubai",
+    "nativeName": "دبي",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-FU",
+    "name": "Fujairah",
+    "nativeName": "الفجيرة",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-RK",
+    "name": "Ras Al Khaimah",
+    "nativeName": "رأس الخيمة",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-SH",
+    "name": "Sharjah",
+    "nativeName": "الشارقة",
+    "type": "Emirate",
+    "countryCode": "AE"
+  },
+  {
+    "code": "AE-UQ",
+    "name": "Umm Al Quwain",
+    "nativeName": "أم القيوين",
+    "type": "Emirate",
+    "countryCode": "AE"
+  }
+]

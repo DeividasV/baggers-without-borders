@@ -1,0 +1,86 @@
+[
+  {
+    "code": "NL-DR",
+    "name": "Drenthe",
+    "nativeName": "Drenthe",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-FL",
+    "name": "Flevoland",
+    "nativeName": "Flevoland",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-FR",
+    "name": "Friesland",
+    "nativeName": "Fryslân",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-GE",
+    "name": "Gelderland",
+    "nativeName": "Gelderland",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-GR",
+    "name": "Groningen",
+    "nativeName": "Groningen",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-LI",
+    "name": "Limburg",
+    "nativeName": "Limburg",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-NB",
+    "name": "North Brabant",
+    "nativeName": "Noord-Brabant",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-NH",
+    "name": "North Holland",
+    "nativeName": "Noord-Holland",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-OV",
+    "name": "Overijssel",
+    "nativeName": "Overijssel",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-UT",
+    "name": "Utrecht",
+    "nativeName": "Utrecht",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-ZE",
+    "name": "Zeeland",
+    "nativeName": "Zeeland",
+    "type": "Province",
+    "countryCode": "NL"
+  },
+  {
+    "code": "NL-ZH",
+    "name": "South Holland",
+    "nativeName": "Zuid-Holland",
+    "type": "Province",
+    "countryCode": "NL"
+  }
+]

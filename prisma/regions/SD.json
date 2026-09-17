@@ -1,0 +1,128 @@
+[
+  {
+    "code": "SD-DC",
+    "name": "Central Darfur",
+    "nativeName": "وسط دارفور",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-DE",
+    "name": "East Darfur",
+    "nativeName": "شرق دارفور",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-DN",
+    "name": "North Darfur",
+    "nativeName": "شمال دارفور",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-DS",
+    "name": "South Darfur",
+    "nativeName": "جنوب دارفور",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-DW",
+    "name": "West Darfur",
+    "nativeName": "غرب دارفور",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-GD",
+    "name": "Al Qadarif",
+    "nativeName": "القضارف",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-GK",
+    "name": "West Kordofan",
+    "nativeName": "غرب كردفان",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-GZ",
+    "name": "Al Jazirah",
+    "nativeName": "الجزيرة",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-KA",
+    "name": "Kassala",
+    "nativeName": "كسلا",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-KH",
+    "name": "Khartoum",
+    "nativeName": "الخرطوم",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-KN",
+    "name": "North Kordofan",
+    "nativeName": "شمال كردفان",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-KS",
+    "name": "South Kordofan",
+    "nativeName": "جنوب كردفان",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-NB",
+    "name": "Blue Nile",
+    "nativeName": "النيل الأزرق",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-NO",
+    "name": "Northern",
+    "nativeName": "الشمالية",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-NR",
+    "name": "River Nile",
+    "nativeName": "نهر النيل",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-NW",
+    "name": "White Nile",
+    "nativeName": "النيل الأبيض",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-RS",
+    "name": "Red Sea",
+    "nativeName": "البحر الأحمر",
+    "type": "State",
+    "countryCode": "SD"
+  },
+  {
+    "code": "SD-SI",
+    "name": "Sennar",
+    "nativeName": "سنار",
+    "type": "State",
+    "countryCode": "SD"
+  }
+]

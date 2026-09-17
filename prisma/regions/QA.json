@@ -1,0 +1,58 @@
+[
+  {
+    "code": "QA-DA",
+    "name": "Ad Dawhah",
+    "nativeName": "الدوحة",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-KH",
+    "name": "Al Khor",
+    "nativeName": "الخور",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-WA",
+    "name": "Al Wakrah",
+    "nativeName": "الوكرة",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-RA",
+    "name": "Al Rayyan",
+    "nativeName": "الريان",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-MS",
+    "name": "Al Shamal",
+    "nativeName": "الشمال",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-ZA",
+    "name": "Al-Shahaniya",
+    "nativeName": "الشحانية",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-US",
+    "name": "Umm Salal",
+    "nativeName": "أم صلال",
+    "type": "Municipality",
+    "countryCode": "QA"
+  },
+  {
+    "code": "QA-DU",
+    "name": "Al Daayen",
+    "nativeName": "الضعاين",
+    "type": "Municipality",
+    "countryCode": "QA"
+  }
+]

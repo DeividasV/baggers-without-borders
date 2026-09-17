@@ -1,0 +1,72 @@
+[
+  {
+    "code": "LT-AL",
+    "name": "Alytus County",
+    "nativeName": "Alytaus apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-KU",
+    "name": "Kaunas County",
+    "nativeName": "Kauno apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-KL",
+    "name": "Klaipėda County",
+    "nativeName": "Klaipėdos apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-MR",
+    "name": "Marijampolė County",
+    "nativeName": "Marijampolės apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-PN",
+    "name": "Panevėžys County",
+    "nativeName": "Panevėžio apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-SA",
+    "name": "Šiauliai County",
+    "nativeName": "Šiaulių apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-TA",
+    "name": "Tauragė County",
+    "nativeName": "Tauragės apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-TE",
+    "name": "Telšiai County",
+    "nativeName": "Telšių apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-UT",
+    "name": "Utena County",
+    "nativeName": "Utenos apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  },
+  {
+    "code": "LT-VL",
+    "name": "Vilnius County",
+    "nativeName": "Vilniaus apskritis",
+    "type": "County",
+    "countryCode": "LT"
+  }
+]

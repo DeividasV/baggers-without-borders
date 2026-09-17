@@ -1,0 +1,86 @@
+[
+  {
+    "code": "JO-AJ",
+    "name": "Ajloun",
+    "nativeName": "عجلون",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "AQ",
+    "name": "Aqaba",
+    "nativeName": "العقبة",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-AM",
+    "name": "Amman",
+    "nativeName": "عمان",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-BA",
+    "name": "Balqa",
+    "nativeName": "البلقاء",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-IR",
+    "name": "Irbid",
+    "nativeName": "إربد",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-JA",
+    "name": "Jerash",
+    "nativeName": "جرش",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-KA",
+    "name": "Karak",
+    "nativeName": "الكرك",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-MA",
+    "name": "Ma'an",
+    "nativeName": "معان",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-MD",
+    "name": "Madaba",
+    "nativeName": "مادبا",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-MN",
+    "name": "Mafraq",
+    "nativeName": "المفرق",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-AT",
+    "name": "Tafilah",
+    "nativeName": "الطفيلة",
+    "type": "Governorate",
+    "countryCode": "JO"
+  },
+  {
+    "code": "JO-AZ",
+    "name": "Zarqa",
+    "nativeName": "الزرقاء",
+    "type": "Governorate",
+    "countryCode": "JO"
+  }
+]

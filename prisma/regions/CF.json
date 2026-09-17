@@ -1,0 +1,121 @@
+[
+  {
+    "code": "CF-AC",
+    "name": "Ouham",
+    "nativeName": "Ouham",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-BB",
+    "name": "Bamingui-Bangoran",
+    "nativeName": "Bamingui-Bangoran",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-BGF",
+    "name": "Bangui",
+    "nativeName": "Bangui",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-BK",
+    "name": "Basse-Kotto",
+    "nativeName": "Basse-Kotto",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-HK",
+    "name": "Haute-Kotto",
+    "nativeName": "Haute-Kotto",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-HM",
+    "name": "Haut-Mbomou",
+    "nativeName": "Haut-Mbomou",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-HS",
+    "name": "Mambéré-Kadéï",
+    "nativeName": "Mambéré-Kadéï",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-KB",
+    "name": "Gribingui",
+    "nativeName": "Gribingui",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-KG",
+    "name": "Kémo",
+    "nativeName": "Kémo",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-LB",
+    "name": "Lobaye",
+    "nativeName": "Lobaye",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-MB",
+    "name": "Mbomou",
+    "nativeName": "Mbomou",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-MP",
+    "name": "Ombella-M'Poko",
+    "nativeName": "Ombella-M'Poko",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-NM",
+    "name": "Nana-Mambéré",
+    "nativeName": "Nana-Mambéré",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-OP",
+    "name": "Ouham-Pendé",
+    "nativeName": "Ouham-Pendé",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-SE",
+    "name": "Sangha-Mbaéré",
+    "nativeName": "Sangha-Mbaéré",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-UK",
+    "name": "Ouaka",
+    "nativeName": "Ouaka",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  },
+  {
+    "code": "CF-VK",
+    "name": "Vakaga",
+    "nativeName": "Vakaga",
+    "type": "Prefecture",
+    "countryCode": "CF"
+  }
+]

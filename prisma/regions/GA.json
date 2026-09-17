@@ -1,0 +1,65 @@
+[
+  {
+    "code": "GA-1",
+    "name": "Estuaire",
+    "nativeName": "Estuaire",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-2",
+    "name": "Haut-Ogooué",
+    "nativeName": "Haut-Ogooué",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-3",
+    "name": "Moyen-Ogooué",
+    "nativeName": "Moyen-Ogooué",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-4",
+    "name": "Ngounié",
+    "nativeName": "Ngounié",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-5",
+    "name": "Nyanga",
+    "nativeName": "Nyanga",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-6",
+    "name": "Ogooué-Ivindo",
+    "nativeName": "Ogooué-Ivindo",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-7",
+    "name": "Ogooué-Lolo",
+    "nativeName": "Ogooué-Lolo",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-8",
+    "name": "Ogooué-Maritime",
+    "nativeName": "Ogooué-Maritime",
+    "type": "Province",
+    "countryCode": "GA"
+  },
+  {
+    "code": "GA-9",
+    "name": "Woleu-Ntem",
+    "nativeName": "Woleu-Ntem",
+    "type": "Province",
+    "countryCode": "GA"
+  }
+]

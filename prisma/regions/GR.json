@@ -1,0 +1,93 @@
+[
+  {
+    "code": "GR-A",
+    "name": "Eastern Macedonia and Thrace",
+    "nativeName": "Ανατολική Μακεδονία και Θράκη",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-B",
+    "name": "Central Macedonia",
+    "nativeName": "Κεντρική Μακεδονία",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-C",
+    "name": "Western Macedonia",
+    "nativeName": "Δυτική Μακεδονία",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-D",
+    "name": "Epirus",
+    "nativeName": "Ήπειρος",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-E",
+    "name": "Thessaly",
+    "nativeName": "Θεσσαλία",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-F",
+    "name": "Ionian Islands",
+    "nativeName": "Ιόνια Νησιά",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-G",
+    "name": "Western Greece",
+    "nativeName": "Δυτική Ελλάδα",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-H",
+    "name": "Central Greece",
+    "nativeName": "Στερεά Ελλάδα",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-I",
+    "name": "Attica",
+    "nativeName": "Αττική",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-J",
+    "name": "Peloponnese",
+    "nativeName": "Πελοπόννησος",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-K",
+    "name": "North Aegean",
+    "nativeName": "Βόρειο Αιγαίο",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-L",
+    "name": "South Aegean",
+    "nativeName": "Νότιο Αιγαίο",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  },
+  {
+    "code": "GR-M",
+    "name": "Crete",
+    "nativeName": "Κρήτη",
+    "type": "Administrative Region",
+    "countryCode": "GR"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "CM-AD",
+    "name": "Adamaoua",
+    "nativeName": "Adamaoua",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-CE",
+    "name": "Centre",
+    "nativeName": "Centre",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-EN",
+    "name": "Far North",
+    "nativeName": "Extrême-Nord",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-ES",
+    "name": "East",
+    "nativeName": "Est",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-LT",
+    "name": "Littoral",
+    "nativeName": "Littoral",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-NO",
+    "name": "North",
+    "nativeName": "Nord",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-NW",
+    "name": "North-West",
+    "nativeName": "Nord-Ouest",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-OU",
+    "name": "West",
+    "nativeName": "Ouest",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-SU",
+    "name": "South",
+    "nativeName": "Sud",
+    "type": "Region",
+    "countryCode": "CM"
+  },
+  {
+    "code": "CM-SW",
+    "name": "South-West",
+    "nativeName": "Sud-Ouest",
+    "type": "Region",
+    "countryCode": "CM"
+  }
+]

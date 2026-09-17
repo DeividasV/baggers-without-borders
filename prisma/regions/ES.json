@@ -1,0 +1,135 @@
+[
+  {
+    "code": "ES-AN",
+    "name": "Andalusia",
+    "nativeName": "Andalucía",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-AR",
+    "name": "Aragon",
+    "nativeName": "Aragón",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-AS",
+    "name": "Asturias",
+    "nativeName": "Asturias",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-IB",
+    "name": "Balearic Islands",
+    "nativeName": "Islas Baleares",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CN",
+    "name": "Canary Islands",
+    "nativeName": "Canarias",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CB",
+    "name": "Cantabria",
+    "nativeName": "Cantabria",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CL",
+    "name": "Castile and León",
+    "nativeName": "Castilla y León",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CM",
+    "name": "Castilla-La Mancha",
+    "nativeName": "Castilla-La Mancha",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CT",
+    "name": "Catalonia",
+    "nativeName": "Cataluña",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-VC",
+    "name": "Valencian Community",
+    "nativeName": "Comunidad Valenciana",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-EX",
+    "name": "Extremadura",
+    "nativeName": "Extremadura",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-GA",
+    "name": "Galicia",
+    "nativeName": "Galicia",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-MD",
+    "name": "Madrid",
+    "nativeName": "Madrid",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-MC",
+    "name": "Murcia",
+    "nativeName": "Murcia",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-NC",
+    "name": "Navarre",
+    "nativeName": "Navarra",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-PV",
+    "name": "Basque Country",
+    "nativeName": "País Vasco",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-RI",
+    "name": "La Rioja",
+    "nativeName": "La Rioja",
+    "type": "Autonomous Community",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-CE",
+    "name": "Ceuta",
+    "nativeName": "Ceuta",
+    "type": "Autonomous City",
+    "countryCode": "ES"
+  },
+  {
+    "code": "ES-ML",
+    "name": "Melilla",
+    "nativeName": "Melilla",
+    "type": "Autonomous City",
+    "countryCode": "ES"
+  }
+]

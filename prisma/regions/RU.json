@@ -1,0 +1,583 @@
+[
+  {
+    "code": "RU-AD",
+    "name": "Adygea",
+    "nativeName": "Адыгея",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-AL",
+    "name": "Altai Republic",
+    "nativeName": "Республика Алтай",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ALT",
+    "name": "Altai Krai",
+    "nativeName": "Алтайский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-AMU",
+    "name": "Amur Oblast",
+    "nativeName": "Амурская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ARK",
+    "name": "Arkhangelsk Oblast",
+    "nativeName": "Архангельская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-AST",
+    "name": "Astrakhan Oblast",
+    "nativeName": "Астраханская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-BA",
+    "name": "Bashkortostan",
+    "nativeName": "Башкортостан",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-BEL",
+    "name": "Belgorod Oblast",
+    "nativeName": "Белгородская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-BRY",
+    "name": "Bryansk Oblast",
+    "nativeName": "Брянская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-BU",
+    "name": "Buryatia",
+    "nativeName": "Бурятия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-CE",
+    "name": "Chechnya",
+    "nativeName": "Чечня",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-CHE",
+    "name": "Chelyabinsk Oblast",
+    "nativeName": "Челябинская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-CHU",
+    "name": "Chukotka",
+    "nativeName": "Чукотский автономный округ",
+    "type": "Autonomous Okrug",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-CU",
+    "name": "Chuvashia",
+    "nativeName": "Чувашия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-DA",
+    "name": "Dagestan",
+    "nativeName": "Дагестан",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-IN",
+    "name": "Ingushetia",
+    "nativeName": "Ингушетия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-IRK",
+    "name": "Irkutsk Oblast",
+    "nativeName": "Иркутская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-IVA",
+    "name": "Ivanovo Oblast",
+    "nativeName": "Ивановская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KAM",
+    "name": "Kamchatka Krai",
+    "nativeName": "Камчатский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KB",
+    "name": "Kabardino-Balkaria",
+    "nativeName": "Кабардино-Балкария",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KC",
+    "name": "Karachay-Cherkessia",
+    "nativeName": "Карачаево-Черкесия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KDA",
+    "name": "Krasnodar Krai",
+    "nativeName": "Краснодарский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KEM",
+    "name": "Kemerovo Oblast",
+    "nativeName": "Кемеровская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KGD",
+    "name": "Kaliningrad Oblast",
+    "nativeName": "Калининградская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KGN",
+    "name": "Kurgan Oblast",
+    "nativeName": "Курганская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KHA",
+    "name": "Khabarovsk Krai",
+    "nativeName": "Хабаровский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KHM",
+    "name": "Khanty-Mansi",
+    "nativeName": "Ханты-Мансийский автономный округ",
+    "type": "Autonomous Okrug",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KIR",
+    "name": "Kirov Oblast",
+    "nativeName": "Кировская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KK",
+    "name": "Khakassia",
+    "nativeName": "Хакасия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KL",
+    "name": "Kalmykia",
+    "nativeName": "Калмыкия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KLU",
+    "name": "Kaluga Oblast",
+    "nativeName": "Калужская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KO",
+    "name": "Komi",
+    "nativeName": "Коми",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KOS",
+    "name": "Kostroma Oblast",
+    "nativeName": "Костромская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KR",
+    "name": "Karelia",
+    "nativeName": "Карелия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KRS",
+    "name": "Kursk Oblast",
+    "nativeName": "Курская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-KYA",
+    "name": "Krasnoyarsk Krai",
+    "nativeName": "Красноярский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-LEN",
+    "name": "Leningrad Oblast",
+    "nativeName": "Ленинградская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-LIP",
+    "name": "Lipetsk Oblast",
+    "nativeName": "Липецкая область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-MAG",
+    "name": "Magadan Oblast",
+    "nativeName": "Магаданская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ME",
+    "name": "Mari El",
+    "nativeName": "Марий Эл",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-MO",
+    "name": "Mordovia",
+    "nativeName": "Мордовия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-MOS",
+    "name": "Moscow Oblast",
+    "nativeName": "Московская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-MOW",
+    "name": "Moscow",
+    "nativeName": "Москва",
+    "type": "Federal City",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-MUR",
+    "name": "Murmansk Oblast",
+    "nativeName": "Мурманская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-NEN",
+    "name": "Nenets",
+    "nativeName": "Ненецкий автономный округ",
+    "type": "Autonomous Okrug",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-NGR",
+    "name": "Novgorod Oblast",
+    "nativeName": "Новгородская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-NIZ",
+    "name": "Nizhny Novgorod Oblast",
+    "nativeName": "Нижегородская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-NVS",
+    "name": "Novosibirsk Oblast",
+    "nativeName": "Новосибирская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-OMS",
+    "name": "Omsk Oblast",
+    "nativeName": "Омская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ORE",
+    "name": "Orenburg Oblast",
+    "nativeName": "Оренбургская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ORL",
+    "name": "Oryol Oblast",
+    "nativeName": "Орловская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-PER",
+    "name": "Perm Krai",
+    "nativeName": "Пермский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-PNZ",
+    "name": "Penza Oblast",
+    "nativeName": "Пензенская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-PRI",
+    "name": "Primorsky Krai",
+    "nativeName": "Приморский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-PSK",
+    "name": "Pskov Oblast",
+    "nativeName": "Псковская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ROS",
+    "name": "Rostov Oblast",
+    "nativeName": "Ростовская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-RYA",
+    "name": "Ryazan Oblast",
+    "nativeName": "Рязанская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SA",
+    "name": "Sakha",
+    "nativeName": "Саха",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SAK",
+    "name": "Sakhalin Oblast",
+    "nativeName": "Сахалинская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SAM",
+    "name": "Samara Oblast",
+    "nativeName": "Самарская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SAR",
+    "name": "Saratov Oblast",
+    "nativeName": "Саратовская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SE",
+    "name": "North Ossetia",
+    "nativeName": "Северная Осетия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SMO",
+    "name": "Smolensk Oblast",
+    "nativeName": "Смоленская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SPE",
+    "name": "Saint Petersburg",
+    "nativeName": "Санкт-Петербург",
+    "type": "Federal City",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-STA",
+    "name": "Stavropol Krai",
+    "nativeName": "Ставропольский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-SVE",
+    "name": "Sverdlovsk Oblast",
+    "nativeName": "Свердловская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TA",
+    "name": "Tatarstan",
+    "nativeName": "Татарстан",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TAM",
+    "name": "Tambov Oblast",
+    "nativeName": "Тамбовская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TOM",
+    "name": "Tomsk Oblast",
+    "nativeName": "Томская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TUL",
+    "name": "Tula Oblast",
+    "nativeName": "Тульская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TVE",
+    "name": "Tver Oblast",
+    "nativeName": "Тверская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TY",
+    "name": "Tuva",
+    "nativeName": "Тыва",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-TYU",
+    "name": "Tyumen Oblast",
+    "nativeName": "Тюменская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-UD",
+    "name": "Udmurtia",
+    "nativeName": "Удмуртия",
+    "type": "Republic",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ULY",
+    "name": "Ulyanovsk Oblast",
+    "nativeName": "Ульяновская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-VGG",
+    "name": "Volgograd Oblast",
+    "nativeName": "Волгоградская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-VLA",
+    "name": "Vladimir Oblast",
+    "nativeName": "Владимирская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-VLG",
+    "name": "Vologda Oblast",
+    "nativeName": "Вологодская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-VOR",
+    "name": "Voronezh Oblast",
+    "nativeName": "Воронежская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-YAN",
+    "name": "Yamalo-Nenets",
+    "nativeName": "Ямало-Ненецкий автономный округ",
+    "type": "Autonomous Okrug",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-YAR",
+    "name": "Yaroslavl Oblast",
+    "nativeName": "Ярославская область",
+    "type": "Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-YEV",
+    "name": "Jewish Autonomous Oblast",
+    "nativeName": "Еврейская автономная область",
+    "type": "Autonomous Oblast",
+    "countryCode": "RU"
+  },
+  {
+    "code": "RU-ZAB",
+    "name": "Zabaykalsky Krai",
+    "nativeName": "Забайкальский край",
+    "type": "Krai",
+    "countryCode": "RU"
+  }
+]

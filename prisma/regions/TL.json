@@ -1,0 +1,93 @@
+[
+  {
+    "code": "TL-AL",
+    "name": "Aileu",
+    "nativeName": "Aileu",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-AN",
+    "name": "Ainaro",
+    "nativeName": "Ainaro",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-BA",
+    "name": "Baucau",
+    "nativeName": "Baucau",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-BO",
+    "name": "Bobonaro",
+    "nativeName": "Bobonaro",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-CO",
+    "name": "Cova Lima",
+    "nativeName": "Cova Lima",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-DI",
+    "name": "Dili",
+    "nativeName": "Dili",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-ER",
+    "name": "Ermera",
+    "nativeName": "Ermera",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-LA",
+    "name": "Lautém",
+    "nativeName": "Lautém",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-LI",
+    "name": "Liquiçá",
+    "nativeName": "Liquiçá",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-MF",
+    "name": "Manufahi",
+    "nativeName": "Manufahi",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-MT",
+    "name": "Manatuto",
+    "nativeName": "Manatuto",
+    "type": "Municipality",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-OE",
+    "name": "Oecusse",
+    "nativeName": "Oecusse",
+    "type": "Special Administrative Region",
+    "countryCode": "TL"
+  },
+  {
+    "code": "TL-VI",
+    "name": "Viqueque",
+    "nativeName": "Viqueque",
+    "type": "Municipality",
+    "countryCode": "TL"
+  }
+]

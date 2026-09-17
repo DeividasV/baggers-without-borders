@@ -1,0 +1,114 @@
+[
+  {
+    "code": "CU-15",
+    "name": "Artemisa Province",
+    "nativeName": "Artemisa",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-09",
+    "name": "Camagüey Province",
+    "nativeName": "Camagüey",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-08",
+    "name": "Ciego de Ávila Province",
+    "nativeName": "Ciego de Ávila",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-06",
+    "name": "Cienfuegos Province",
+    "nativeName": "Cienfuegos",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-12",
+    "name": "Granma Province",
+    "nativeName": "Granma",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-14",
+    "name": "Guantánamo Province",
+    "nativeName": "Guantánamo",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-11",
+    "name": "Holguín Province",
+    "nativeName": "Holguín",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-99",
+    "name": "Isla de la Juventud",
+    "nativeName": "Isla de la Juventud",
+    "type": "Special Municipality",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-03",
+    "name": "La Habana Province",
+    "nativeName": "La Habana",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-10",
+    "name": "Las Tunas Province",
+    "nativeName": "Las Tunas",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-04",
+    "name": "Matanzas Province",
+    "nativeName": "Matanzas",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-16",
+    "name": "Mayabeque Province",
+    "nativeName": "Mayabeque",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-01",
+    "name": "Pinar del Río Province",
+    "nativeName": "Pinar del Río",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-07",
+    "name": "Sancti Spíritus Province",
+    "nativeName": "Sancti Spíritus",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-13",
+    "name": "Santiago de Cuba Province",
+    "nativeName": "Santiago de Cuba",
+    "type": "Province",
+    "countryCode": "CU"
+  },
+  {
+    "code": "CU-05",
+    "name": "Villa Clara Province",
+    "nativeName": "Villa Clara",
+    "type": "Province",
+    "countryCode": "CU"
+  }
+]

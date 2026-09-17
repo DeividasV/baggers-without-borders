@@ -1,0 +1,166 @@
+# NOTICE
+
+Independent, unofficial software for the Baggers Without Borders climbing and
+hill-bagging community.
+
+## Naming and independence
+
+"Baggers Without Borders" and "BWB" are the names of the community this software
+serves. Those names, together with the community's logos and visual identity,
+belong to the Baggers Without Borders organisation, **not** to the author of this
+software. They are used in this repository only to describe what the software is
+for and who it serves.
+
+This software is an independent, unofficial project by **Deividas Valaitis**, an
+individual acting in a voluntary and non-commercial capacity. It is not affiliated
+with, authorised by, sponsored by, or endorsed by the Baggers Without Borders
+organisation, and it is not an official platform, product or publication of it.
+Nothing in this repository, and nothing in a deployed instance of it, is a
+statement by or on behalf of that organisation.
+
+No rights in those names or marks are claimed by the author. Section 7(e) below
+records the reservation of the organisation's names, not a claim by the author.
+
+## Copyright
+
+Copyright (C) 2025–2026 **Deividas Valaitis**.
+
+SPDX-FileCopyrightText: 2025-2026 Deividas Valaitis
+
+## License
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the **GNU Affero General Public License, version 3 only**
+(`AGPL-3.0-only`), as published by the Free Software Foundation.
+
+The full license text is in [`LICENSE`](LICENSE).
+
+Because this is a network-interactive application, AGPL-3.0 section 13 applies:
+if you run a modified version of this program on a server and let other users
+interact with it over a network, you must offer those users the corresponding
+source code of your modified version.
+
+`SPDX-License-Identifier: AGPL-3.0-only`
+
+## Additional terms under GNU AGPL version 3 section 7
+
+The following additional terms are conveyed under section 7 of the AGPL. They
+are permitted additional terms and do not restrict, replace, or supersede any
+right granted by the AGPL itself. Where a conflict exists, the AGPL governs.
+
+### 7(b) — Attribution
+
+You must preserve the attribution notices in this repository — this `NOTICE`
+file, the `LICENSE` file, and any copyright notices in individual source files —
+in the source code and in any documentation shipped with the program. If you
+modify the work, you must keep those notices intact, and you must not represent
+the original author as having endorsed your version.
+
+Attribution party for the purposes of AGPL-3.0 section 7(b):
+**Deividas Valaitis** (Solutionocean), author of this software.
+
+"Baggers Without Borders" and "BWB" are deliberately **not** part of that
+attribution. They name the community the software serves, not its author, and the
+author claims no rights in them (see the section above and 7(e) below).
+
+### 7(c) — Origin and non-misrepresentation
+
+You must not misrepresent the origin of this material. If you distribute a
+modified version, you must clearly mark it as modified, must not state or imply
+that it is the original software, and must not state or imply that the original
+authors endorse your version or your use of it.
+
+### 7(e) — Trademark reservation
+
+No trademark or trade-name rights are granted by this license. The names "Baggers
+Without Borders" and "BWB", together with any associated logos and the visual
+identity of the project, belong to the Baggers Without Borders organisation. The
+author of this software does not own them and grants no rights to them. They may
+not be used to endorse or promote works derived from this software without prior
+written permission from the Baggers Without Borders organisation, except for
+reasonable and customary use in describing the origin of the work and in
+reproducing the content of this NOTICE file.
+
+The author separately uses the unregistered trade names **"Solutionocean"** and
+**"solutionocean.com"** for their own work. Those names are the author's, and are
+asserted as unregistered trade names only — no trademark registration is claimed
+for any name mentioned in this file, and nothing in this section grants or
+restricts any right that applicable trademark law would otherwise provide.
+
+## Third-party software
+
+This project depends on third-party packages. Their licenses are recorded in
+`package-lock.json` and in each package's own `LICENSE` file under
+`node_modules/`. The packages below carry obligations beyond plain MIT and are
+reproduced in [`LICENSES/`](LICENSES/).
+
+| Package | License | Notes |
+| --- | --- | --- |
+| `sharp` → `@img/sharp-libvips-linux-x64`, `@img/sharp-libvips-linuxmusl-x64` | `LGPL-3.0-or-later` | Dynamically linked prebuilt binaries. Full text: `LICENSES/LGPL-3.0-or-later.txt`. The library source is available from the libvips project and from the `sharp` distribution. |
+| `axe-core`, `lightningcss`, `lightningcss-linux-x64-*` | `MPL-2.0` | File-level copyleft. Unmodified. Full text: `LICENSES/MPL-2.0.txt`. |
+| `caniuse-lite` | `CC-BY-4.0` | Build-time browser-support data. Full text: `LICENSES/CC-BY-4.0.txt`. |
+| `mdn-data`, `language-subtag-registry` | `CC0-1.0` | Public-domain dedication. Full text: `LICENSES/CC0-1.0.txt`. |
+| `jackspeak`, `package-json-from-dist`, `path-scurry` | `BlueOak-1.0.0` | Full text: `LICENSES/BlueOak-1.0.0.txt`. |
+| `argparse` | `Python-2.0` | Full text: `LICENSES/Python-2.0.txt`. |
+| `tslib` | `0BSD` | Full text: `LICENSES/0BSD.txt`. |
+| `postgres` | `Unlicense` | Public-domain dedication. |
+
+All remaining dependencies are licensed under MIT, Apache-2.0, ISC, BSD-2-Clause,
+or BSD-3-Clause, each of which is compatible with AGPL-3.0 distribution. See
+`package-lock.json` for the complete resolved dependency list and run
+`npm run sbom` to generate a CycloneDX software bill of materials.
+
+## Bundled media and data
+
+### `public/images/hero-mountain.jpg`
+
+- **Work:** "Mount Everest North Face toward Base Camp Tibet"
+- **Author:** Luca Galuzzi (photograph), via Wikimedia Commons
+- **License:** Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
+- **Source:** https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg
+- **Modifications:** resized and cropped; served behind a gradient overlay.
+
+This image is **not** covered by the AGPL. It remains under CC BY-SA 2.5, and
+any adaptation of the image must itself be shared under CC BY-SA 2.5 with the
+attribution above. If you redistribute this project, keep this attribution.
+Full licence text: `LICENSES/CC-BY-SA-2.5.txt`.
+
+### `public/images/welcome-climbing.jpg`
+
+- **Work:** first-party placeholder graphic generated by this project.
+- **Author:** Deividas Valaitis.
+- **License:** AGPL-3.0-only, like the rest of the program.
+- **Regenerate with:** `node scripts/dev/generate-placeholder-image.js`
+
+This file replaces an earlier asset of unknown provenance and contains no
+third-party content. Its text is in the surrounding UI, not in the image.
+
+### Country and region reference data
+
+`prisma/countries/*.json` and `prisma/regions/*.json` were compiled for this
+project by its author, Deividas Valaitis, and are covered by the project's
+AGPL-3.0-only license along with the rest of the source.
+
+The data they carry is factual reference information derived from the ISO 3166
+standard: ISO 3166-1 alpha-2/alpha-3/numeric country codes with their names,
+capitals, currencies and languages, and ISO 3166-2 subdivision codes and names.
+Country codes and their assigned names are factual identifiers and are not
+themselves the subject of copyright; the selection and arrangement published
+here is the project's own. No ISO database file or ISO-published text is
+redistributed.
+
+### Fonts
+
+The application loads the Inter typeface at build time via `next/font`. Inter is
+licensed under the SIL Open Font License 1.1. No font binaries are committed to
+this repository.
+
+### Member data
+
+This repository deliberately contains **no** real member data. Development and
+tests use synthetic records generated by `scripts/seed/seed-demo-users.js` and
+the example file `data/examples/member-register.example.csv`.
+
+## Reporting
+
+Security issues should be reported privately — see [`SECURITY.md`](SECURITY.md).

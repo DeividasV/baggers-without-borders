@@ -1,0 +1,620 @@
+@import "tailwindcss";
+
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --color-primary-50: #f6f7f1;
+  --color-primary-100: #e8ebdc;
+  --color-primary-200: #d3d8bb;
+  --color-primary-300: #b8c093;
+  --color-primary-400: #9ca56e;
+  --color-primary-500: #808a52;
+  --color-primary-600: #656d40;
+  --color-primary-700: #4f5533;
+  --color-primary-800: #42462c;
+  --color-primary-900: #383c27;
+  --color-primary-950: #1e2014;
+
+  --color-earth-50: #f7f5f3;
+  --color-earth-100: #ede8e3;
+  --color-earth-200: #ddd4c7;
+  --color-earth-300: #c6b8a4;
+  --color-earth-400: #b09782;
+  --color-earth-500: #9c8268;
+  --color-earth-600: #8a705c;
+  --color-earth-700: #725e4e;
+  --color-earth-800: #5d4e43;
+  --color-earth-900: #4c4138;
+  --color-earth-950: #28221d;
+
+  --color-dark-50: #f6f6f6;
+  --color-dark-100: #e7e7e7;
+  --color-dark-200: #d1d1d1;
+  --color-dark-300: #b0b0b0;
+  --color-dark-400: #888888;
+  --color-dark-500: #6d6d6d;
+  --color-dark-600: #5d5d5d;
+  --color-dark-700: #4f4f4f;
+  --color-dark-800: #454545;
+  --color-dark-900: #3d3d3d;
+  --color-dark-950: #1a1a1a;
+
+  --background-image-gradient-radial: radial-gradient(var(--tw-gradient-stops));
+  --background-image-gradient-conic: conic-gradient(
+    from 180deg at 50% 50%,
+    var(--tw-gradient-stops)
+  );
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+
+  /* Keep native date/time pickers consistent with the app's dark theme */
+  input[type="date"],
+  input[type="time"],
+  input[type="datetime-local"] {
+    color-scheme: dark;
+  }
+
+  input[type="date"]::-webkit-calendar-picker-indicator,
+  input[type="time"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.7) sepia(0) saturate(0) brightness(1.3);
+    opacity: 0.85;
+  }
+
+  input[type="date"]::-webkit-calendar-picker-indicator:hover,
+  input[type="time"]::-webkit-calendar-picker-indicator:hover {
+    opacity: 1;
+  }
+}
+
+@utility btn-primary {
+  @apply bg-primary-600 hover:bg-primary-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+}
+
+@utility btn-secondary {
+  @apply bg-earth-600 hover:bg-earth-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+}
+
+@utility btn-danger {
+  @apply bg-red-600 hover:bg-red-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+}
+
+@utility card {
+  @apply bg-dark-900 border border-dark-700 rounded-lg shadow-lg;
+  padding: 0.75rem; /* 12px on mobile - more space efficient */
+}
+
+@media (min-width: 640px) {
+  .card {
+    padding: 1rem; /* 16px on tablet */
+  }
+}
+
+@media (min-width: 1024px) {
+  .card {
+    padding: 1.5rem; /* 24px on desktop */
+  }
+}
+
+@utility input-field {
+  @apply bg-dark-900 border border-dark-700 text-gray-100 rounded-lg px-3 py-2.5 focus:outline-hidden focus:ring-2 focus:ring-primary-500 focus:border-transparent placeholder-gray-500;
+
+  /* Base input styling - consolidated */
+  background-color: #1a1a1a !important;
+  border-color: #4f4f4f !important;
+  color: #f3f4f6 !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+
+  /* Autofill styling override */
+  &:-webkit-autofill,
+  &:-webkit-autofill:hover,
+  &:-webkit-autofill:focus,
+  &:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px #1a1a1a inset !important;
+    -webkit-text-fill-color: #f3f4f6 !important;
+    caret-color: #f3f4f6 !important;
+  }
+
+  /* Select-specific styling */
+  &select {
+    padding-right: 2.5rem !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%239ca3af' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important;
+    background-position: right 0.75rem center !important;
+    background-size: 1rem !important;
+  }
+
+  &select option {
+    background-color: #1a1a1a !important;
+    color: #f3f4f6 !important;
+    padding: 0.5rem !important;
+  }
+
+  /* Dropdown scrollbar styling */
+  &select::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &select::-webkit-scrollbar-track {
+    background: #1a1a1a;
+  }
+
+  &select::-webkit-scrollbar-thumb {
+    background: #4f4f4f;
+    border-radius: 4px;
+  }
+
+  &select::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+  }
+
+  /* Placeholder-style for empty select */
+  &select option[value=""] {
+    color: #6b7280 !important;
+  }
+
+  /* Make select text gray when empty/default value is selected */
+  &select:has(option[value=""]:checked) {
+    color: #6b7280 !important; /* gray-500 */
+  }
+
+  /* Also handle selects with data-default attribute for non-empty defaults */
+  &select[data-is-default="true"] {
+    color: #6b7280 !important; /* gray-500 */
+  }
+
+  /* Reduced motion support for accessibility */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* Responsive improvements */
+
+  /* Force dark background for input fields - multiple selectors for maximum specificity */
+  &input {
+    background-color: #1a1a1a !important; /* dark-950 */
+    background: #1a1a1a !important;
+    border: 1px solid #4f4f4f !important; /* dark-700 */
+    color: #f3f4f6 !important; /* gray-100 */
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+  & input[type="text"] {
+    background-color: #1a1a1a !important; /* dark-950 */
+    background: #1a1a1a !important;
+    border: 1px solid #4f4f4f !important; /* dark-700 */
+    color: #f3f4f6 !important; /* gray-100 */
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+  & input[type="password"] {
+    background-color: #1a1a1a !important; /* dark-950 */
+    background: #1a1a1a !important;
+    border: 1px solid #4f4f4f !important; /* dark-700 */
+    color: #f3f4f6 !important; /* gray-100 */
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+  & input[type="number"] {
+    background-color: #1a1a1a !important; /* dark-950 */
+    background: #1a1a1a !important;
+    border: 1px solid #4f4f4f !important; /* dark-700 */
+    color: #f3f4f6 !important; /* gray-100 */
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+  background-color: #1a1a1a !important; /* dark-950 */
+  background: #1a1a1a !important;
+  border: 1px solid #4f4f4f !important; /* dark-700 */
+  color: #f3f4f6 !important; /* gray-100 */
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+
+  /* Override autofill styles */
+  &input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #1a1a1a inset !important;
+    -webkit-text-fill-color: #f3f4f6 !important;
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+  }
+  & input:-webkit-autofill:hover {
+    -webkit-box-shadow: 0 0 0 1000px #1a1a1a inset !important;
+    -webkit-text-fill-color: #f3f4f6 !important;
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+  }
+  & input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0 1000px #1a1a1a inset !important;
+    -webkit-text-fill-color: #f3f4f6 !important;
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+  }
+
+  &input:focus {
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    border-color: #808a52 !important;
+    box-shadow: 0 0 0 2px #808a52 !important; /* primary-500 ring */
+    outline: none !important;
+  }
+
+  & input[type="text"]:focus {
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    border-color: #808a52 !important;
+    box-shadow: 0 0 0 2px #808a52 !important; /* primary-500 ring */
+    outline: none !important;
+  }
+
+  & input[type="password"]:focus {
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    border-color: #808a52 !important;
+    box-shadow: 0 0 0 2px #808a52 !important; /* primary-500 ring */
+    outline: none !important;
+  }
+
+  & input[type="number"]:focus {
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    border-color: #808a52 !important;
+    box-shadow: 0 0 0 2px #808a52 !important; /* primary-500 ring */
+    outline: none !important;
+  }
+
+  &:focus {
+    background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    border-color: #808a52 !important;
+    box-shadow: 0 0 0 2px #808a52 !important; /* primary-500 ring */
+    outline: none !important;
+  }
+
+  /* Date input styling */
+  &input[type="date"] {
+    color-scheme: dark;
+  }
+
+  /* Date picker placeholder text - gray when empty (default) */
+  &input[type="date"]::-webkit-datetime-edit-text {
+    color: #6b7280 !important; /* gray-500 - matches placeholder */
+  }
+  & input[type="date"]::-webkit-datetime-edit-month-field {
+    color: #6b7280 !important; /* gray-500 - matches placeholder */
+  }
+  & input[type="date"]::-webkit-datetime-edit-day-field {
+    color: #6b7280 !important; /* gray-500 - matches placeholder */
+  }
+  & input[type="date"]::-webkit-datetime-edit-year-field {
+    color: #6b7280 !important; /* gray-500 - matches placeholder */
+  }
+
+  /* When date has value (has-value class), show in white */
+  &input[type="date"].has-value::-webkit-datetime-edit-text {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].has-value::-webkit-datetime-edit-month-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].has-value::-webkit-datetime-edit-day-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].has-value::-webkit-datetime-edit-year-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+
+  /* Calendar icon styling - use color-scheme instead of filters */
+  &input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.7) sepia(0) saturate(0) brightness(1.3);
+    cursor: pointer;
+    opacity: 0.8;
+  }
+
+  &input[type="date"]::-webkit-calendar-picker-indicator:hover {
+    opacity: 1;
+  }
+}
+
+@utility file-upload-area {
+  /* File upload improvements */
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    background-color: rgba(139, 161, 82, 0.05);
+  }
+}
+
+@utility modal-content {
+  @media (max-width: 768px) {
+    margin: 0.75rem;
+    max-height: calc(100vh - 1.5rem);
+  }
+}
+
+@utility has-value {
+  /* When date has value (has-value class), show in white */
+  &input[type="date"].input-field::-webkit-datetime-edit-text {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].input-field::-webkit-datetime-edit-month-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].input-field::-webkit-datetime-edit-day-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+  & input[type="date"].input-field::-webkit-datetime-edit-year-field {
+    color: #f3f4f6 !important; /* gray-100 - white when filled */
+  }
+}
+
+@utility nav-link {
+  @apply text-gray-300 hover:text-primary-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200;
+}
+
+@utility nav-link-active {
+  @apply text-primary-400 bg-dark-800 px-3 py-2 rounded-md text-sm font-medium;
+}
+
+@utility line-clamp-2 {
+  /* Text truncation utilities */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@utility line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@utility animate-fade-in {
+  /* Notification animations */
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+@utility animate-fade-out {
+  animation: fadeOut 0.3s ease-in forwards;
+}
+
+@layer base {
+  html {
+    @apply bg-dark-950 text-gray-100;
+  }
+
+  body {
+    @apply bg-dark-950 text-gray-100 min-h-screen;
+  }
+
+  /* Custom Scrollbar Styling */
+  ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #1a1a1a; /* dark-950 */
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #4a5228; /* darker earth tone */
+    border-radius: 4px;
+    border: 2px solid #1a1a1a;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #8ba152; /* primary-400 */
+  }
+
+  /* Firefox scrollbar styling */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #4a5228 #1a1a1a;
+  }
+}
+
+@layer components {
+  /* Style number input spinner buttons */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    background-color: #2a2a2a;
+    opacity: 1;
+  }
+
+  /* Custom number input spinner for webkit browsers */
+  input[type="number"] {
+    -moz-appearance: textfield; /* Firefox */
+  }
+
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: inner-spin-button !important;
+    background-color: #2a2a2a !important;
+    background: #2a2a2a !important;
+    opacity: 1 !important;
+  }
+
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+  }
+}
+
+/* AGGRESSIVE DARK INPUT STYLING - MUST OVERRIDE EVERYTHING */
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form input[type="number"],
+input[id="email"],
+input[id="username"],
+input[id="password"],
+input[name="email"],
+input[name="username"],
+input[name="password"] {
+  background-color: #1a1a1a !important;
+  background: #1a1a1a !important;
+  border: 1px solid #4f4f4f !important;
+  color: #f3f4f6 !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+
+/* Force dark spinner buttons on number inputs */
+form input[type="number"]::-webkit-inner-spin-button,
+form input[type="number"]::-webkit-outer-spin-button {
+  opacity: 1 !important;
+  background-color: #2a2a2a !important;
+  background: #2a2a2a !important;
+  cursor: pointer;
+}
+
+/* Override any possible autofill */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px #1a1a1a inset !important;
+  -webkit-text-fill-color: #f3f4f6 !important;
+}
+
+/* Custom scrollbar styling for better table visibility */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #5d5d5d #454545; /* dark-600 dark-800 */
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #454545; /* dark-800 */
+  border-radius: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #5d5d5d; /* dark-600 */
+  border-radius: 4px;
+  border: 1px solid #454545; /* dark-800 */
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #6d6d6d; /* dark-500 */
+}
+
+.scrollbar-thumb-dark-600::-webkit-scrollbar-thumb {
+  background: #5d5d5d !important;
+}
+
+.scrollbar-track-dark-800::-webkit-scrollbar-track {
+  background: #454545 !important;
+}
+
+/* Z-Index Scale - Centralized management of layering hierarchy */
+/* 
+  Z-Index Scale (FINAL):
+  - 0-9: Base content
+  - 10-29: Content layers (relative positioning, hover effects)
+  - 30-39: Sticky headers and navigation
+  - 40-49: Context menus and tooltips
+  - 50-59: Dropdowns and popovers (must be above all form content)
+  - 60-69: Modal backdrops
+  - 70-79: Modal content
+  - 80+: Toast notifications
+  
+  Key principle: Dropdowns at z-50 appear above all cards and form elements.
+  Modals at z-60+ appear above dropdowns.
+*/
+
+@theme {
+  --z-base: 0;
+  --z-sticky: 30;
+  --z-context-menu: 40;
+  --z-dropdown: 50;
+  --z-modal-backdrop: 60;
+  --z-modal: 70;
+  --z-toast: 80;
+}
+
+@utility z-25 {
+  z-index: 25;
+}
+
+@utility z-35 {
+  z-index: 35;
+}
+
+@utility z-38 {
+  z-index: 38;
+}
+
+@utility z-39 {
+  z-index: 39;
+}
+
+@utility z-60 {
+  z-index: 60;
+}
+
+@utility z-70 {
+  z-index: 70;
+}
+
+/* VS Code test */

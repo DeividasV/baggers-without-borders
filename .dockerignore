@@ -1,0 +1,81 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+.next/
+dist/
+out/
+
+# Database files
+*.db
+*.db-journal
+prisma/*.db
+prisma/*.db-journal
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+.github/
+
+# Testing
+coverage/
+__tests__/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+jest.config.js
+jest.setup.js
+jest.integration.config.js
+test-results.json
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Scripts not needed in container
+scripts/*
+!scripts/seed
+!scripts/shared
+!scripts/dev/
+!scripts/dev/ensure-node-24.js
+
+# Development data
+data/*
+!data/legal
+
+# Backups and mocks
+backups/
+mocks/
+
+# Uploads - never bake user data into the image.
+# Runtime uploads live in UPLOADS_DIR (mounted at /app/uploads, outside public/).
+# public/uploads/ is a legacy location that .gitignore also excludes; without
+# these lines `COPY . .` plus `COPY --from=builder /app/public ./public` would
+# copy any files sitting there straight into the production image.
+uploads/
+public/uploads/
+
+# Misc
+*.log
+*.tgz
+.npmrc

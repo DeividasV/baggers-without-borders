@@ -1,0 +1,149 @@
+[
+  {
+    "code": "SE-AB",
+    "name": "Stockholm County",
+    "nativeName": "Stockholms län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-C",
+    "name": "Uppsala County",
+    "nativeName": "Uppsala län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-D",
+    "name": "Södermanland County",
+    "nativeName": "Södermanlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-E",
+    "name": "Östergötland County",
+    "nativeName": "Östergötlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-F",
+    "name": "Jönköping County",
+    "nativeName": "Jönköpings län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-G",
+    "name": "Kronoberg County",
+    "nativeName": "Kronobergs län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-H",
+    "name": "Kalmar County",
+    "nativeName": "Kalmar län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-I",
+    "name": "Gotland County",
+    "nativeName": "Gotlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-K",
+    "name": "Blekinge County",
+    "nativeName": "Blekinge län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-M",
+    "name": "Skåne County",
+    "nativeName": "Skåne län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-N",
+    "name": "Halland County",
+    "nativeName": "Hallands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-O",
+    "name": "Västra Götaland County",
+    "nativeName": "Västra Götalands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-S",
+    "name": "Värmland County",
+    "nativeName": "Värmlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-T",
+    "name": "Örebro County",
+    "nativeName": "Örebro län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-U",
+    "name": "Västmanland County",
+    "nativeName": "Västmanlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-W",
+    "name": "Dalarna County",
+    "nativeName": "Dalarnas län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-X",
+    "name": "Gävleborg County",
+    "nativeName": "Gävleborgs län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-Y",
+    "name": "Västernorrland County",
+    "nativeName": "Västernorrlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-Z",
+    "name": "Jämtland County",
+    "nativeName": "Jämtlands län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-AC",
+    "name": "Västerbotten County",
+    "nativeName": "Västerbottens län",
+    "type": "County",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SE-BD",
+    "name": "Norrbotten County",
+    "nativeName": "Norrbottens län",
+    "type": "County",
+    "countryCode": "SE"
+  }
+]

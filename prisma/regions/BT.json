@@ -1,0 +1,142 @@
+[
+  {
+    "code": "BT-11",
+    "name": "Paro",
+    "nativeName": "པ་རོ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-12",
+    "name": "Chhukha",
+    "nativeName": "ཆུ་ཁ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-13",
+    "name": "Haa",
+    "nativeName": "ཧཱ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-14",
+    "name": "Samtse",
+    "nativeName": "བསམ་རྩེ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-15",
+    "name": "Thimphu",
+    "nativeName": "ཐིམ་ཕུག",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-21",
+    "name": "Tsirang",
+    "nativeName": "རྩི་རང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-22",
+    "name": "Dagana",
+    "nativeName": "དར་དཀར་ན",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-23",
+    "name": "Punakha",
+    "nativeName": "སྤུ་ན་ཁ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-24",
+    "name": "Wangdue Phodrang",
+    "nativeName": "དབང་འདུས་ཕོ་བྲང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-31",
+    "name": "Sarpang",
+    "nativeName": "གསར་སྤང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-32",
+    "name": "Trongsa",
+    "nativeName": "ཀྲོང་གསར་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-33",
+    "name": "Bumthang",
+    "nativeName": "བུམ་ཐང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-34",
+    "name": "Zhemgang",
+    "nativeName": "གཞལམ་སྒང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-41",
+    "name": "Trashigang",
+    "nativeName": "བཀྲ་ཤིས་སྒང་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-42",
+    "name": "Monggar",
+    "nativeName": "མོང་སྒར་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-43",
+    "name": "Pemagatshel",
+    "nativeName": "པད་མ་དགའ་ཚལ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-44",
+    "name": "Lhuntse",
+    "nativeName": "ལྷུན་རྩེ་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-45",
+    "name": "Samdrup Jongkhar",
+    "nativeName": "བསམ་གྲུབ་ལྗོངས་མཁར་",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-GA",
+    "name": "Gasa",
+    "nativeName": "མགར་ས",
+    "type": "District",
+    "countryCode": "BT"
+  },
+  {
+    "code": "BT-TY",
+    "name": "Trashi Yangtse",
+    "nativeName": "བཀྲ་ཤིས་གཡང་རྩེ",
+    "type": "District",
+    "countryCode": "BT"
+  }
+]

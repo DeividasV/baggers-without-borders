@@ -1,0 +1,72 @@
+[
+  {
+    "code": "DO-33",
+    "name": "Cibao Nordeste",
+    "nativeName": "Cibao Nordeste",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-34",
+    "name": "Cibao Noroeste",
+    "nativeName": "Cibao Noroeste",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-35",
+    "name": "Cibao Norte",
+    "nativeName": "Cibao Norte",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-36",
+    "name": "Cibao Sur",
+    "nativeName": "Cibao Sur",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-37",
+    "name": "El Valle",
+    "nativeName": "El Valle",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-38",
+    "name": "Enriquillo",
+    "nativeName": "Enriquillo",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-39",
+    "name": "Higuamo",
+    "nativeName": "Higuamo",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-40",
+    "name": "Ozama",
+    "nativeName": "Ozama",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-41",
+    "name": "Valdesia",
+    "nativeName": "Valdesia",
+    "type": "Region",
+    "countryCode": "DO"
+  },
+  {
+    "code": "DO-42",
+    "name": "Yuma",
+    "nativeName": "Yuma",
+    "type": "Region",
+    "countryCode": "DO"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "code": "YE-AB",
+    "name": "Abyan",
+    "nativeName": "أبين",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-AD",
+    "name": "Aden",
+    "nativeName": "عدن",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-AM",
+    "name": "Amran",
+    "nativeName": "عمران",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-BA",
+    "name": "Al Bayda",
+    "nativeName": "البيضاء",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-DA",
+    "name": "Ad Dali",
+    "nativeName": "الضالع",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-DH",
+    "name": "Dhamar",
+    "nativeName": "ذمار",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-HD",
+    "name": "Hadramaut",
+    "nativeName": "حضرموت",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-HJ",
+    "name": "Hajjah",
+    "nativeName": "حجة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-HU",
+    "name": "Al Hudaydah",
+    "nativeName": "الحديدة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-IB",
+    "name": "Ibb",
+    "nativeName": "إب",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-JA",
+    "name": "Al Jawf",
+    "nativeName": "الجوف",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-LA",
+    "name": "Lahij",
+    "nativeName": "لحج",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-MA",
+    "name": "Ma'rib",
+    "nativeName": "مأرب",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-MR",
+    "name": "Al Mahrah",
+    "nativeName": "المهرة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-MW",
+    "name": "Al Mahwit",
+    "nativeName": "المحويت",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-RA",
+    "name": "Raymah",
+    "nativeName": "ريمة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-SA",
+    "name": "Sana'a",
+    "nativeName": "صنعاء",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-SD",
+    "name": "Saada",
+    "nativeName": "صعدة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-SH",
+    "name": "Shabwah",
+    "nativeName": "شبوة",
+    "type": "Governorate",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-SN",
+    "name": "Sana'a City",
+    "nativeName": "أمانة العاصمة",
+    "type": "Municipality",
+    "countryCode": "YE"
+  },
+  {
+    "code": "YE-TA",
+    "name": "Taiz",
+    "nativeName": "تعز",
+    "type": "Governorate",
+    "countryCode": "YE"
+  }
+]

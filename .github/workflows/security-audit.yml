@@ -1,0 +1,66 @@
+name: Security Audit
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  schedule:
+    # Run weekly on Mondays at 9:00 AM UTC
+    - cron: "0 9 * * 1"
+  workflow_dispatch: # Allow manual trigger
+
+# Both jobs only read the repository. Declaring that explicitly keeps the
+# GITHUB_TOKEN at the least privilege the workflow needs even if the repository
+# or organisation default is later changed to read-write.
+permissions:
+  contents: read
+
+jobs:
+  secret-scan:
+    name: Secret Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Scan for committed credentials
+        # Tier 1 (pattern) always runs. Tier 2 (live .env cross-reference) is
+        # skipped automatically because no .env files exist in CI.
+        run: node scripts/security/scan-secrets.js
+
+  audit-application:
+    name: Dependency Audit
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Report dependency advisories
+        # Report-only: advisories in next / next-auth currently have no fix
+        # available in-range. See SECURITY.md for the accepted-risk note.
+        run: npm audit --audit-level=moderate
+        continue-on-error: true
+
+      - name: Check for outdated packages
+        run: npm outdated || true
+        continue-on-error: true

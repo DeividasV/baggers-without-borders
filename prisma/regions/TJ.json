@@ -1,0 +1,37 @@
+[
+  {
+    "code": "TJ-GB",
+    "name": "Gorno-Badakhshan",
+    "nativeName": "Вилояти Мухтори Кӯҳистони Бадахшон",
+    "type": "Autonomous Region",
+    "countryCode": "TJ"
+  },
+  {
+    "code": "TJ-KT",
+    "name": "Khatlon",
+    "nativeName": "Хатлон",
+    "type": "Region",
+    "countryCode": "TJ"
+  },
+  {
+    "code": "TJ-SU",
+    "name": "Sughd",
+    "nativeName": "Суғд",
+    "type": "Region",
+    "countryCode": "TJ"
+  },
+  {
+    "code": "TJ-DU",
+    "name": "Dushanbe",
+    "nativeName": "Душанбе",
+    "type": "Capital Territory",
+    "countryCode": "TJ"
+  },
+  {
+    "code": "TJ-RA",
+    "name": "Districts of Republican Subordination",
+    "nativeName": "Ноҳияҳои тобеи ҷумҳурӣ",
+    "type": "Region",
+    "countryCode": "TJ"
+  }
+]

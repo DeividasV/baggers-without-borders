@@ -1,0 +1,205 @@
+[
+  {
+    "code": "RS-00",
+    "name": "Belgrade",
+    "nativeName": "Београд",
+    "type": "City",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-14",
+    "name": "Bor District",
+    "nativeName": "Борски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-11",
+    "name": "Braničevo District",
+    "nativeName": "Браничевски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-23",
+    "name": "Jablanica District",
+    "nativeName": "Јабланички округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-06",
+    "name": "South Bačka District",
+    "nativeName": "Јужнобачки округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-04",
+    "name": "South Banat District",
+    "nativeName": "Јужнобанатски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-09",
+    "name": "Kolubara District",
+    "nativeName": "Колубарски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-25",
+    "name": "Kosovo District",
+    "nativeName": "Косовски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-28",
+    "name": "Kosovo-Pomoravlje District",
+    "nativeName": "Косовско-поморавски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-08",
+    "name": "Mačva District",
+    "nativeName": "Мачвански округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-17",
+    "name": "Moravica District",
+    "nativeName": "Моравички округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-20",
+    "name": "Nišava District",
+    "nativeName": "Нишавски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-24",
+    "name": "Pčinja District",
+    "nativeName": "Пчињски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-26",
+    "name": "Peć District",
+    "nativeName": "Пећки округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-22",
+    "name": "Pirot District",
+    "nativeName": "Пиротски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-10",
+    "name": "Podunavlje District",
+    "nativeName": "Подунавски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-13",
+    "name": "Pomoravlje District",
+    "nativeName": "Поморавски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-27",
+    "name": "Prizren District",
+    "nativeName": "Призренски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-19",
+    "name": "Rasina District",
+    "nativeName": "Расински округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-18",
+    "name": "Raška District",
+    "nativeName": "Рашки округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-01",
+    "name": "North Bačka District",
+    "nativeName": "Севернобачки округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-03",
+    "name": "North Banat District",
+    "nativeName": "Севернобанатски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-02",
+    "name": "Central Banat District",
+    "nativeName": "Средњобанатски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-07",
+    "name": "Srem District",
+    "nativeName": "Сремски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-12",
+    "name": "Šumadija District",
+    "nativeName": "Шумадијски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-21",
+    "name": "Toplica District",
+    "nativeName": "Топлички округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-15",
+    "name": "Zaječar District",
+    "nativeName": "Зајечарски округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-05",
+    "name": "West Bačka District",
+    "nativeName": "Западнобачки округ",
+    "type": "District",
+    "countryCode": "RS"
+  },
+  {
+    "code": "RS-16",
+    "name": "Zlatibor District",
+    "nativeName": "Злат иборски округ",
+    "type": "District",
+    "countryCode": "RS"
+  }
+]

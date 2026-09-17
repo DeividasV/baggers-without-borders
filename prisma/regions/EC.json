@@ -1,0 +1,170 @@
+[
+  {
+    "code": "EC-A",
+    "name": "Azuay Province",
+    "nativeName": "Provincia del Azuay",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-B",
+    "name": "Bolívar Province",
+    "nativeName": "Provincia de Bolívar",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-F",
+    "name": "Cañar Province",
+    "nativeName": "Provincia del Cañar",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-C",
+    "name": "Carchi Province",
+    "nativeName": "Provincia del Carchi",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-H",
+    "name": "Chimborazo Province",
+    "nativeName": "Provincia de Chimborazo",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-X",
+    "name": "Cotopaxi Province",
+    "nativeName": "Provincia de Cotopaxi",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-O",
+    "name": "El Oro Province",
+    "nativeName": "Provincia de El Oro",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-E",
+    "name": "Esmeraldas Province",
+    "nativeName": "Provincia de Esmeraldas",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-W",
+    "name": "Galápagos Province",
+    "nativeName": "Provincia de Galápagos",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-G",
+    "name": "Guayas Province",
+    "nativeName": "Provincia del Guayas",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-I",
+    "name": "Imbabura Province",
+    "nativeName": "Provincia de Imbabura",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-L",
+    "name": "Loja Province",
+    "nativeName": "Provincia de Loja",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-R",
+    "name": "Los Ríos Province",
+    "nativeName": "Provincia de Los Ríos",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-M",
+    "name": "Manabí Province",
+    "nativeName": "Provincia de Manabí",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-S",
+    "name": "Morona-Santiago Province",
+    "nativeName": "Provincia de Morona Santiago",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-N",
+    "name": "Napo Province",
+    "nativeName": "Provincia de Napo",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-D",
+    "name": "Orellana Province",
+    "nativeName": "Provincia de Orellana",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-Y",
+    "name": "Pastaza Province",
+    "nativeName": "Provincia de Pastaza",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-P",
+    "name": "Pichincha Province",
+    "nativeName": "Provincia de Pichincha",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-SE",
+    "name": "Santa Elena Province",
+    "nativeName": "Provincia de Santa Elena",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-SD",
+    "name": "Santo Domingo de los Tsáchilas Province",
+    "nativeName": "Provincia de Santo Domingo de los Tsáchilas",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-U",
+    "name": "Sucumbíos Province",
+    "nativeName": "Provincia de Sucumbíos",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-T",
+    "name": "Tungurahua Province",
+    "nativeName": "Provincia de Tungurahua",
+    "type": "Province",
+    "countryCode": "EC"
+  },
+  {
+    "code": "EC-Z",
+    "name": "Zamora-Chinchipe Province",
+    "nativeName": "Provincia de Zamora Chinchipe",
+    "type": "Province",
+    "countryCode": "EC"
+  }
+]

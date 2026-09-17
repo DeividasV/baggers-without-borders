@@ -1,0 +1,100 @@
+[
+  {
+    "code": "SV-AH",
+    "name": "Ahuachapán Department",
+    "nativeName": "Departamento de Ahuachapán",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-CA",
+    "name": "Cabañas Department",
+    "nativeName": "Departamento de Cabañas",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-CH",
+    "name": "Chalatenango Department",
+    "nativeName": "Departamento de Chalatenango",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-CU",
+    "name": "Cuscatlán Department",
+    "nativeName": "Departamento de Cuscatlán",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-LI",
+    "name": "La Libertad Department",
+    "nativeName": "Departamento de La Libertad",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-PA",
+    "name": "La Paz Department",
+    "nativeName": "Departamento de La Paz",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-UN",
+    "name": "La Unión Department",
+    "nativeName": "Departamento de La Unión",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-MO",
+    "name": "Morazán Department",
+    "nativeName": "Departamento de Morazán",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-SM",
+    "name": "San Miguel Department",
+    "nativeName": "Departamento de San Miguel",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-SS",
+    "name": "San Salvador Department",
+    "nativeName": "Departamento de San Salvador",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-SV",
+    "name": "San Vicente Department",
+    "nativeName": "Departamento de San Vicente",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-SA",
+    "name": "Santa Ana Department",
+    "nativeName": "Departamento de Santa Ana",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-SO",
+    "name": "Sonsonate Department",
+    "nativeName": "Departamento de Sonsonate",
+    "type": "Department",
+    "countryCode": "SV"
+  },
+  {
+    "code": "SV-US",
+    "name": "Usulután Department",
+    "nativeName": "Departamento de Usulután",
+    "type": "Department",
+    "countryCode": "SV"
+  }
+]

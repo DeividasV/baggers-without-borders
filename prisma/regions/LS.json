@@ -1,0 +1,72 @@
+[
+  {
+    "code": "LS-A",
+    "name": "Maseru",
+    "nativeName": "Maseru",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-B",
+    "name": "Butha-Buthe",
+    "nativeName": "Butha-Buthe",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-C",
+    "name": "Leribe",
+    "nativeName": "Leribe",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-D",
+    "name": "Berea",
+    "nativeName": "Berea",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-E",
+    "name": "Mafeteng",
+    "nativeName": "Mafeteng",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-F",
+    "name": "Mohale's Hoek",
+    "nativeName": "Mohale's Hoek",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-G",
+    "name": "Quthing",
+    "nativeName": "Quthing",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-H",
+    "name": "Qacha's Nek",
+    "nativeName": "Qacha's Nek",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-J",
+    "name": "Mokhotlong",
+    "nativeName": "Mokhotlong",
+    "type": "District",
+    "countryCode": "LS"
+  },
+  {
+    "code": "LS-K",
+    "name": "Thaba-Tseka",
+    "nativeName": "Thaba-Tseka",
+    "type": "District",
+    "countryCode": "LS"
+  }
+]

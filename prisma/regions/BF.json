@@ -1,0 +1,93 @@
+[
+  {
+    "code": "BF-01",
+    "name": "Boucle du Mouhoun",
+    "nativeName": "Boucle du Mouhoun",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-02",
+    "name": "Cascades",
+    "nativeName": "Cascades",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-03",
+    "name": "Centre",
+    "nativeName": "Centre",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-04",
+    "name": "Centre-Est",
+    "nativeName": "Centre-Est",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-05",
+    "name": "Centre-Nord",
+    "nativeName": "Centre-Nord",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-06",
+    "name": "Centre-Ouest",
+    "nativeName": "Centre-Ouest",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-07",
+    "name": "Centre-Sud",
+    "nativeName": "Centre-Sud",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-08",
+    "name": "Est",
+    "nativeName": "Est",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-09",
+    "name": "Hauts-Bassins",
+    "nativeName": "Hauts-Bassins",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-10",
+    "name": "Nord",
+    "nativeName": "Nord",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-11",
+    "name": "Plateau-Central",
+    "nativeName": "Plateau-Central",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-12",
+    "name": "Sahel",
+    "nativeName": "Sahel",
+    "type": "Region",
+    "countryCode": "BF"
+  },
+  {
+    "code": "BF-13",
+    "name": "Sud-Ouest",
+    "nativeName": "Sud-Ouest",
+    "type": "Region",
+    "countryCode": "BF"
+  }
+]

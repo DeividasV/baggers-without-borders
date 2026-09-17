@@ -1,0 +1,142 @@
+[
+  {
+    "code": "HU-BK",
+    "name": "Bács-Kiskun",
+    "nativeName": "Bács-Kiskun",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-BA",
+    "name": "Baranya",
+    "nativeName": "Baranya",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-BE",
+    "name": "Békés",
+    "nativeName": "Békés",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-BZ",
+    "name": "Borsod-Abaúj-Zemplén",
+    "nativeName": "Borsod-Abaúj-Zemplén",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-BU",
+    "name": "Budapest",
+    "nativeName": "Budapest",
+    "type": "Capital City",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-CS",
+    "name": "Csongrád-Csanád",
+    "nativeName": "Csongrád-Csanád",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-FE",
+    "name": "Fejér",
+    "nativeName": "Fejér",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-GS",
+    "name": "Győr-Moson-Sopron",
+    "nativeName": "Győr-Moson-Sopron",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-HB",
+    "name": "Hajdú-Bihar",
+    "nativeName": "Hajdú-Bihar",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-HE",
+    "name": "Heves",
+    "nativeName": "Heves",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-JN",
+    "name": "Jász-Nagykun-Szolnok",
+    "nativeName": "Jász-Nagykun-Szolnok",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-KE",
+    "name": "Komárom-Esztergom",
+    "nativeName": "Komárom-Esztergom",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-NO",
+    "name": "Nógrád",
+    "nativeName": "Nógrád",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-PE",
+    "name": "Pest",
+    "nativeName": "Pest",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-SO",
+    "name": "Somogy",
+    "nativeName": "Somogy",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-SZ",
+    "name": "Szabolcs-Szatmár-Bereg",
+    "nativeName": "Szabolcs-Szatmár-Bereg",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-TO",
+    "name": "Tolna",
+    "nativeName": "Tolna",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-VA",
+    "name": "Vas",
+    "nativeName": "Vas",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-VE",
+    "name": "Veszprém",
+    "nativeName": "Veszprém",
+    "type": "County",
+    "countryCode": "HU"
+  },
+  {
+    "code": "HU-ZA",
+    "name": "Zala",
+    "nativeName": "Zala",
+    "type": "County",
+    "countryCode": "HU"
+  }
+]

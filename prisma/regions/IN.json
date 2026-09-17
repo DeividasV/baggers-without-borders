@@ -1,0 +1,254 @@
+[
+  {
+    "code": "IN-AN",
+    "name": "Andaman and Nicobar Islands",
+    "nativeName": "अंडमान और निकोबार द्वीप समूह",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-AP",
+    "name": "Andhra Pradesh",
+    "nativeName": "ఆంధ్ర ప్రదేశ్",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-AR",
+    "name": "Arunachal Pradesh",
+    "nativeName": "अरुणाचल प्रदेश",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-AS",
+    "name": "Assam",
+    "nativeName": "অসম",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-BR",
+    "name": "Bihar",
+    "nativeName": "बिहार",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-CH",
+    "name": "Chandigarh",
+    "nativeName": "चंडीगढ़",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-CT",
+    "name": "Chhattisgarh",
+    "nativeName": "छत्तीसगढ़",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "nativeName": "दादरा और नगर हवेली और दमन और दीव",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-DL",
+    "name": "Delhi",
+    "nativeName": "दिल्ली",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-GA",
+    "name": "Goa",
+    "nativeName": "गोवा",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-GJ",
+    "name": "Gujarat",
+    "nativeName": "ગુજરાત",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-HR",
+    "name": "Haryana",
+    "nativeName": "हरियाणा",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-HP",
+    "name": "Himachal Pradesh",
+    "nativeName": "हिमाचल प्रदेश",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-JK",
+    "name": "Jammu and Kashmir",
+    "nativeName": "जम्मू और कश्मीर",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-JH",
+    "name": "Jharkhand",
+    "nativeName": "झारखंड",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-KA",
+    "name": "Karnataka",
+    "nativeName": "ಕರ್ನಾಟಕ",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-KL",
+    "name": "Kerala",
+    "nativeName": "കേരളം",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-LA",
+    "name": "Ladakh",
+    "nativeName": "لداخ",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-LD",
+    "name": "Lakshadweep",
+    "nativeName": "ലക്ഷദ്വീപ്",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-MP",
+    "name": "Madhya Pradesh",
+    "nativeName": "मध्य प्रदेश",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-MH",
+    "name": "Maharashtra",
+    "nativeName": "महाराष्ट्र",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-MN",
+    "name": "Manipur",
+    "nativeName": "মণিপুর",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-ML",
+    "name": "Meghalaya",
+    "nativeName": "মেঘালয়",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-MZ",
+    "name": "Mizoram",
+    "nativeName": "Mizoram",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-NL",
+    "name": "Nagaland",
+    "nativeName": "Nagaland",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-OR",
+    "name": "Odisha",
+    "nativeName": "ଓଡ଼ିଶା",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-PY",
+    "name": "Puducherry",
+    "nativeName": "புதுச்சேரி",
+    "type": "Union Territory",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-PB",
+    "name": "Punjab",
+    "nativeName": "ਪੰਜਾਬ",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-RJ",
+    "name": "Rajasthan",
+    "nativeName": "राजस्थान",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-SK",
+    "name": "Sikkim",
+    "nativeName": "सिक्किम",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-TN",
+    "name": "Tamil Nadu",
+    "nativeName": "தமிழ்நாடு",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-TG",
+    "name": "Telangana",
+    "nativeName": "తెలంగాణ",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-TR",
+    "name": "Tripura",
+    "nativeName": "ত্রিপুরা",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-UP",
+    "name": "Uttar Pradesh",
+    "nativeName": "उत्तर प्रदेश",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-UT",
+    "name": "Uttarakhand",
+    "nativeName": "उत्तराखंड",
+    "type": "State",
+    "countryCode": "IN"
+  },
+  {
+    "code": "IN-WB",
+    "name": "West Bengal",
+    "nativeName": "পশ্চিমবঙ্গ",
+    "type": "State",
+    "countryCode": "IN"
+  }
+]

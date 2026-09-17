@@ -1,0 +1,51 @@
+[
+  {
+    "code": "PK-JK",
+    "name": "Azad Jammu and Kashmir",
+    "nativeName": "آزاد جموں و کشمیر",
+    "type": "Territory",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-BA",
+    "name": "Balochistan",
+    "nativeName": "بلوچستان",
+    "type": "Province",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-GB",
+    "name": "Gilgit-Baltistan",
+    "nativeName": "گلگت بلتستان",
+    "type": "Territory",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-IS",
+    "name": "Islamabad",
+    "nativeName": "اسلام آباد",
+    "type": "Federal Capital Territory",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-KP",
+    "name": "Khyber Pakhtunkhwa",
+    "nativeName": "خیبر پختونخوا",
+    "type": "Province",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-PB",
+    "name": "Punjab",
+    "nativeName": "پنجاب",
+    "type": "Province",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PK-SD",
+    "name": "Sindh",
+    "nativeName": "سندھ",
+    "type": "Province",
+    "countryCode": "PK"
+  }
+]

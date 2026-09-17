@@ -1,0 +1,37 @@
+[
+  {
+    "code": "FJ-C",
+    "name": "Central Division",
+    "nativeName": "Central",
+    "type": "Division",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "FJ-E",
+    "name": "Eastern Division",
+    "nativeName": "Eastern",
+    "type": "Division",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "FJ-N",
+    "name": "Northern Division",
+    "nativeName": "Northern",
+    "type": "Division",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "FJ-R",
+    "name": "Rotuma",
+    "nativeName": "Rotuma",
+    "type": "Dependency",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "FJ-W",
+    "name": "Western Division",
+    "nativeName": "Western",
+    "type": "Division",
+    "countryCode": "FJ"
+  }
+]

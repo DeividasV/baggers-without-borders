@@ -1,0 +1,128 @@
+[
+  {
+    "code": "SO-AW",
+    "name": "Awdal",
+    "nativeName": "Awdal",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-BK",
+    "name": "Bakool",
+    "nativeName": "Bakool",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-BN",
+    "name": "Banaadir",
+    "nativeName": "Banaadir",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-BR",
+    "name": "Bari",
+    "nativeName": "Bari",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-BY",
+    "name": "Bay",
+    "nativeName": "Bay",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-GA",
+    "name": "Galguduud",
+    "nativeName": "Galguduud",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-GE",
+    "name": "Gedo",
+    "nativeName": "Gedo",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-HI",
+    "name": "Hiiraan",
+    "nativeName": "Hiiraan",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-JD",
+    "name": "Middle Juba",
+    "nativeName": "Jubbada Dhexe",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-JH",
+    "name": "Lower Juba",
+    "nativeName": "Jubbada Hoose",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-MU",
+    "name": "Mudug",
+    "nativeName": "Mudug",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-NU",
+    "name": "Nugaal",
+    "nativeName": "Nugaal",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-SA",
+    "name": "Sanaag",
+    "nativeName": "Sanaag",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-SD",
+    "name": "Middle Shabelle",
+    "nativeName": "Shabeellaha Dhexe",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-SH",
+    "name": "Lower Shabelle",
+    "nativeName": "Shabeellaha Hoose",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-SO",
+    "name": "Sool",
+    "nativeName": "Sool",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-TO",
+    "name": "Togdheer",
+    "nativeName": "Togdheer",
+    "type": "Region",
+    "countryCode": "SO"
+  },
+  {
+    "code": "SO-WO",
+    "name": "Woqooyi Galbeed",
+    "nativeName": "Woqooyi Galbeed",
+    "type": "Region",
+    "countryCode": "SO"
+  }
+]

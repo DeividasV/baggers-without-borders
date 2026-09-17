@@ -1,0 +1,72 @@
+[
+  {
+    "code": "SR-BR",
+    "name": "Brokopondo District",
+    "nativeName": "Brokopondo",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-CM",
+    "name": "Commewijne District",
+    "nativeName": "Commewijne",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-CR",
+    "name": "Coronie District",
+    "nativeName": "Coronie",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-MA",
+    "name": "Marowijne District",
+    "nativeName": "Marowijne",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-NI",
+    "name": "Nickerie District",
+    "nativeName": "Nickerie",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-PR",
+    "name": "Para District",
+    "nativeName": "Para",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-PM",
+    "name": "Paramaribo District",
+    "nativeName": "Paramaribo",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-SA",
+    "name": "Saramacca District",
+    "nativeName": "Saramacca",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-SI",
+    "name": "Sipaliwini District",
+    "nativeName": "Sipaliwini",
+    "type": "District",
+    "countryCode": "SR"
+  },
+  {
+    "code": "SR-WA",
+    "name": "Wanica District",
+    "nativeName": "Wanica",
+    "type": "District",
+    "countryCode": "SR"
+  }
+]

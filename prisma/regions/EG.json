@@ -1,0 +1,191 @@
+[
+  {
+    "code": "EG-ALX",
+    "name": "Alexandria",
+    "nativeName": "الإسكندرية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-ASN",
+    "name": "Aswan",
+    "nativeName": "أسوان",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-AST",
+    "name": "Asyut",
+    "nativeName": "أسيوط",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-BA",
+    "name": "Red Sea",
+    "nativeName": "البحر الأحمر",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-BH",
+    "name": "Beheira",
+    "nativeName": "البحيرة",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-BNS",
+    "name": "Beni Suef",
+    "nativeName": "بني سويف",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-C",
+    "name": "Cairo",
+    "nativeName": "القاهرة",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-DK",
+    "name": "Dakahlia",
+    "nativeName": "الدقهلية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-DT",
+    "name": "Damietta",
+    "nativeName": "دمياط",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-FYM",
+    "name": "Faiyum",
+    "nativeName": "الفيوم",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-GH",
+    "name": "Gharbia",
+    "nativeName": "الغربية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-GZ",
+    "name": "Giza",
+    "nativeName": "الجيزة",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-IS",
+    "name": "Ismailia",
+    "nativeName": "الإسماعيلية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-JS",
+    "name": "South Sinai",
+    "nativeName": "جنوب سيناء",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-KB",
+    "name": "Qalyubia",
+    "nativeName": "القليوبية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-KFS",
+    "name": "Kafr el-Sheikh",
+    "nativeName": "كفر الشيخ",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-KN",
+    "name": "Qena",
+    "nativeName": "قنا",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-LX",
+    "name": "Luxor",
+    "nativeName": "الأقصر",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-MN",
+    "name": "Minya",
+    "nativeName": "المنيا",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-MNF",
+    "name": "Monufia",
+    "nativeName": "المنوفية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-MT",
+    "name": "Matrouh",
+    "nativeName": "مطروح",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-PTS",
+    "name": "Port Said",
+    "nativeName": "بورسعيد",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-SHG",
+    "name": "Sohag",
+    "nativeName": "سوهاج",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-SHR",
+    "name": "Sharqia",
+    "nativeName": "الشرقية",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-SIN",
+    "name": "North Sinai",
+    "nativeName": "شمال سيناء",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-SUZ",
+    "name": "Suez",
+    "nativeName": "السويس",
+    "type": "Governorate",
+    "countryCode": "EG"
+  },
+  {
+    "code": "EG-WAD",
+    "name": "New Valley",
+    "nativeName": "الوادي الجديد",
+    "type": "Governorate",
+    "countryCode": "EG"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "ZW-BU",
+    "name": "Bulawayo",
+    "nativeName": "Bulawayo",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-HA",
+    "name": "Harare",
+    "nativeName": "Harare",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MA",
+    "name": "Manicaland",
+    "nativeName": "Manicaland",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MC",
+    "name": "Mashonaland Central",
+    "nativeName": "Mashonaland Central",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-ME",
+    "name": "Mashonaland East",
+    "nativeName": "Mashonaland East",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MI",
+    "name": "Midlands",
+    "nativeName": "Midlands",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MN",
+    "name": "Matabeleland North",
+    "nativeName": "Matabeleland North",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MS",
+    "name": "Matabeleland South",
+    "nativeName": "Matabeleland South",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MV",
+    "name": "Masvingo",
+    "nativeName": "Masvingo",
+    "type": "Province",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "ZW-MW",
+    "name": "Mashonaland West",
+    "nativeName": "Mashonaland West",
+    "type": "Province",
+    "countryCode": "ZW"
+  }
+]

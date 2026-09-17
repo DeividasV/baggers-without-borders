@@ -1,0 +1,30 @@
+[
+  {
+    "code": "IE-C",
+    "name": "Connacht",
+    "nativeName": "Connacht",
+    "type": "Province",
+    "countryCode": "IE"
+  },
+  {
+    "code": "IE-L",
+    "name": "Leinster",
+    "nativeName": "Leinster",
+    "type": "Province",
+    "countryCode": "IE"
+  },
+  {
+    "code": "IE-M",
+    "name": "Munster",
+    "nativeName": "Munster",
+    "type": "Province",
+    "countryCode": "IE"
+  },
+  {
+    "code": "IE-U",
+    "name": "Ulster",
+    "nativeName": "Ulster",
+    "type": "Province",
+    "countryCode": "IE"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "code": "UA-43",
+    "name": "Autonomous Republic of Crimea",
+    "nativeName": "Автономна Республіка Крим",
+    "type": "Autonomous Republic",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-05",
+    "name": "Vinnytsia Oblast",
+    "nativeName": "Вінницька область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-07",
+    "name": "Volyn Oblast",
+    "nativeName": "Волинська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-09",
+    "name": "Luhansk Oblast",
+    "nativeName": "Луганська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-12",
+    "name": "Dnipropetrovsk Oblast",
+    "nativeName": "Дніпропетровська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-14",
+    "name": "Donetsk Oblast",
+    "nativeName": "Донецька область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-18",
+    "name": "Zhytomyr Oblast",
+    "nativeName": "Житомирська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-21",
+    "name": "Zakarpattia Oblast",
+    "nativeName": "Закарпатська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-23",
+    "name": "Zaporizhzhia Oblast",
+    "nativeName": "Запорізька область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-26",
+    "name": "Ivano-Frankivsk Oblast",
+    "nativeName": "Івано-Франківська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-30",
+    "name": "Kyiv",
+    "nativeName": "Київ",
+    "type": "City",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-32",
+    "name": "Kyiv Oblast",
+    "nativeName": "Київська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-35",
+    "name": "Kirovohrad Oblast",
+    "nativeName": "Кіровоградська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-40",
+    "name": "Sevastopol",
+    "nativeName": "Севастополь",
+    "type": "City",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-46",
+    "name": "Lviv Oblast",
+    "nativeName": "Львівська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-48",
+    "name": "Mykolaiv Oblast",
+    "nativeName": "Миколаївська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-51",
+    "name": "Odessa Oblast",
+    "nativeName": "Одеська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-53",
+    "name": "Poltava Oblast",
+    "nativeName": "Полтавська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-56",
+    "name": "Rivne Oblast",
+    "nativeName": "Рівненська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-59",
+    "name": "Sumy Oblast",
+    "nativeName": "Сумська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-61",
+    "name": "Ternopil Oblast",
+    "nativeName": "Тернопільська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-63",
+    "name": "Kharkiv Oblast",
+    "nativeName": "Харківська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-65",
+    "name": "Kherson Oblast",
+    "nativeName": "Херсонська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-68",
+    "name": "Khmelnytskyi Oblast",
+    "nativeName": "Хмельницька область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-71",
+    "name": "Cherkasy Oblast",
+    "nativeName": "Черкаська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-74",
+    "name": "Chernihiv Oblast",
+    "nativeName": "Чернігівська область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  },
+  {
+    "code": "UA-77",
+    "name": "Chernivtsi Oblast",
+    "nativeName": "Чернівецька область",
+    "type": "Oblast",
+    "countryCode": "UA"
+  }
+]

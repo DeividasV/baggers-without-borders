@@ -1,0 +1,51 @@
+[
+  {
+    "code": "NP-P1",
+    "name": "Province No. 1",
+    "nativeName": "प्रदेश नं. १",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-P2",
+    "name": "Madhesh Province",
+    "nativeName": "मधेश प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-BA",
+    "name": "Bagmati Province",
+    "nativeName": "बागमती प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-GA",
+    "name": "Gandaki Province",
+    "nativeName": "गण्डकी प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-LU",
+    "name": "Lumbini Province",
+    "nativeName": "लुम्बिनी प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-KA",
+    "name": "Karnali Province",
+    "nativeName": "कर्णाली प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  },
+  {
+    "code": "NP-SU",
+    "name": "Sudurpashchim Province",
+    "nativeName": "सुदूरपश्चिम प्रदेश",
+    "type": "Province",
+    "countryCode": "NP"
+  }
+]

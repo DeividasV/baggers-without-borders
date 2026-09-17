@@ -1,0 +1,569 @@
+[
+  {
+    "code": "TR-01",
+    "name": "Adana",
+    "nativeName": "Adana",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-02",
+    "name": "Adıyaman",
+    "nativeName": "Adıyaman",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-03",
+    "name": "Afyonkarahisar",
+    "nativeName": "Afyonkarahisar",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-04",
+    "name": "Ağrı",
+    "nativeName": "Ağrı",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-68",
+    "name": "Aksaray",
+    "nativeName": "Aksaray",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-05",
+    "name": "Amasya",
+    "nativeName": "Amasya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-06",
+    "name": "Ankara",
+    "nativeName": "Ankara",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-07",
+    "name": "Antalya",
+    "nativeName": "Antalya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-75",
+    "name": "Ardahan",
+    "nativeName": "Ardahan",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-08",
+    "name": "Artvin",
+    "nativeName": "Artvin",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-09",
+    "name": "Aydın",
+    "nativeName": "Aydın",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-10",
+    "name": "Balıkesir",
+    "nativeName": "Balıkesir",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-74",
+    "name": "Bartın",
+    "nativeName": "Bartın",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-72",
+    "name": "Batman",
+    "nativeName": "Batman",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-69",
+    "name": "Bayburt",
+    "nativeName": "Bayburt",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-11",
+    "name": "Bilecik",
+    "nativeName": "Bilecik",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-12",
+    "name": "Bingöl",
+    "nativeName": "Bingöl",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-13",
+    "name": "Bitlis",
+    "nativeName": "Bitlis",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-14",
+    "name": "Bolu",
+    "nativeName": "Bolu",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-15",
+    "name": "Burdur",
+    "nativeName": "Burdur",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-16",
+    "name": "Bursa",
+    "nativeName": "Bursa",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-17",
+    "name": "Çanakkale",
+    "nativeName": "Çanakkale",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-18",
+    "name": "Çankırı",
+    "nativeName": "Çankırı",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-19",
+    "name": "Çorum",
+    "nativeName": "Çorum",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-20",
+    "name": "Denizli",
+    "nativeName": "Denizli",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-21",
+    "name": "Diyarbakır",
+    "nativeName": "Diyarbakır",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-81",
+    "name": "Düzce",
+    "nativeName": "Düzce",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-22",
+    "name": "Edirne",
+    "nativeName": "Edirne",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-23",
+    "name": "Elazığ",
+    "nativeName": "Elazığ",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-24",
+    "name": "Erzincan",
+    "nativeName": "Erzincan",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-25",
+    "name": "Erzurum",
+    "nativeName": "Erzurum",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-26",
+    "name": "Eskişehir",
+    "nativeName": "Eskişehir",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-27",
+    "name": "Gaziantep",
+    "nativeName": "Gaziantep",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-28",
+    "name": "Giresun",
+    "nativeName": "Giresun",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-29",
+    "name": "Gümüşhane",
+    "nativeName": "Gümüşhane",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-30",
+    "name": "Hakkâri",
+    "nativeName": "Hakkâri",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-31",
+    "name": "Hatay",
+    "nativeName": "Hatay",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-76",
+    "name": "Iğdır",
+    "nativeName": "Iğdır",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-32",
+    "name": "Isparta",
+    "nativeName": "Isparta",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-34",
+    "name": "Istanbul",
+    "nativeName": "İstanbul",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-35",
+    "name": "İzmir",
+    "nativeName": "İzmir",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-46",
+    "name": "Kahramanmaraş",
+    "nativeName": "Kahramanmaraş",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-78",
+    "name": "Karabük",
+    "nativeName": "Karabük",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-70",
+    "name": "Karaman",
+    "nativeName": "Karaman",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-36",
+    "name": "Kars",
+    "nativeName": "Kars",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-37",
+    "name": "Kastamonu",
+    "nativeName": "Kastamonu",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-38",
+    "name": "Kayseri",
+    "nativeName": "Kayseri",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-79",
+    "name": "Kilis",
+    "nativeName": "Kilis",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-71",
+    "name": "Kırıkkale",
+    "nativeName": "Kırıkkale",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-39",
+    "name": "Kırklareli",
+    "nativeName": "Kırklareli",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-40",
+    "name": "Kırşehir",
+    "nativeName": "Kırşehir",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-41",
+    "name": "Kocaeli",
+    "nativeName": "Kocaeli",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-42",
+    "name": "Konya",
+    "nativeName": "Konya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-43",
+    "name": "Kütahya",
+    "nativeName": "Kütahya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-44",
+    "name": "Malatya",
+    "nativeName": "Malatya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-45",
+    "name": "Manisa",
+    "nativeName": "Manisa",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-47",
+    "name": "Mardin",
+    "nativeName": "Mardin",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-33",
+    "name": "Mersin",
+    "nativeName": "Mersin",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-48",
+    "name": "Muğla",
+    "nativeName": "Muğla",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-49",
+    "name": "Muş",
+    "nativeName": "Muş",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-50",
+    "name": "Nevşehir",
+    "nativeName": "Nevşehir",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-51",
+    "name": "Niğde",
+    "nativeName": "Niğde",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-52",
+    "name": "Ordu",
+    "nativeName": "Ordu",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-80",
+    "name": "Osmaniye",
+    "nativeName": "Osmaniye",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-53",
+    "name": "Rize",
+    "nativeName": "Rize",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-54",
+    "name": "Sakarya",
+    "nativeName": "Sakarya",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-55",
+    "name": "Samsun",
+    "nativeName": "Samsun",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-56",
+    "name": "Siirt",
+    "nativeName": "Siirt",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-57",
+    "name": "Sinop",
+    "nativeName": "Sinop",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-58",
+    "name": "Sivas",
+    "nativeName": "Sivas",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-63",
+    "name": "Şanlıurfa",
+    "nativeName": "Şanlıurfa",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-73",
+    "name": "Şırnak",
+    "nativeName": "Şırnak",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-59",
+    "name": "Tekirdağ",
+    "nativeName": "Tekirdağ",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-60",
+    "name": "Tokat",
+    "nativeName": "Tokat",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-61",
+    "name": "Trabzon",
+    "nativeName": "Trabzon",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-62",
+    "name": "Tunceli",
+    "nativeName": "Tunceli",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-64",
+    "name": "Uşak",
+    "nativeName": "Uşak",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-65",
+    "name": "Van",
+    "nativeName": "Van",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-77",
+    "name": "Yalova",
+    "nativeName": "Yalova",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-66",
+    "name": "Yozgat",
+    "nativeName": "Yozgat",
+    "type": "Province",
+    "countryCode": "TR"
+  },
+  {
+    "code": "TR-67",
+    "name": "Zonguldak",
+    "nativeName": "Zonguldak",
+    "type": "Province",
+    "countryCode": "TR"
+  }
+]

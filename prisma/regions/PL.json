@@ -1,0 +1,114 @@
+[
+  {
+    "code": "PL-02",
+    "name": "Lower Silesian Voivodeship",
+    "nativeName": "Dolnośląskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-04",
+    "name": "Kuyavian-Pomeranian Voivodeship",
+    "nativeName": "Kujawsko-Pomorskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-06",
+    "name": "Lublin Voivodeship",
+    "nativeName": "Lubelskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-08",
+    "name": "Lubusz Voivodeship",
+    "nativeName": "Lubuskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-10",
+    "name": "Łódź Voivodeship",
+    "nativeName": "Łódzkie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-12",
+    "name": "Lesser Poland Voivodeship",
+    "nativeName": "Małopolskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-14",
+    "name": "Masovian Voivodeship",
+    "nativeName": "Mazowieckie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-16",
+    "name": "Opole Voivodeship",
+    "nativeName": "Opolskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-18",
+    "name": "Subcarpathian Voivodeship",
+    "nativeName": "Podkarpackie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-20",
+    "name": "Podlaskie Voivodeship",
+    "nativeName": "Podlaskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-22",
+    "name": "Pomeranian Voivodeship",
+    "nativeName": "Pomorskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-24",
+    "name": "Silesian Voivodeship",
+    "nativeName": "Śląskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-26",
+    "name": "Świętokrzyskie Voivodeship",
+    "nativeName": "Świętokrzyskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-28",
+    "name": "Warmian-Masurian Voivodeship",
+    "nativeName": "Warmińsko-Mazurskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-30",
+    "name": "Greater Poland Voivodeship",
+    "nativeName": "Wielkopolskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  },
+  {
+    "code": "PL-32",
+    "name": "West Pomeranian Voivodeship",
+    "nativeName": "Zachodniopomorskie",
+    "type": "Voivodeship",
+    "countryCode": "PL"
+  }
+]

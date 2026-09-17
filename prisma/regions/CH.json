@@ -1,0 +1,184 @@
+[
+  {
+    "code": "CH-AG",
+    "name": "Aargau",
+    "nativeName": "Aargau",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-AR",
+    "name": "Appenzell Ausserrhoden",
+    "nativeName": "Appenzell Ausserrhoden",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-AI",
+    "name": "Appenzell Innerrhoden",
+    "nativeName": "Appenzell Innerrhoden",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-BL",
+    "name": "Basel-Landschaft",
+    "nativeName": "Basel-Landschaft",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-BS",
+    "name": "Basel-Stadt",
+    "nativeName": "Basel-Stadt",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-BE",
+    "name": "Bern",
+    "nativeName": "Bern",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-FR",
+    "name": "Fribourg",
+    "nativeName": "Fribourg",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-GE",
+    "name": "Geneva",
+    "nativeName": "Genève",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-GL",
+    "name": "Glarus",
+    "nativeName": "Glarus",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-GR",
+    "name": "Graubünden",
+    "nativeName": "Graubünden",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-JU",
+    "name": "Jura",
+    "nativeName": "Jura",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-LU",
+    "name": "Lucerne",
+    "nativeName": "Luzern",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-NE",
+    "name": "Neuchâtel",
+    "nativeName": "Neuchâtel",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-NW",
+    "name": "Nidwalden",
+    "nativeName": "Nidwalden",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-OW",
+    "name": "Obwalden",
+    "nativeName": "Obwalden",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-SG",
+    "name": "St. Gallen",
+    "nativeName": "St. Gallen",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-SH",
+    "name": "Schaffhausen",
+    "nativeName": "Schaffhausen",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-SZ",
+    "name": "Schwyz",
+    "nativeName": "Schwyz",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-SO",
+    "name": "Solothurn",
+    "nativeName": "Solothurn",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-TG",
+    "name": "Thurgau",
+    "nativeName": "Thurgau",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-TI",
+    "name": "Ticino",
+    "nativeName": "Ticino",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-UR",
+    "name": "Uri",
+    "nativeName": "Uri",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-VD",
+    "name": "Vaud",
+    "nativeName": "Vaud",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-VS",
+    "name": "Valais",
+    "nativeName": "Valais",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-ZG",
+    "name": "Zug",
+    "nativeName": "Zug",
+    "type": "Canton",
+    "countryCode": "CH"
+  },
+  {
+    "code": "CH-ZH",
+    "name": "Zurich",
+    "nativeName": "Zürich",
+    "type": "Canton",
+    "countryCode": "CH"
+  }
+]

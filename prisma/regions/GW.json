@@ -1,0 +1,65 @@
+[
+  {
+    "code": "GW-BA",
+    "name": "Bafatá",
+    "nativeName": "Bafatá",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-BL",
+    "name": "Bolama",
+    "nativeName": "Bolama",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-BM",
+    "name": "Biombo",
+    "nativeName": "Biombo",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-BS",
+    "name": "Bissau",
+    "nativeName": "Bissau",
+    "type": "Autonomous Sector",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-CA",
+    "name": "Cacheu",
+    "nativeName": "Cacheu",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-GA",
+    "name": "Gabú",
+    "nativeName": "Gabú",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-OI",
+    "name": "Oio",
+    "nativeName": "Oio",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-QU",
+    "name": "Quinara",
+    "nativeName": "Quinara",
+    "type": "Region",
+    "countryCode": "GW"
+  },
+  {
+    "code": "GW-TO",
+    "name": "Tombali",
+    "nativeName": "Tombali",
+    "type": "Region",
+    "countryCode": "GW"
+  }
+]

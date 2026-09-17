@@ -1,0 +1,93 @@
+[
+  {
+    "code": "MR-01",
+    "name": "Hodh Ech Chargui",
+    "nativeName": "Hodh Ech Chargui",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-02",
+    "name": "Hodh El Gharbi",
+    "nativeName": "Hodh El Gharbi",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-03",
+    "name": "Assaba",
+    "nativeName": "Assaba",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-04",
+    "name": "Gorgol",
+    "nativeName": "Gorgol",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-05",
+    "name": "Brakna",
+    "nativeName": "Brakna",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-06",
+    "name": "Trarza",
+    "nativeName": "Trarza",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-07",
+    "name": "Adrar",
+    "nativeName": "Adrar",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-08",
+    "name": "Dakhlet Nouadhibou",
+    "nativeName": "Dakhlet Nouadhibou",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-09",
+    "name": "Tagant",
+    "nativeName": "Tagant",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-10",
+    "name": "Guidimaka",
+    "nativeName": "Guidimaka",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-11",
+    "name": "Tiris Zemmour",
+    "nativeName": "Tiris Zemmour",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-12",
+    "name": "Inchiri",
+    "nativeName": "Inchiri",
+    "type": "Region",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MR-NKC",
+    "name": "Nouakchott",
+    "nativeName": "Nouakchott",
+    "type": "Region",
+    "countryCode": "MR"
+  }
+]

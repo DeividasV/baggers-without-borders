@@ -1,0 +1,37 @@
+[
+  {
+    "code": "SL-E",
+    "name": "Eastern Province",
+    "nativeName": "Eastern Province",
+    "type": "Province",
+    "countryCode": "SL"
+  },
+  {
+    "code": "SL-N",
+    "name": "Northern Province",
+    "nativeName": "Northern Province",
+    "type": "Province",
+    "countryCode": "SL"
+  },
+  {
+    "code": "SL-NW",
+    "name": "North Western Province",
+    "nativeName": "North Western Province",
+    "type": "Province",
+    "countryCode": "SL"
+  },
+  {
+    "code": "SL-S",
+    "name": "Southern Province",
+    "nativeName": "Southern Province",
+    "type": "Province",
+    "countryCode": "SL"
+  },
+  {
+    "code": "SL-W",
+    "name": "Western Area",
+    "nativeName": "Western Area",
+    "type": "Province",
+    "countryCode": "SL"
+  }
+]

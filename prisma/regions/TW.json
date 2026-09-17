@@ -1,0 +1,156 @@
+[
+  {
+    "code": "TW-CHA",
+    "name": "Changhua County",
+    "nativeName": "彰化縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-CYI",
+    "name": "Chiayi City",
+    "nativeName": "嘉義市",
+    "type": "City",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-CYQ",
+    "name": "Chiayi County",
+    "nativeName": "嘉義縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-HSZ",
+    "name": "Hsinchu City",
+    "nativeName": "新竹市",
+    "type": "City",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-HSQ",
+    "name": "Hsinchu County",
+    "nativeName": "新竹縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-HUA",
+    "name": "Hualien County",
+    "nativeName": "花蓮縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-ILA",
+    "name": "Yilan County",
+    "nativeName": "宜蘭縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-KEE",
+    "name": "Keelung City",
+    "nativeName": "基隆市",
+    "type": "City",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-KHH",
+    "name": "Kaohsiung",
+    "nativeName": "高雄市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-KIN",
+    "name": "Kinmen County",
+    "nativeName": "金門縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-LIE",
+    "name": "Lienchiang County",
+    "nativeName": "連江縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-MIA",
+    "name": "Miaoli County",
+    "nativeName": "苗栗縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-NAN",
+    "name": "Nantou County",
+    "nativeName": "南投縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-NWT",
+    "name": "New Taipei",
+    "nativeName": "新北市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-PEN",
+    "name": "Penghu County",
+    "nativeName": "澎湖縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-PIF",
+    "name": "Pingtung County",
+    "nativeName": "屏東縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-TAO",
+    "name": "Taoyuan",
+    "nativeName": "桃園市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-TNN",
+    "name": "Tainan",
+    "nativeName": "臺南市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-TPE",
+    "name": "Taipei",
+    "nativeName": "臺北市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-TTT",
+    "name": "Taitung County",
+    "nativeName": "臺東縣",
+    "type": "County",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-TXG",
+    "name": "Taichung",
+    "nativeName": "臺中市",
+    "type": "Special Municipality",
+    "countryCode": "TW"
+  },
+  {
+    "code": "TW-YUN",
+    "name": "Yunlin County",
+    "nativeName": "雲林縣",
+    "type": "County",
+    "countryCode": "TW"
+  }
+]

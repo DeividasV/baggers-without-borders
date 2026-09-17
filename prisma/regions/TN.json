@@ -1,0 +1,170 @@
+[
+  {
+    "code": "TN-11",
+    "name": "Tunis",
+    "nativeName": "تونس",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-12",
+    "name": "Ariana",
+    "nativeName": "أريانة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-13",
+    "name": "Ben Arous",
+    "nativeName": "بن عروس",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-14",
+    "name": "Manouba",
+    "nativeName": "منوبة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-21",
+    "name": "Nabeul",
+    "nativeName": "نابل",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-22",
+    "name": "Zaghouan",
+    "nativeName": "زغوان",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-23",
+    "name": "Bizerte",
+    "nativeName": "بنزرت",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-31",
+    "name": "Béja",
+    "nativeName": "باجة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-32",
+    "name": "Jendouba",
+    "nativeName": "جندوبة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-33",
+    "name": "Kef",
+    "nativeName": "الكاف",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-34",
+    "name": "Siliana",
+    "nativeName": "سليانة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-41",
+    "name": "Kairouan",
+    "nativeName": "القيروان",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-42",
+    "name": "Kasserine",
+    "nativeName": "القصرين",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-43",
+    "name": "Sidi Bouzid",
+    "nativeName": "سيدي بوزيد",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-51",
+    "name": "Sousse",
+    "nativeName": "سوسة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-52",
+    "name": "Monastir",
+    "nativeName": "المنستير",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-53",
+    "name": "Mahdia",
+    "nativeName": "المهدية",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-61",
+    "name": "Sfax",
+    "nativeName": "صفاقس",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-71",
+    "name": "Gafsa",
+    "nativeName": "قفصة",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-72",
+    "name": "Tozeur",
+    "nativeName": "توزر",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-73",
+    "name": "Kebili",
+    "nativeName": "قبلي",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-81",
+    "name": "Gabès",
+    "nativeName": "قابس",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-82",
+    "name": "Medenine",
+    "nativeName": "مدنين",
+    "type": "Governorate",
+    "countryCode": "TN"
+  },
+  {
+    "code": "TN-83",
+    "name": "Tataouine",
+    "nativeName": "تطاوين",
+    "type": "Governorate",
+    "countryCode": "TN"
+  }
+]

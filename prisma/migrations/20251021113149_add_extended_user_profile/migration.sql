@@ -1,0 +1,22 @@
+-- AlterTable
+ALTER TABLE "users" ADD COLUMN "birthCountry" TEXT;
+ALTER TABLE "users" ADD COLUMN "bwbForumNickname" TEXT;
+ALTER TABLE "users" ADD COLUMN "email" TEXT;
+ALTER TABLE "users" ADD COLUMN "familyName" TEXT;
+ALTER TABLE "users" ADD COLUMN "forumJoinMonth" INTEGER;
+ALTER TABLE "users" ADD COLUMN "forumMemberCount" INTEGER DEFAULT 0;
+ALTER TABLE "users" ADD COLUMN "gender" TEXT;
+ALTER TABLE "users" ADD COLUMN "hillBaggingId" TEXT;
+ALTER TABLE "users" ADD COLUMN "infoRetentionConsent" DATETIME;
+ALTER TABLE "users" ADD COLUMN "is2024Participant" BOOLEAN DEFAULT false;
+ALTER TABLE "users" ADD COLUMN "isRegistered" BOOLEAN DEFAULT false;
+ALTER TABLE "users" ADD COLUMN "memberCount" INTEGER DEFAULT 0;
+ALTER TABLE "users" ADD COLUMN "pIndexConsent" DATETIME;
+ALTER TABLE "users" ADD COLUMN "peakbaggerAllAscents" BOOLEAN DEFAULT false;
+ALTER TABLE "users" ADD COLUMN "peakbaggerMember" TEXT;
+ALTER TABLE "users" ADD COLUMN "peakbaggerUrl" TEXT;
+ALTER TABLE "users" ADD COLUMN "personalName" TEXT;
+ALTER TABLE "users" ADD COLUMN "prHallConsent" DATETIME;
+ALTER TABLE "users" ADD COLUMN "publishTotalsConsent" DATETIME;
+ALTER TABLE "users" ADD COLUMN "residenceCountry" TEXT;
+ALTER TABLE "users" ADD COLUMN "yearOfBirth" INTEGER;

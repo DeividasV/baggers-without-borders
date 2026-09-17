@@ -1,0 +1,58 @@
+[
+  {
+    "code": "NE-1",
+    "name": "Agadez",
+    "nativeName": "Agadez",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-2",
+    "name": "Diffa",
+    "nativeName": "Diffa",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-3",
+    "name": "Dosso",
+    "nativeName": "Dosso",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-4",
+    "name": "Maradi",
+    "nativeName": "Maradi",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-5",
+    "name": "Tahoua",
+    "nativeName": "Tahoua",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-6",
+    "name": "Tillabéri",
+    "nativeName": "Tillabéri",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-7",
+    "name": "Zinder",
+    "nativeName": "Zinder",
+    "type": "Region",
+    "countryCode": "NE"
+  },
+  {
+    "code": "NE-8",
+    "name": "Niamey",
+    "nativeName": "Niamey",
+    "type": "Region",
+    "countryCode": "NE"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "KP-01",
+    "name": "Pyongyang",
+    "nativeName": "평양직할시",
+    "type": "Special City",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-02",
+    "name": "South Pyongan",
+    "nativeName": "평안남도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-03",
+    "name": "North Pyongan",
+    "nativeName": "평안북도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-04",
+    "name": "Chagang",
+    "nativeName": "자강도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-05",
+    "name": "South Hwanghae",
+    "nativeName": "황해남도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-06",
+    "name": "North Hwanghae",
+    "nativeName": "황해북도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-07",
+    "name": "Kangwon",
+    "nativeName": "강원도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-08",
+    "name": "South Hamgyong",
+    "nativeName": "함경남도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-09",
+    "name": "North Hamgyong",
+    "nativeName": "함경북도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-10",
+    "name": "Ryanggang",
+    "nativeName": "량강도",
+    "type": "Province",
+    "countryCode": "KP"
+  },
+  {
+    "code": "KP-13",
+    "name": "Rason",
+    "nativeName": "라선특별시",
+    "type": "Special City",
+    "countryCode": "KP"
+  }
+]

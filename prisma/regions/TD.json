@@ -1,0 +1,163 @@
+[
+  {
+    "code": "TD-BA",
+    "name": "Batha",
+    "nativeName": "Batha",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-BG",
+    "name": "Borkou",
+    "nativeName": "Borkou",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-BO",
+    "name": "Bahr el Gazel",
+    "nativeName": "Bahr el Gazel",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-CB",
+    "name": "Chari-Baguirmi",
+    "nativeName": "Chari-Baguirmi",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-EE",
+    "name": "Ennedi-Est",
+    "nativeName": "Ennedi-Est",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-EO",
+    "name": "Ennedi-Ouest",
+    "nativeName": "Ennedi-Ouest",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-GR",
+    "name": "Guéra",
+    "nativeName": "Guéra",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-HL",
+    "name": "Hadjer-Lamis",
+    "nativeName": "Hadjer-Lamis",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-KA",
+    "name": "Kanem",
+    "nativeName": "Kanem",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-LC",
+    "name": "Lac",
+    "nativeName": "Lac",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-LO",
+    "name": "Logone Occidental",
+    "nativeName": "Logone Occidental",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-LR",
+    "name": "Logone Oriental",
+    "nativeName": "Logone Oriental",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-MA",
+    "name": "Mandoul",
+    "nativeName": "Mandoul",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-MC",
+    "name": "Moyen-Chari",
+    "nativeName": "Moyen-Chari",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-ME",
+    "name": "Mayo-Kebbi Est",
+    "nativeName": "Mayo-Kebbi Est",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-MO",
+    "name": "Mayo-Kebbi Ouest",
+    "nativeName": "Mayo-Kebbi Ouest",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-ND",
+    "name": "N'Djamena",
+    "nativeName": "N'Djamena",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-OD",
+    "name": "Ouaddaï",
+    "nativeName": "Ouaddaï",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-SA",
+    "name": "Salamat",
+    "nativeName": "Salamat",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-SI",
+    "name": "Sila",
+    "nativeName": "Sila",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-TA",
+    "name": "Tandjilé",
+    "nativeName": "Tandjilé",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-TI",
+    "name": "Tibesti",
+    "nativeName": "Tibesti",
+    "type": "Region",
+    "countryCode": "TD"
+  },
+  {
+    "code": "TD-WF",
+    "name": "Wadi Fira",
+    "nativeName": "Wadi Fira",
+    "type": "Region",
+    "countryCode": "TD"
+  }
+]

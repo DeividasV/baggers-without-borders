@@ -1,0 +1,58 @@
+[
+  {
+    "code": "GN-B",
+    "name": "Boké",
+    "nativeName": "Boké",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-C",
+    "name": "Conakry",
+    "nativeName": "Conakry",
+    "type": "Governorate",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-D",
+    "name": "Kindia",
+    "nativeName": "Kindia",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-F",
+    "name": "Faranah",
+    "nativeName": "Faranah",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-K",
+    "name": "Kankan",
+    "nativeName": "Kankan",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-L",
+    "name": "Labé",
+    "nativeName": "Labé",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-M",
+    "name": "Mamou",
+    "nativeName": "Mamou",
+    "type": "Region",
+    "countryCode": "GN"
+  },
+  {
+    "code": "GN-N",
+    "name": "Nzérékoré",
+    "nativeName": "Nzérékoré",
+    "type": "Region",
+    "countryCode": "GN"
+  }
+]

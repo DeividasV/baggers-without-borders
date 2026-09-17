@@ -1,0 +1,58 @@
+[
+  {
+    "code": "BD-A",
+    "name": "Barisal",
+    "nativeName": "বরিশাল",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-B",
+    "name": "Chittagong",
+    "nativeName": "চট্টগ্রাম",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-C",
+    "name": "Dhaka",
+    "nativeName": "ঢাকা",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-D",
+    "name": "Khulna",
+    "nativeName": "খুলনা",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-E",
+    "name": "Rajshahi",
+    "nativeName": "রাজশাহী",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-F",
+    "name": "Rangpur",
+    "nativeName": "রংপুর",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-G",
+    "name": "Sylhet",
+    "nativeName": "সিলেট",
+    "type": "Division",
+    "countryCode": "BD"
+  },
+  {
+    "code": "BD-H",
+    "name": "Mymensingh",
+    "nativeName": "ময়মনসিংহ",
+    "type": "Division",
+    "countryCode": "BD"
+  }
+]

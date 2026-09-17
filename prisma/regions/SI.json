@@ -1,0 +1,86 @@
+[
+  {
+    "code": "SI-001",
+    "name": "Ajdovščina",
+    "nativeName": "Ajdovščina",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-213",
+    "name": "Ankaran",
+    "nativeName": "Ankaran",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-195",
+    "name": "Apače",
+    "nativeName": "Apače",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-002",
+    "name": "Beltinci",
+    "nativeName": "Beltinci",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-148",
+    "name": "Benedikt",
+    "nativeName": "Benedikt",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-149",
+    "name": "Bistrica ob Sotli",
+    "nativeName": "Bistrica ob Sotli",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-003",
+    "name": "Bled",
+    "nativeName": "Bled",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-150",
+    "name": "Bloke",
+    "nativeName": "Bloke",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-004",
+    "name": "Bohinj",
+    "nativeName": "Bohinj",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-005",
+    "name": "Borovnica",
+    "nativeName": "Borovnica",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-006",
+    "name": "Bovec",
+    "nativeName": "Bovec",
+    "type": "Municipality",
+    "countryCode": "SI"
+  },
+  {
+    "code": "SI-151",
+    "name": "Braslovče",
+    "nativeName": "Braslovče",
+    "type": "Municipality",
+    "countryCode": "SI"
+  }
+]

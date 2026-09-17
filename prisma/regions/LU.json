@@ -1,0 +1,86 @@
+[
+  {
+    "code": "LU-CA",
+    "name": "Capellen",
+    "nativeName": "Capellen",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-CL",
+    "name": "Clervaux",
+    "nativeName": "Clervaux",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-DI",
+    "name": "Diekirch",
+    "nativeName": "Diekirch",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-EC",
+    "name": "Echternach",
+    "nativeName": "Echternach",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-ES",
+    "name": "Esch-sur-Alzette",
+    "nativeName": "Esch-sur-Alzette",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-GR",
+    "name": "Grevenmacher",
+    "nativeName": "Grevenmacher",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-LU",
+    "name": "Luxembourg",
+    "nativeName": "Luxembourg",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-ME",
+    "name": "Mersch",
+    "nativeName": "Mersch",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-RD",
+    "name": "Redange",
+    "nativeName": "Redange",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-RM",
+    "name": "Remich",
+    "nativeName": "Remich",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-VD",
+    "name": "Vianden",
+    "nativeName": "Vianden",
+    "type": "Canton",
+    "countryCode": "LU"
+  },
+  {
+    "code": "LU-WI",
+    "name": "Wiltz",
+    "nativeName": "Wiltz",
+    "type": "Canton",
+    "countryCode": "LU"
+  }
+]

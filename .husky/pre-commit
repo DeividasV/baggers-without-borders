@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+
+npx lint-staged
+
+# Block commits that introduce real credentials. See scripts/security/scan-secrets.js
+node scripts/security/scan-secrets.js --quiet || {
+  echo ""
+  echo "Commit blocked: the secret scan found credential material in tracked files."
+  echo "Remove the value and rotate the credential before committing."
+  exit 1
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "AZ-ABS",
+    "name": "Absheron",
+    "nativeName": "Abşeron",
+    "type": "District",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-BA",
+    "name": "Baku",
+    "nativeName": "Bakı",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-GAD",
+    "name": "Ganja",
+    "nativeName": "Gəncə",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-LA",
+    "name": "Lankaran",
+    "nativeName": "Lənkəran",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-MI",
+    "name": "Mingachevir",
+    "nativeName": "Mingəçevir",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-NA",
+    "name": "Nakhchivan",
+    "nativeName": "Naxçıvan",
+    "type": "Autonomous Republic",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-NV",
+    "name": "Naftalan",
+    "nativeName": "Naftalan",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-SA",
+    "name": "Shaki",
+    "nativeName": "Şəki",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-SM",
+    "name": "Sumqayit",
+    "nativeName": "Sumqayıt",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-SR",
+    "name": "Shirvan",
+    "nativeName": "Şirvan",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-XA",
+    "name": "Khankendi",
+    "nativeName": "Xankəndi",
+    "type": "City",
+    "countryCode": "AZ"
+  },
+  {
+    "code": "AZ-YE",
+    "name": "Yevlakh",
+    "nativeName": "Yevlax",
+    "type": "City",
+    "countryCode": "AZ"
+  }
+]

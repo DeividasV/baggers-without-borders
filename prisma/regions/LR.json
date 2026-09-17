@@ -1,0 +1,107 @@
+[
+  {
+    "code": "LR-BG",
+    "name": "Bong",
+    "nativeName": "Bong",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-BM",
+    "name": "Bomi",
+    "nativeName": "Bomi",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-CM",
+    "name": "Grand Cape Mount",
+    "nativeName": "Grand Cape Mount",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-GB",
+    "name": "Grand Bassa",
+    "nativeName": "Grand Bassa",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-GG",
+    "name": "Grand Gedeh",
+    "nativeName": "Grand Gedeh",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-GK",
+    "name": "Grand Kru",
+    "nativeName": "Grand Kru",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-GP",
+    "name": "Gbarpolu",
+    "nativeName": "Gbarpolu",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-LO",
+    "name": "Lofa",
+    "nativeName": "Lofa",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-MG",
+    "name": "Margibi",
+    "nativeName": "Margibi",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-MO",
+    "name": "Montserrado",
+    "nativeName": "Montserrado",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-MY",
+    "name": "Maryland",
+    "nativeName": "Maryland",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-NI",
+    "name": "Nimba",
+    "nativeName": "Nimba",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-RG",
+    "name": "River Gee",
+    "nativeName": "River Gee",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-RI",
+    "name": "Rivercess",
+    "nativeName": "Rivercess",
+    "type": "County",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LR-SI",
+    "name": "Sinoe",
+    "nativeName": "Sinoe",
+    "type": "County",
+    "countryCode": "LR"
+  }
+]

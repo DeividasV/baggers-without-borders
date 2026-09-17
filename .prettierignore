@@ -1,0 +1,10 @@
+coverage
+.next
+node_modules
+dist
+build
+out
+package-lock.json
+data/test-results
+public/uploads
+backups

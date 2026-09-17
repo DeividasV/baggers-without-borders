@@ -1,0 +1,23 @@
+[
+  {
+    "code": "BE-BRU",
+    "name": "Brussels",
+    "nativeName": "Bruxelles-Brussel",
+    "type": "Region",
+    "countryCode": "BE"
+  },
+  {
+    "code": "BE-VLG",
+    "name": "Flanders",
+    "nativeName": "Vlaanderen",
+    "type": "Region",
+    "countryCode": "BE"
+  },
+  {
+    "code": "BE-WAL",
+    "name": "Wallonia",
+    "nativeName": "Wallonie",
+    "type": "Region",
+    "countryCode": "BE"
+  }
+]

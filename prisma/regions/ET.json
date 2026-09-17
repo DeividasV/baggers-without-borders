@@ -1,0 +1,86 @@
+[
+  {
+    "code": "ET-AA",
+    "name": "Addis Ababa",
+    "nativeName": "አዲስ አበባ",
+    "type": "Chartered City",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-AF",
+    "name": "Afar",
+    "nativeName": "ዓፋር",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-AM",
+    "name": "Amhara",
+    "nativeName": "አማራ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-BE",
+    "name": "Benishangul-Gumuz",
+    "nativeName": "ቤንሻንጉል ጉሙዝ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-DD",
+    "name": "Dire Dawa",
+    "nativeName": "ድሬ ዳዋ",
+    "type": "Chartered City",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-GA",
+    "name": "Gambela",
+    "nativeName": "ጋምቤላ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-HA",
+    "name": "Harari",
+    "nativeName": "ሐረሪ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-OR",
+    "name": "Oromia",
+    "nativeName": "ኦሮሚያ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-SI",
+    "name": "Sidama",
+    "nativeName": "ሲዳማ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-SN",
+    "name": "Southern Nations, Nationalities, and Peoples",
+    "nativeName": "የደቡብ ብሔሮች",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-SO",
+    "name": "Somali",
+    "nativeName": "ሱማሌ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ET-TI",
+    "name": "Tigray",
+    "nativeName": "ትግራይ",
+    "type": "Regional State",
+    "countryCode": "ET"
+  }
+]

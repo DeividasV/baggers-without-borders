@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with dark olive -->
+  <circle cx="256" cy="256" r="256" fill="#1e2014"/>
+  
+  <!-- Mountain shape - left peak higher, right slope lower for better hierarchy -->
+  <path d="M40 420L140 100L256 200L372 130L472 420H40Z" fill="#808a52" stroke="#9ca56e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M120 420L256 180L392 420H120Z" fill="#9ca56e"/>
+  
+  <!-- Dot indicator - even bigger with mountain-themed colors -->
+  <circle cx="420" cy="350" r="48" fill="#6b7548" stroke="#9ca56e" stroke-width="3" opacity="0.9"/>
+</svg>

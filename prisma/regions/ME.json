@@ -1,0 +1,163 @@
+[
+  {
+    "code": "ME-01",
+    "name": "Andrijevica",
+    "nativeName": "Andrijevica",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-02",
+    "name": "Bar",
+    "nativeName": "Bar",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-03",
+    "name": "Berane",
+    "nativeName": "Berane",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-04",
+    "name": "Bijelo Polje",
+    "nativeName": "Bijelo Polje",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-05",
+    "name": "Budva",
+    "nativeName": "Budva",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-06",
+    "name": "Cetinje",
+    "nativeName": "Cetinje",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-07",
+    "name": "Danilovgrad",
+    "nativeName": "Danilovgrad",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-22",
+    "name": "Gusinje",
+    "nativeName": "Gusinje",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-08",
+    "name": "Herceg Novi",
+    "nativeName": "Herceg Novi",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-09",
+    "name": "Kolašin",
+    "nativeName": "Kolašin",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-10",
+    "name": "Kotor",
+    "nativeName": "Kotor",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-11",
+    "name": "Mojkovac",
+    "nativeName": "Mojkovac",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-12",
+    "name": "Nikšić",
+    "nativeName": "Nikšić",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-23",
+    "name": "Petnjica",
+    "nativeName": "Petnjica",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-13",
+    "name": "Plav",
+    "nativeName": "Plav",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-14",
+    "name": "Pljevlja",
+    "nativeName": "Pljevlja",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-15",
+    "name": "Plužine",
+    "nativeName": "Plužine",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-16",
+    "name": "Podgorica",
+    "nativeName": "Podgorica",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-17",
+    "name": "Rožaje",
+    "nativeName": "Rožaje",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-18",
+    "name": "Šavnik",
+    "nativeName": "Šavnik",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-19",
+    "name": "Tivat",
+    "nativeName": "Tivat",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-20",
+    "name": "Ulcinj",
+    "nativeName": "Ulcinj",
+    "type": "Municipality",
+    "countryCode": "ME"
+  },
+  {
+    "code": "ME-21",
+    "name": "Žabljak",
+    "nativeName": "Žabljak",
+    "type": "Municipality",
+    "countryCode": "ME"
+  }
+]
